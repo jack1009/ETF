@@ -1,0 +1,20 @@
+{
+  "code": "00707R",
+  "name": "期元大S&P日圓反1",
+  "full_name": "元大標普金日傘型期貨信託基金之元大標普日圓ER單日反向1倍指數股票型期貨信託基金",
+  "category": "槓桿反向",
+  "fund_type": "槓桿/反向指數股票型基金",
+  "listed_on": "2017-09-01",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": null,
+  "low": null,
+  "high": null,
+  "close": null,
+  "change": 0.0,
+  "volume_shares": null,
+  "turnover": null,
+  "transactions": null,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

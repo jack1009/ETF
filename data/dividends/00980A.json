@@ -1,0 +1,68 @@
+{
+  "code": "00980A",
+  "name": "主動野村臺灣優選",
+  "frequency": "季配",
+  "distributions": [
+    {
+      "code": "00980A",
+      "name": "主動野村臺灣優選",
+      "ex_date": "2026-11-17",
+      "record_date": "2026-11-23",
+      "pay_date": "2026-12-11",
+      "cash_per_unit": 0.688,
+      "announce_year": 2026
+    },
+    {
+      "code": "00980A",
+      "name": "主動野村臺灣優選",
+      "ex_date": "2026-08-18",
+      "record_date": "2026-08-24",
+      "pay_date": "2026-09-11",
+      "cash_per_unit": 0.638,
+      "announce_year": 2026
+    },
+    {
+      "code": "00980A",
+      "name": "主動野村臺灣優選",
+      "ex_date": "2026-05-19",
+      "record_date": "2026-05-25",
+      "pay_date": "2026-06-12",
+      "cash_per_unit": 0.48,
+      "announce_year": 2026
+    },
+    {
+      "code": "00980A",
+      "name": "主動野村臺灣優選",
+      "ex_date": "2026-02-26",
+      "record_date": "2026-03-07",
+      "pay_date": "2026-03-26",
+      "cash_per_unit": 0.368,
+      "announce_year": 2026
+    },
+    {
+      "code": "00980A",
+      "name": "主動野村臺灣優選",
+      "ex_date": "2025-11-18",
+      "record_date": "2025-11-24",
+      "pay_date": "2025-12-12",
+      "cash_per_unit": 0.328,
+      "announce_year": 2025
+    }
+  ],
+  "annual": [
+    {
+      "year": 2025,
+      "cash_per_unit": 0.328,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 2.174,
+      "payments": 4,
+      "frequency": "季配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

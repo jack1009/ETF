@@ -1,0 +1,20 @@
+{
+  "code": "00661",
+  "name": "元大日經225",
+  "full_name": "元大已開發國家傘型證券投資信託基金之元大日經225證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2016-06-15",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 77.15,
+  "low": 76.3,
+  "high": 77.2,
+  "close": 76.75,
+  "change": 0.1,
+  "volume_shares": 119808.0,
+  "turnover": 9197742.0,
+  "transactions": 168.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

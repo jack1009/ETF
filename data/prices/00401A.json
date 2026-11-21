@@ -1,0 +1,20 @@
+{
+  "code": "00401A",
+  "name": "主動摩根台灣鑫收",
+  "full_name": "摩根台灣鑫收益主動式ETF證券投資信託基金",
+  "category": "主動股票",
+  "fund_type": "國內成分證券主動式交易所交易基金(股票)",
+  "listed_on": "2026-04-10",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 11.48,
+  "low": 10.82,
+  "high": 11.5,
+  "close": 10.84,
+  "change": -0.63,
+  "volume_shares": 16623519.0,
+  "turnover": 183918639.0,
+  "transactions": 3180.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

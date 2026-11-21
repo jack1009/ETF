@@ -1,0 +1,20 @@
+{
+  "code": "00671R",
+  "name": "富邦NASDAQ反1",
+  "full_name": "富邦NASDAQ-100 ETF傘型證券投資信託基金之富邦NASDAQ-100 單日反向一倍證券投資信託基金",
+  "category": "槓桿反向",
+  "fund_type": "槓桿/反向指數股票型基金",
+  "listed_on": "2017-02-21",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 2.59,
+  "low": 2.59,
+  "high": 2.62,
+  "close": 2.61,
+  "change": 0.0,
+  "volume_shares": 4505250.0,
+  "turnover": 11755332.0,
+  "transactions": 255.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

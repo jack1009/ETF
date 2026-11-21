@@ -1,0 +1,20 @@
+{
+  "code": "00927",
+  "name": "群益半導體收益",
+  "full_name": "群益台灣半導體收益ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2023-06-06",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 29.51,
+  "low": 27.82,
+  "high": 29.79,
+  "close": 27.87,
+  "change": -1.71,
+  "volume_shares": 33280855.0,
+  "turnover": 945755595.0,
+  "transactions": 17969.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

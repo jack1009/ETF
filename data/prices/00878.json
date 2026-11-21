@@ -1,0 +1,20 @@
+{
+  "code": "00878",
+  "name": "國泰永續高股息",
+  "full_name": "國泰台灣高股息傘型證券投資信託基金之台灣ESG永續高股息ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2020-07-20",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 30.55,
+  "low": 29.7,
+  "high": 30.73,
+  "close": 29.78,
+  "change": -0.87,
+  "volume_shares": 100256921.0,
+  "turnover": 3012715537.0,
+  "transactions": 91697.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

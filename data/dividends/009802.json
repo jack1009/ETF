@@ -1,0 +1,68 @@
+{
+  "code": "009802",
+  "name": "富邦旗艦50",
+  "frequency": "不定期",
+  "distributions": [
+    {
+      "code": "009802",
+      "name": "富邦旗艦50",
+      "ex_date": "2026-09-16",
+      "record_date": "2026-09-22",
+      "pay_date": "2026-10-14",
+      "cash_per_unit": 0.189,
+      "announce_year": 2026
+    },
+    {
+      "code": "009802",
+      "name": "富邦旗艦50",
+      "ex_date": "2026-06-16",
+      "record_date": "2026-06-22",
+      "pay_date": "2026-07-09",
+      "cash_per_unit": 0.198,
+      "announce_year": 2026
+    },
+    {
+      "code": "009802",
+      "name": "富邦旗艦50",
+      "ex_date": "2026-03-17",
+      "record_date": "2026-03-23",
+      "pay_date": "2026-04-13",
+      "cash_per_unit": 0.092,
+      "announce_year": 2026
+    },
+    {
+      "code": "009802",
+      "name": "富邦旗艦50",
+      "ex_date": "2025-12-16",
+      "record_date": "2025-12-22",
+      "pay_date": "2026-01-12",
+      "cash_per_unit": 0.092,
+      "announce_year": 2025
+    },
+    {
+      "code": "009802",
+      "name": "富邦旗艦50",
+      "ex_date": "2025-09-16",
+      "record_date": "2025-09-22",
+      "pay_date": "2025-10-14",
+      "cash_per_unit": 0.106,
+      "announce_year": 2025
+    }
+  ],
+  "annual": [
+    {
+      "year": 2025,
+      "cash_per_unit": 0.198,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 0.479,
+      "payments": 3,
+      "frequency": "不定期"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

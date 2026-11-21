@@ -1,0 +1,20 @@
+{
+  "code": "00635U",
+  "name": "期元大S&P黃金",
+  "full_name": "元大標普高盛黃金ER指數股票型期貨信託基金",
+  "category": "期貨",
+  "fund_type": "指數股票型期貨信託基金",
+  "listed_on": "2015-04-15",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 38.5,
+  "low": 37.89,
+  "high": 38.52,
+  "close": 38.25,
+  "change": -0.63,
+  "volume_shares": 4317404.0,
+  "turnover": 165168209.0,
+  "transactions": 3265.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

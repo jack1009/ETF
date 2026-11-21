@@ -1,0 +1,35 @@
+{
+  "code": "00992A",
+  "name": "主動群益科技創新",
+  "frequency": "半年配",
+  "distributions": [
+    {
+      "code": "00992A",
+      "name": "主動群益科技創新",
+      "ex_date": "2026-10-19",
+      "record_date": "2026-10-25",
+      "pay_date": "2026-11-13",
+      "cash_per_unit": 0.85,
+      "announce_year": 2026
+    },
+    {
+      "code": "00992A",
+      "name": "主動群益科技創新",
+      "ex_date": "2026-07-16",
+      "record_date": "2026-07-22",
+      "pay_date": "2026-08-11",
+      "cash_per_unit": 0.47,
+      "announce_year": 2026
+    }
+  ],
+  "annual": [
+    {
+      "year": 2026,
+      "cash_per_unit": 1.32,
+      "payments": 2,
+      "frequency": "半年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

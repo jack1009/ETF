@@ -1,0 +1,227 @@
+{
+  "code": "00943",
+  "name": "兆豐電子高息等權",
+  "frequency": "月配",
+  "distributions": [
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2026-11-17",
+      "record_date": "2026-11-23",
+      "pay_date": "2026-12-04",
+      "cash_per_unit": 0.35,
+      "announce_year": 2026
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2026-10-19",
+      "record_date": "2026-10-25",
+      "pay_date": "2026-11-06",
+      "cash_per_unit": 0.36,
+      "announce_year": 2026
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2026-09-16",
+      "record_date": "2026-09-22",
+      "pay_date": "2026-10-07",
+      "cash_per_unit": 0.25,
+      "announce_year": 2026
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2026-08-18",
+      "record_date": "2026-08-24",
+      "pay_date": "2026-09-04",
+      "cash_per_unit": 0.12,
+      "announce_year": 2026
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2026-07-16",
+      "record_date": "2026-07-24",
+      "pay_date": "2026-08-04",
+      "cash_per_unit": 0.12,
+      "announce_year": 2026
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2026-06-16",
+      "record_date": "2026-06-22",
+      "pay_date": "2026-07-06",
+      "cash_per_unit": 0.12,
+      "announce_year": 2026
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2026-05-19",
+      "record_date": "2026-05-25",
+      "pay_date": "2026-06-05",
+      "cash_per_unit": 0.09,
+      "announce_year": 2026
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2026-04-20",
+      "record_date": "2026-04-26",
+      "pay_date": "2026-05-08",
+      "cash_per_unit": 0.071,
+      "announce_year": 2026
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2026-03-17",
+      "record_date": "2026-03-23",
+      "pay_date": "2026-04-07",
+      "cash_per_unit": 0.072,
+      "announce_year": 2026
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2026-02-26",
+      "record_date": "2026-03-07",
+      "pay_date": "2026-03-18",
+      "cash_per_unit": 0.07,
+      "announce_year": 2026
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2026-01-19",
+      "record_date": "2026-01-25",
+      "pay_date": "2026-02-05",
+      "cash_per_unit": 0.065,
+      "announce_year": 2026
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2025-12-16",
+      "record_date": "2025-12-22",
+      "pay_date": "2026-01-05",
+      "cash_per_unit": 0.066,
+      "announce_year": 2025
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2025-11-18",
+      "record_date": "2025-11-24",
+      "pay_date": "2025-12-05",
+      "cash_per_unit": 0.07,
+      "announce_year": 2025
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2025-10-20",
+      "record_date": "2025-10-26",
+      "pay_date": "2025-11-06",
+      "cash_per_unit": 0.069,
+      "announce_year": 2025
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2025-09-16",
+      "record_date": "2025-09-22",
+      "pay_date": "2025-10-03",
+      "cash_per_unit": 0.068,
+      "announce_year": 2025
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2025-08-18",
+      "record_date": "2025-08-24",
+      "pay_date": "2025-09-04",
+      "cash_per_unit": 0.06,
+      "announce_year": 2025
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2025-07-16",
+      "record_date": "2025-07-22",
+      "pay_date": "2025-08-04",
+      "cash_per_unit": 0.052,
+      "announce_year": 2025
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2025-01-17",
+      "record_date": "2025-01-25",
+      "pay_date": "2025-02-14",
+      "cash_per_unit": 0.018,
+      "announce_year": 2025
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2024-12-17",
+      "record_date": "2024-12-23",
+      "pay_date": "2025-01-06",
+      "cash_per_unit": 0.025,
+      "announce_year": 2024
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2024-11-19",
+      "record_date": "2024-11-25",
+      "pay_date": "2024-12-06",
+      "cash_per_unit": 0.15,
+      "announce_year": 2024
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2024-10-17",
+      "record_date": "2024-10-25",
+      "pay_date": "2024-11-05",
+      "cash_per_unit": 0.15,
+      "announce_year": 2024
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "ex_date": "2024-09-18",
+      "record_date": "2024-09-24",
+      "pay_date": "2024-10-07",
+      "cash_per_unit": 0.15,
+      "announce_year": 2024
+    }
+  ],
+  "annual": [
+    {
+      "year": 2024,
+      "cash_per_unit": 0.475,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 0.403,
+      "payments": 7,
+      "frequency": "不定期"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 1.688,
+      "payments": 11,
+      "frequency": "月配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

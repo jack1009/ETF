@@ -1,0 +1,20 @@
+{
+  "code": "00953B",
+  "name": "群益優選非投等債",
+  "full_name": "群益優選收益非投資等級債券ETF證券投資信託基金",
+  "category": "債券",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2024-08-21",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 9.65,
+  "low": 9.63,
+  "high": 9.67,
+  "close": 9.64,
+  "change": 0.0,
+  "volume_shares": 28618228.0,
+  "turnover": 276136003.0,
+  "transactions": 6281.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

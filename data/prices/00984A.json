@@ -1,0 +1,20 @@
+{
+  "code": "00984A",
+  "name": "主動安聯台灣高息",
+  "full_name": "安聯台灣高息成長主動式ETF證券投資信託基金",
+  "category": "主動股票",
+  "fund_type": "國內成分證券主動式交易所交易基金(股票)",
+  "listed_on": "2025-07-14",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 12.32,
+  "low": 11.61,
+  "high": 12.35,
+  "close": 11.65,
+  "change": -0.86,
+  "volume_shares": 13359621.0,
+  "turnover": 158084600.0,
+  "transactions": 4625.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

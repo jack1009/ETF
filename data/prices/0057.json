@@ -1,0 +1,20 @@
+{
+  "code": "0057",
+  "name": "富邦摩台",
+  "full_name": "富邦台灣ETF傘型證券投資信託基金之富邦台灣摩根指數股票型證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2008-02-27",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 275.35,
+  "low": 267.45,
+  "high": 276.5,
+  "close": 267.45,
+  "change": -11.55,
+  "volume_shares": 117219.0,
+  "turnover": 31929615.0,
+  "transactions": 218.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

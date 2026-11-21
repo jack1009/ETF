@@ -1,0 +1,20 @@
+{
+  "code": "00410A",
+  "name": "主動永豐科技趨勢",
+  "full_name": "永豐台灣科技趨勢主動式ETF證券投資信託基金",
+  "category": "主動股票",
+  "fund_type": "國內成分證券主動式交易所交易基金(股票)",
+  "listed_on": "2026-08-03",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 9.34,
+  "low": 8.72,
+  "high": 9.35,
+  "close": 8.74,
+  "change": -0.72,
+  "volume_shares": 5048824.0,
+  "turnover": 44920310.0,
+  "transactions": 1460.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

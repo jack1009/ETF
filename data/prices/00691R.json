@@ -1,0 +1,20 @@
+{
+  "code": "00691R",
+  "name": "兆豐藍籌反一",
+  "full_name": "兆豐國際臺灣藍籌30ETF傘型證券投資信託基金之兆豐國際臺灣藍籌30單日反向一倍ETF證券投資信託基金",
+  "category": "槓桿反向",
+  "fund_type": "槓桿/反向指數股票型基金",
+  "listed_on": "2017-03-31",
+  "market": "TWSE",
+  "date": null,
+  "open": null,
+  "low": null,
+  "high": null,
+  "close": null,
+  "change": null,
+  "volume_shares": null,
+  "turnover": null,
+  "transactions": null,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

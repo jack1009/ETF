@@ -1,0 +1,20 @@
+{
+  "code": "009800",
+  "name": "中信NASDAQ",
+  "full_name": "中國信託美國傘型證券投資信託基金之中國信託NASDAQ 100 ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2025-02-11",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 12.56,
+  "low": 12.47,
+  "high": 12.58,
+  "close": 12.55,
+  "change": 0.1,
+  "volume_shares": 1574349.0,
+  "turnover": 19726935.0,
+  "transactions": 519.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

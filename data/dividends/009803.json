@@ -1,0 +1,68 @@
+{
+  "code": "009803",
+  "name": "玉山市值動能50",
+  "frequency": "不定期",
+  "distributions": [
+    {
+      "code": "009803",
+      "name": "玉山市值動能50",
+      "ex_date": "2026-09-15",
+      "record_date": "2026-09-21",
+      "pay_date": "2026-10-12",
+      "cash_per_unit": 0.9,
+      "announce_year": 2026
+    },
+    {
+      "code": "009803",
+      "name": "玉山市值動能50",
+      "ex_date": "2026-06-15",
+      "record_date": "2026-06-21",
+      "pay_date": "2026-07-07",
+      "cash_per_unit": 0.5,
+      "announce_year": 2026
+    },
+    {
+      "code": "009803",
+      "name": "保德信市值動能50",
+      "ex_date": "2026-03-17",
+      "record_date": "2026-03-23",
+      "pay_date": "2026-04-09",
+      "cash_per_unit": 0.25,
+      "announce_year": 2026
+    },
+    {
+      "code": "009803",
+      "name": "保德信市值動能50",
+      "ex_date": "2025-12-17",
+      "record_date": "2025-12-23",
+      "pay_date": "2026-01-09",
+      "cash_per_unit": 0.22,
+      "announce_year": 2025
+    },
+    {
+      "code": "009803",
+      "name": "保德信市值動能50",
+      "ex_date": "2025-09-16",
+      "record_date": "2025-09-22",
+      "pay_date": "2025-10-09",
+      "cash_per_unit": 0.19,
+      "announce_year": 2025
+    }
+  ],
+  "annual": [
+    {
+      "year": 2025,
+      "cash_per_unit": 0.41,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 1.65,
+      "payments": 3,
+      "frequency": "不定期"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

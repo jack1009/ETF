@@ -1,0 +1,20 @@
+{
+  "code": "009810",
+  "name": "玉山全球藍籌100",
+  "full_name": "玉山全球跨國藍籌100 ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2025-07-16",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 20.91,
+  "low": 20.81,
+  "high": 20.91,
+  "close": 20.83,
+  "change": 0.01,
+  "volume_shares": 94961.0,
+  "turnover": 1979470.0,
+  "transactions": 38.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

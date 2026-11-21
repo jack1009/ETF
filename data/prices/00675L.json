@@ -1,0 +1,20 @@
+{
+  "code": "00675L",
+  "name": "富邦臺灣加權正2",
+  "full_name": "富邦臺灣加權ETF傘型證券投資信託基金之富邦臺灣加權單日正向兩倍證券投資信託基金",
+  "category": "槓桿反向",
+  "fund_type": "槓桿/反向指數股票型基金",
+  "listed_on": "2016-10-05",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 228.3,
+  "low": 207.55,
+  "high": 231.6,
+  "close": 209.65,
+  "change": -19.5,
+  "volume_shares": 4144118.0,
+  "turnover": 893612987.0,
+  "transactions": 3999.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

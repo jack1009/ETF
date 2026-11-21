@@ -1,0 +1,86 @@
+{
+  "code": "00901",
+  "name": "永豐智能車供應鏈",
+  "frequency": "年配",
+  "distributions": [
+    {
+      "code": "00901",
+      "name": "永豐智能車供應鏈",
+      "ex_date": "2026-11-24",
+      "record_date": "2026-11-30",
+      "pay_date": "2026-12-18",
+      "cash_per_unit": 7.0,
+      "announce_year": 2026
+    },
+    {
+      "code": "00901",
+      "name": "永豐智能車供應鏈",
+      "ex_date": "2025-11-25",
+      "record_date": "2025-12-01",
+      "pay_date": "2025-12-19",
+      "cash_per_unit": 2.6,
+      "announce_year": 2025
+    },
+    {
+      "code": "00901",
+      "name": "永豐智能車供應鏈",
+      "ex_date": "2024-11-26",
+      "record_date": "2024-12-02",
+      "pay_date": "2024-12-20",
+      "cash_per_unit": 0.9,
+      "announce_year": 2024
+    },
+    {
+      "code": "00901",
+      "name": "永豐智能車供應鏈",
+      "ex_date": "2023-11-16",
+      "record_date": "2023-11-22",
+      "pay_date": "2023-12-13",
+      "cash_per_unit": 0.628,
+      "announce_year": 2023
+    },
+    {
+      "code": "00901",
+      "name": "永豐智能車供應鏈",
+      "ex_date": "2022-11-16",
+      "record_date": "2022-11-22",
+      "pay_date": "2022-12-19",
+      "cash_per_unit": 0.543,
+      "announce_year": 2022
+    }
+  ],
+  "annual": [
+    {
+      "year": 2022,
+      "cash_per_unit": 0.543,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2023,
+      "cash_per_unit": 0.628,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 0.9,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 2.6,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 7.0,
+      "payments": 1,
+      "frequency": "年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

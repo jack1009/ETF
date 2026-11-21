@@ -1,0 +1,20 @@
+{
+  "code": "00932",
+  "name": "兆豐永續高息等權",
+  "full_name": "兆豐台灣ESG永續高股息等權重ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2023-09-01",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 15.47,
+  "low": 15.09,
+  "high": 15.57,
+  "close": 15.1,
+  "change": -0.37,
+  "volume_shares": 398130.0,
+  "turnover": 6109539.0,
+  "transactions": 286.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

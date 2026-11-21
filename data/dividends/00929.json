@@ -1,0 +1,404 @@
+{
+  "code": "00929",
+  "name": "復華台灣科技優息",
+  "frequency": "月配",
+  "distributions": [
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2026-11-18",
+      "record_date": "2026-11-24",
+      "pay_date": "2026-12-14",
+      "cash_per_unit": 0.38,
+      "announce_year": 2026
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2026-10-21",
+      "record_date": "2026-10-27",
+      "pay_date": "2026-11-16",
+      "cash_per_unit": 0.38,
+      "announce_year": 2026
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2026-09-17",
+      "record_date": "2026-09-23",
+      "pay_date": "2026-10-16",
+      "cash_per_unit": 0.38,
+      "announce_year": 2026
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2026-08-19",
+      "record_date": "2026-08-25",
+      "pay_date": "2026-09-14",
+      "cash_per_unit": 0.38,
+      "announce_year": 2026
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2026-07-21",
+      "record_date": "2026-07-27",
+      "pay_date": "2026-08-14",
+      "cash_per_unit": 0.38,
+      "announce_year": 2026
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2026-06-17",
+      "record_date": "2026-06-23",
+      "pay_date": "2026-07-13",
+      "cash_per_unit": 0.26,
+      "announce_year": 2026
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2026-05-20",
+      "record_date": "2026-05-26",
+      "pay_date": "2026-06-15",
+      "cash_per_unit": 0.13,
+      "announce_year": 2026
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2026-04-21",
+      "record_date": "2026-04-27",
+      "pay_date": "2026-05-18",
+      "cash_per_unit": 0.13,
+      "announce_year": 2026
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2026-03-18",
+      "record_date": "2026-03-24",
+      "pay_date": "2026-04-15",
+      "cash_per_unit": 0.11,
+      "announce_year": 2026
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2026-03-03",
+      "record_date": "2026-03-09",
+      "pay_date": "2026-03-27",
+      "cash_per_unit": 0.1,
+      "announce_year": 2026
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2026-01-20",
+      "record_date": "2026-01-26",
+      "pay_date": "2026-02-13",
+      "cash_per_unit": 0.1,
+      "announce_year": 2026
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2025-12-17",
+      "record_date": "2025-12-23",
+      "pay_date": "2026-01-14",
+      "cash_per_unit": 0.09,
+      "announce_year": 2025
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2025-11-19",
+      "record_date": "2025-11-25",
+      "pay_date": "2025-12-15",
+      "cash_per_unit": 0.09,
+      "announce_year": 2025
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2025-10-21",
+      "record_date": "2025-10-27",
+      "pay_date": "2025-11-14",
+      "cash_per_unit": 0.08,
+      "announce_year": 2025
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2025-09-17",
+      "record_date": "2025-09-23",
+      "pay_date": "2025-10-15",
+      "cash_per_unit": 0.08,
+      "announce_year": 2025
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2025-08-19",
+      "record_date": "2025-08-25",
+      "pay_date": "2025-09-12",
+      "cash_per_unit": 0.08,
+      "announce_year": 2025
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2025-07-17",
+      "record_date": "2025-07-23",
+      "pay_date": "2025-08-12",
+      "cash_per_unit": 0.07,
+      "announce_year": 2025
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2025-06-18",
+      "record_date": "2025-06-24",
+      "pay_date": "2025-07-14",
+      "cash_per_unit": 0.07,
+      "announce_year": 2025
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2025-05-20",
+      "record_date": "2025-05-26",
+      "pay_date": "2025-06-16",
+      "cash_per_unit": 0.07,
+      "announce_year": 2025
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2025-04-22",
+      "record_date": "2025-04-28",
+      "pay_date": "2025-05-19",
+      "cash_per_unit": 0.05,
+      "announce_year": 2025
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2025-03-19",
+      "record_date": "2025-03-25",
+      "pay_date": "2025-04-16",
+      "cash_per_unit": 0.05,
+      "announce_year": 2025
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2025-02-19",
+      "record_date": "2025-02-25",
+      "pay_date": "2025-03-18",
+      "cash_per_unit": 0.05,
+      "announce_year": 2025
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2025-01-16",
+      "record_date": "2025-01-22",
+      "pay_date": "2025-02-17",
+      "cash_per_unit": 0.05,
+      "announce_year": 2025
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2024-12-18",
+      "record_date": "2024-12-24",
+      "pay_date": "2025-01-14",
+      "cash_per_unit": 0.05,
+      "announce_year": 2024
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2024-11-19",
+      "record_date": "2024-11-25",
+      "pay_date": "2024-12-13",
+      "cash_per_unit": 0.11,
+      "announce_year": 2024
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2024-10-22",
+      "record_date": "2024-10-28",
+      "pay_date": "2024-11-15",
+      "cash_per_unit": 0.14,
+      "announce_year": 2024
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2024-09-19",
+      "record_date": "2024-09-25",
+      "pay_date": "2024-10-16",
+      "cash_per_unit": 0.16,
+      "announce_year": 2024
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2024-08-20",
+      "record_date": "2024-08-26",
+      "pay_date": "2024-09-13",
+      "cash_per_unit": 0.18,
+      "announce_year": 2024
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2024-07-17",
+      "record_date": "2024-07-23",
+      "pay_date": "2024-08-12",
+      "cash_per_unit": 0.18,
+      "announce_year": 2024
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2024-06-20",
+      "record_date": "2024-06-26",
+      "pay_date": "2024-07-16",
+      "cash_per_unit": 0.2,
+      "announce_year": 2024
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2024-05-21",
+      "record_date": "2024-05-27",
+      "pay_date": "2024-06-17",
+      "cash_per_unit": 0.2,
+      "announce_year": 2024
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2024-04-23",
+      "record_date": "2024-04-29",
+      "pay_date": "2024-05-20",
+      "cash_per_unit": 0.2,
+      "announce_year": 2024
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2024-03-19",
+      "record_date": "2024-03-25",
+      "pay_date": "2024-04-16",
+      "cash_per_unit": 0.13,
+      "announce_year": 2024
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2024-02-29",
+      "record_date": "2024-03-06",
+      "pay_date": "2024-03-26",
+      "cash_per_unit": 0.13,
+      "announce_year": 2024
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2024-01-18",
+      "record_date": "2024-01-24",
+      "pay_date": "2024-02-22",
+      "cash_per_unit": 0.13,
+      "announce_year": 2024
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2023-12-19",
+      "record_date": "2023-12-25",
+      "pay_date": "2024-01-15",
+      "cash_per_unit": 0.11,
+      "announce_year": 2023
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2023-11-21",
+      "record_date": "2023-11-27",
+      "pay_date": "2023-12-15",
+      "cash_per_unit": 0.11,
+      "announce_year": 2023
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2023-10-24",
+      "record_date": "2023-10-30",
+      "pay_date": "2023-11-17",
+      "cash_per_unit": 0.11,
+      "announce_year": 2023
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2023-09-19",
+      "record_date": "2023-09-25",
+      "pay_date": "2023-10-18",
+      "cash_per_unit": 0.11,
+      "announce_year": 2023
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2023-08-17",
+      "record_date": "2023-08-23",
+      "pay_date": "2023-09-12",
+      "cash_per_unit": 0.11,
+      "announce_year": 2023
+    },
+    {
+      "code": "00929",
+      "name": "復華台灣科技優息",
+      "ex_date": "2023-07-19",
+      "record_date": "2023-07-25",
+      "pay_date": "2023-08-14",
+      "cash_per_unit": 0.11,
+      "announce_year": 2023
+    }
+  ],
+  "annual": [
+    {
+      "year": 2023,
+      "cash_per_unit": 0.66,
+      "payments": 6,
+      "frequency": "雙月配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 1.81,
+      "payments": 12,
+      "frequency": "月配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 0.83,
+      "payments": 12,
+      "frequency": "月配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 2.73,
+      "payments": 11,
+      "frequency": "月配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

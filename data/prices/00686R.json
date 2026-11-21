@@ -1,0 +1,20 @@
+{
+  "code": "00686R",
+  "name": "群益臺灣加權反1",
+  "full_name": "群益臺灣加權指數ETF傘型證券投資信託基金之群益臺灣加權指數單日反向1倍證券投資信託基金",
+  "category": "槓桿反向",
+  "fund_type": "槓桿/反向指數股票型基金",
+  "listed_on": "2017-03-30",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 1.1,
+  "low": 1.09,
+  "high": 1.16,
+  "close": 1.14,
+  "change": 0.04,
+  "volume_shares": 21274159.0,
+  "turnover": 24164758.0,
+  "transactions": 698.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

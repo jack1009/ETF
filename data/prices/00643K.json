@@ -1,0 +1,20 @@
+{
+  "code": "00643K",
+  "name": "群益深証中小+R",
+  "full_name": "群益深証中小１００證券投資信託基金加掛—人民幣ETF受益憑證-國外成份/加掛外幣證券指數股票型基金",
+  "category": "國外股票",
+  "fund_type": "國外成份/加掛外幣證券指數股票型基金",
+  "listed_on": "2016-08-26",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": null,
+  "low": null,
+  "high": null,
+  "close": null,
+  "change": 0.0,
+  "volume_shares": null,
+  "turnover": null,
+  "transactions": null,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

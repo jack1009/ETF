@@ -1,0 +1,20 @@
+{
+  "code": "00876",
+  "name": "元大全球5G",
+  "full_name": "元大全球5G關鍵科技ETF證券投資信託基金(原名:元大全球未來關鍵科技ETF證券投資信託基金)",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2020-07-07",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 72.0,
+  "low": 70.75,
+  "high": 72.35,
+  "close": 71.0,
+  "change": -1.6,
+  "volume_shares": 249735.0,
+  "turnover": 17895305.0,
+  "transactions": 296.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

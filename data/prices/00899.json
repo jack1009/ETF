@@ -1,0 +1,20 @@
+{
+  "code": "00899",
+  "name": "FT潔淨能源",
+  "full_name": "富蘭克林華美全球潔淨能源ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2022-01-21",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 20.57,
+  "low": 20.2,
+  "high": 20.57,
+  "close": 20.25,
+  "change": -0.32,
+  "volume_shares": 169165.0,
+  "turnover": 3439815.0,
+  "transactions": 97.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

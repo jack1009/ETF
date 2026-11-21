@@ -1,0 +1,74 @@
+{
+  "code": "00911",
+  "name": "兆豐洲際半導體",
+  "frequency": "半年配",
+  "distributions": [
+    {
+      "code": "00911",
+      "name": "兆豐洲際半導體",
+      "ex_date": "2026-07-16",
+      "record_date": "2026-07-24",
+      "pay_date": "2026-08-04",
+      "cash_per_unit": 3.5,
+      "announce_year": 2026
+    },
+    {
+      "code": "00911",
+      "name": "兆豐洲際半導體",
+      "ex_date": "2026-01-19",
+      "record_date": "2026-01-25",
+      "pay_date": "2026-02-05",
+      "cash_per_unit": 1.0,
+      "announce_year": 2026
+    },
+    {
+      "code": "00911",
+      "name": "兆豐洲際半導體",
+      "ex_date": "2025-07-16",
+      "record_date": "2025-07-22",
+      "pay_date": "2025-08-04",
+      "cash_per_unit": 0.7,
+      "announce_year": 2025
+    },
+    {
+      "code": "00911",
+      "name": "兆豐洲際半導體",
+      "ex_date": "2024-07-17",
+      "record_date": "2024-07-23",
+      "pay_date": "2024-08-13",
+      "cash_per_unit": 1.2,
+      "announce_year": 2024
+    },
+    {
+      "code": "00911",
+      "name": "兆豐洲際半導體",
+      "ex_date": "2024-01-22",
+      "record_date": "2024-01-28",
+      "pay_date": "2024-02-22",
+      "cash_per_unit": 1.0,
+      "announce_year": 2024
+    }
+  ],
+  "annual": [
+    {
+      "year": 2024,
+      "cash_per_unit": 2.2,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 0.7,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 4.5,
+      "payments": 2,
+      "frequency": "半年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

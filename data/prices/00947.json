@@ -1,0 +1,20 @@
+{
+  "code": "00947",
+  "name": "台新臺灣IC設計",
+  "full_name": "台新臺灣IC設計動能ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2024-06-12",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 27.68,
+  "low": 25.55,
+  "high": 27.8,
+  "close": 25.65,
+  "change": -2.16,
+  "volume_shares": 14133310.0,
+  "turnover": 371451291.0,
+  "transactions": 5861.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

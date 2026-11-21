@@ -1,0 +1,290 @@
+{
+  "code": "00940",
+  "name": "元大台灣價值高息",
+  "frequency": "月配",
+  "distributions": [
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2026-11-10",
+      "record_date": "2026-11-16",
+      "pay_date": "2026-12-01",
+      "cash_per_unit": 0.06,
+      "announce_year": 2026
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2026-10-07",
+      "record_date": "2026-10-13",
+      "pay_date": "2026-11-02",
+      "cash_per_unit": 0.055,
+      "announce_year": 2026
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2026-09-08",
+      "record_date": "2026-09-14",
+      "pay_date": "2026-10-01",
+      "cash_per_unit": 0.055,
+      "announce_year": 2026
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2026-08-11",
+      "record_date": "2026-08-17",
+      "pay_date": "2026-09-01",
+      "cash_per_unit": 0.05,
+      "announce_year": 2026
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2026-07-09",
+      "record_date": "2026-07-15",
+      "pay_date": "2026-08-03",
+      "cash_per_unit": 0.05,
+      "announce_year": 2026
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2026-06-09",
+      "record_date": "2026-06-15",
+      "pay_date": "2026-07-01",
+      "cash_per_unit": 0.05,
+      "announce_year": 2026
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2026-05-07",
+      "record_date": "2026-05-13",
+      "pay_date": "2026-06-01",
+      "cash_per_unit": 0.045,
+      "announce_year": 2026
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2026-04-09",
+      "record_date": "2026-04-15",
+      "pay_date": "2026-05-04",
+      "cash_per_unit": 0.045,
+      "announce_year": 2026
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2026-03-11",
+      "record_date": "2026-03-17",
+      "pay_date": "2026-04-01",
+      "cash_per_unit": 0.045,
+      "announce_year": 2026
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2026-02-02",
+      "record_date": "2026-02-08",
+      "pay_date": "2026-03-02",
+      "cash_per_unit": 0.045,
+      "announce_year": 2026
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2026-01-08",
+      "record_date": "2026-01-14",
+      "pay_date": "2026-02-02",
+      "cash_per_unit": 0.045,
+      "announce_year": 2026
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2025-12-10",
+      "record_date": "2025-12-16",
+      "pay_date": "2026-01-02",
+      "cash_per_unit": 0.045,
+      "announce_year": 2025
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2025-11-06",
+      "record_date": "2025-11-12",
+      "pay_date": "2025-12-01",
+      "cash_per_unit": 0.04,
+      "announce_year": 2025
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2025-10-08",
+      "record_date": "2025-10-14",
+      "pay_date": "2025-11-03",
+      "cash_per_unit": 0.04,
+      "announce_year": 2025
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2025-09-09",
+      "record_date": "2025-09-15",
+      "pay_date": "2025-10-01",
+      "cash_per_unit": 0.04,
+      "announce_year": 2025
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2025-08-07",
+      "record_date": "2025-08-13",
+      "pay_date": "2025-09-01",
+      "cash_per_unit": 0.04,
+      "announce_year": 2025
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2025-07-10",
+      "record_date": "2025-07-16",
+      "pay_date": "2025-08-01",
+      "cash_per_unit": 0.04,
+      "announce_year": 2025
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2025-06-10",
+      "record_date": "2025-06-16",
+      "pay_date": "2025-07-01",
+      "cash_per_unit": 0.03,
+      "announce_year": 2025
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2025-05-08",
+      "record_date": "2025-05-14",
+      "pay_date": "2025-06-02",
+      "cash_per_unit": 0.03,
+      "announce_year": 2025
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2025-04-10",
+      "record_date": "2025-04-16",
+      "pay_date": "2025-05-02",
+      "cash_per_unit": 0.03,
+      "announce_year": 2025
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2025-03-11",
+      "record_date": "2025-03-17",
+      "pay_date": "2025-04-01",
+      "cash_per_unit": 0.03,
+      "announce_year": 2025
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2025-02-06",
+      "record_date": "2025-02-12",
+      "pay_date": "2025-03-03",
+      "cash_per_unit": 0.03,
+      "announce_year": 2025
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2025-01-02",
+      "record_date": "2025-01-08",
+      "pay_date": "2025-02-03",
+      "cash_per_unit": 0.03,
+      "announce_year": 2024
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2024-12-11",
+      "record_date": "2024-12-17",
+      "pay_date": "2025-01-02",
+      "cash_per_unit": 0.04,
+      "announce_year": 2024
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2024-11-07",
+      "record_date": "2024-11-13",
+      "pay_date": "2024-12-02",
+      "cash_per_unit": 0.04,
+      "announce_year": 2024
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2024-10-09",
+      "record_date": "2024-10-16",
+      "pay_date": "2024-11-01",
+      "cash_per_unit": 0.05,
+      "announce_year": 2024
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2024-09-05",
+      "record_date": "2024-09-11",
+      "pay_date": "2024-10-01",
+      "cash_per_unit": 0.05,
+      "announce_year": 2024
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2024-08-08",
+      "record_date": "2024-08-14",
+      "pay_date": "2024-09-02",
+      "cash_per_unit": 0.05,
+      "announce_year": 2024
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "ex_date": "2024-07-11",
+      "record_date": "2024-07-17",
+      "pay_date": "2024-08-01",
+      "cash_per_unit": 0.05,
+      "announce_year": 2024
+    }
+  ],
+  "annual": [
+    {
+      "year": 2024,
+      "cash_per_unit": 0.28,
+      "payments": 6,
+      "frequency": "雙月配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 0.425,
+      "payments": 12,
+      "frequency": "月配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 0.545,
+      "payments": 11,
+      "frequency": "月配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

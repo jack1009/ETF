@@ -1,0 +1,20 @@
+{
+  "code": "00678",
+  "name": "群益那斯達克生技",
+  "full_name": "群益那斯達克生技證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2017-01-16",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 44.07,
+  "low": 44.07,
+  "high": 44.53,
+  "close": 44.31,
+  "change": 0.24,
+  "volume_shares": 642981.0,
+  "turnover": 28568899.0,
+  "transactions": 166.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

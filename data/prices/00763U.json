@@ -1,0 +1,20 @@
+{
+  "code": "00763U",
+  "name": "期街口道瓊銅",
+  "full_name": "街口道瓊銅ER指數股票型期貨信託基金",
+  "category": "期貨",
+  "fund_type": "指數股票型期貨信託基金",
+  "listed_on": "2018-12-19",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 29.94,
+  "low": 29.48,
+  "high": 30.05,
+  "close": 29.8,
+  "change": -1.12,
+  "volume_shares": 1537283.0,
+  "turnover": 45793120.0,
+  "transactions": 498.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

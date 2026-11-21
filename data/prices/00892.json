@@ -1,0 +1,20 @@
+{
+  "code": "00892",
+  "name": "富邦台灣半導體",
+  "full_name": "富邦台灣核心半導體ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2021-06-10",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 29.04,
+  "low": 27.36,
+  "high": 29.3,
+  "close": 27.39,
+  "change": -1.94,
+  "volume_shares": 11136500.0,
+  "turnover": 310847188.0,
+  "transactions": 5283.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

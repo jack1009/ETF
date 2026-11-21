@@ -1,0 +1,20 @@
+{
+  "code": "00919",
+  "name": "群益台灣精選高息",
+  "full_name": "群益台灣精選高息ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2022-10-20",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 29.81,
+  "low": 28.98,
+  "high": 29.99,
+  "close": 29.15,
+  "change": -0.84,
+  "volume_shares": 114627734.0,
+  "turnover": 3365834651.0,
+  "transactions": 90836.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

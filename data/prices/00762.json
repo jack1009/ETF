@@ -1,0 +1,20 @@
+{
+  "code": "00762",
+  "name": "元大全球AI",
+  "full_name": "元大全球人工智慧ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2019-01-23",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 95.5,
+  "low": 94.2,
+  "high": 95.5,
+  "close": 94.8,
+  "change": 0.05,
+  "volume_shares": 202765.0,
+  "turnover": 19254362.0,
+  "transactions": 371.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

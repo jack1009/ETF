@@ -1,0 +1,86 @@
+{
+  "code": "00947",
+  "name": "台新臺灣IC設計動能ETF基金",
+  "frequency": "季配",
+  "distributions": [
+    {
+      "code": "00947",
+      "name": "台新臺灣IC設計",
+      "ex_date": "2026-10-16",
+      "record_date": "2026-10-24",
+      "pay_date": "2026-11-06",
+      "cash_per_unit": 2.0,
+      "announce_year": 2026
+    },
+    {
+      "code": "00947",
+      "name": "台新臺灣IC設計",
+      "ex_date": "2026-07-15",
+      "record_date": "2026-07-21",
+      "pay_date": "2026-08-04",
+      "cash_per_unit": 0.3,
+      "announce_year": 2026
+    },
+    {
+      "code": "00947",
+      "name": "台新臺灣IC設計",
+      "ex_date": "2026-04-17",
+      "record_date": "2026-04-25",
+      "pay_date": "2026-05-08",
+      "cash_per_unit": 0.12,
+      "announce_year": 2026
+    },
+    {
+      "code": "00947",
+      "name": "台新臺灣IC設計",
+      "ex_date": "2026-01-16",
+      "record_date": "2026-01-24",
+      "pay_date": "2026-02-05",
+      "cash_per_unit": 0.12,
+      "announce_year": 2026
+    },
+    {
+      "code": "00947",
+      "name": "台新臺灣IC設計",
+      "ex_date": "2025-10-17",
+      "record_date": "2025-10-25",
+      "pay_date": "2025-11-07",
+      "cash_per_unit": 0.08,
+      "announce_year": 2025
+    },
+    {
+      "code": "00947",
+      "name": "台新臺灣IC設計",
+      "ex_date": "2025-07-15",
+      "record_date": "2025-07-21",
+      "pay_date": "2025-08-04",
+      "cash_per_unit": 0.08,
+      "announce_year": 2025
+    },
+    {
+      "code": "00947",
+      "name": "台新臺灣IC設計",
+      "ex_date": "2025-04-17",
+      "record_date": "2025-04-23",
+      "pay_date": "2025-05-08",
+      "cash_per_unit": 0.08,
+      "announce_year": 2025
+    }
+  ],
+  "annual": [
+    {
+      "year": 2025,
+      "cash_per_unit": 0.24,
+      "payments": 3,
+      "frequency": "不定期"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 2.54,
+      "payments": 4,
+      "frequency": "季配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

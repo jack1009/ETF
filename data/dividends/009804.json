@@ -1,0 +1,50 @@
+{
+  "code": "009804",
+  "name": "聯邦台灣精彩50ETF基金",
+  "frequency": "半年配",
+  "distributions": [
+    {
+      "code": "009804",
+      "name": "聯邦台精彩50",
+      "ex_date": "2026-07-16",
+      "record_date": "2026-07-22",
+      "pay_date": "2026-08-10",
+      "cash_per_unit": 1.53,
+      "announce_year": 2026
+    },
+    {
+      "code": "009804",
+      "name": "聯邦台精彩50",
+      "ex_date": "2026-04-20",
+      "record_date": "2026-04-26",
+      "pay_date": "2026-05-14",
+      "cash_per_unit": 0.876,
+      "announce_year": 2026
+    },
+    {
+      "code": "009804",
+      "name": "聯邦台精彩50",
+      "ex_date": "2025-07-16",
+      "record_date": "2025-07-22",
+      "pay_date": "2025-08-08",
+      "cash_per_unit": 0.38,
+      "announce_year": 2025
+    }
+  ],
+  "annual": [
+    {
+      "year": 2025,
+      "cash_per_unit": 0.38,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 2.406,
+      "payments": 2,
+      "frequency": "半年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

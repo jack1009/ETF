@@ -1,0 +1,20 @@
+{
+  "code": "00917",
+  "name": "中信特選金融",
+  "full_name": "中國信託特選金融及數據ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2022-08-26",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 23.26,
+  "low": 23.2,
+  "high": 23.31,
+  "close": 23.22,
+  "change": -0.3,
+  "volume_shares": 728321.0,
+  "turnover": 16922528.0,
+  "transactions": 410.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

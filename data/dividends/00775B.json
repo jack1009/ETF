@@ -1,0 +1,338 @@
+{
+  "code": "00775B",
+  "name": "台新投等債15+",
+  "frequency": "季配",
+  "distributions": [
+    {
+      "code": "00775B",
+      "name": "台新投等債15+",
+      "ex_date": "2026-11-16",
+      "record_date": "2026-11-22",
+      "pay_date": "2026-12-04",
+      "cash_per_unit": 0.35,
+      "announce_year": 2026
+    },
+    {
+      "code": "00775B",
+      "name": "台新投等債15+",
+      "ex_date": "2026-08-17",
+      "record_date": "2026-08-23",
+      "pay_date": "2026-09-04",
+      "cash_per_unit": 0.35,
+      "announce_year": 2026
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2026-05-18",
+      "record_date": "2026-05-24",
+      "pay_date": "2026-06-05",
+      "cash_per_unit": 0.35,
+      "announce_year": 2026
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2026-02-25",
+      "record_date": "2026-03-03",
+      "pay_date": "2026-03-18",
+      "cash_per_unit": 0.35,
+      "announce_year": 2026
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2025-11-20",
+      "record_date": "2025-11-26",
+      "pay_date": "2025-12-17",
+      "cash_per_unit": 0.37,
+      "announce_year": 2025
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2025-08-20",
+      "record_date": "2025-08-26",
+      "pay_date": "2025-09-16",
+      "cash_per_unit": 0.35,
+      "announce_year": 2025
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2025-05-21",
+      "record_date": "2025-05-27",
+      "pay_date": "2025-06-18",
+      "cash_per_unit": 0.38,
+      "announce_year": 2025
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債 15+",
+      "ex_date": "2025-02-20",
+      "record_date": "2025-02-26",
+      "pay_date": "2025-03-20",
+      "cash_per_unit": 0.41,
+      "announce_year": 2025
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2024-11-20",
+      "record_date": "2024-11-26",
+      "pay_date": "2024-12-17",
+      "cash_per_unit": 0.57,
+      "announce_year": 2024
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2024-08-20",
+      "record_date": "2024-08-26",
+      "pay_date": "2024-09-16",
+      "cash_per_unit": 0.43,
+      "announce_year": 2024
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2024-05-21",
+      "record_date": "2024-05-27",
+      "pay_date": "2024-06-18",
+      "cash_per_unit": 0.32,
+      "announce_year": 2024
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2024-03-01",
+      "record_date": "2024-03-09",
+      "pay_date": "2024-03-29",
+      "cash_per_unit": 0.145,
+      "announce_year": 2024
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2023-11-20",
+      "record_date": "2023-11-26",
+      "pay_date": "2023-12-15",
+      "cash_per_unit": 0.35,
+      "announce_year": 2023
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2023-08-18",
+      "record_date": "2023-08-26",
+      "pay_date": "2023-09-15",
+      "cash_per_unit": 0.3,
+      "announce_year": 2023
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2023-05-19",
+      "record_date": "2023-05-27",
+      "pay_date": "2023-06-16",
+      "cash_per_unit": 0.32,
+      "announce_year": 2023
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2023-02-20",
+      "record_date": "2023-02-26",
+      "pay_date": "2023-03-23",
+      "cash_per_unit": 0.39,
+      "announce_year": 2023
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2022-11-18",
+      "record_date": "2022-11-26",
+      "pay_date": "2022-12-19",
+      "cash_per_unit": 0.3,
+      "announce_year": 2022
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2022-08-18",
+      "record_date": "2022-08-26",
+      "pay_date": "2022-09-19",
+      "cash_per_unit": 0.32,
+      "announce_year": 2022
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2022-05-20",
+      "record_date": "2022-05-28",
+      "pay_date": "2022-06-21",
+      "cash_per_unit": 0.21,
+      "announce_year": 2022
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2022-02-24",
+      "record_date": "2022-03-05",
+      "pay_date": "2022-03-28",
+      "cash_per_unit": 0.31,
+      "announce_year": 2022
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2021-11-18",
+      "record_date": "2021-11-26",
+      "pay_date": "2021-12-17",
+      "cash_per_unit": 0.3,
+      "announce_year": 2021
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2021-08-19",
+      "record_date": "2021-08-27",
+      "pay_date": "2021-09-17",
+      "cash_per_unit": 0.32,
+      "announce_year": 2021
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2021-05-20",
+      "record_date": "2021-05-28",
+      "pay_date": "2021-06-21",
+      "cash_per_unit": 0.27,
+      "announce_year": 2021
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2021-03-02",
+      "record_date": "2021-03-08",
+      "pay_date": "2021-03-31",
+      "cash_per_unit": 0.295,
+      "announce_year": 2021
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2020-11-19",
+      "record_date": "2020-11-27",
+      "pay_date": "2020-12-18",
+      "cash_per_unit": 0.33,
+      "announce_year": 2020
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2020-08-20",
+      "record_date": "2020-08-28",
+      "pay_date": "2020-09-18",
+      "cash_per_unit": 0.34,
+      "announce_year": 2020
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2020-05-21",
+      "record_date": "2020-05-29",
+      "pay_date": "2020-06-19",
+      "cash_per_unit": 0.34,
+      "announce_year": 2020
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2020-02-24",
+      "record_date": "2020-03-01",
+      "pay_date": "2020-03-31",
+      "cash_per_unit": 0.45,
+      "announce_year": 2020
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2019-11-22",
+      "record_date": "2019-11-30",
+      "pay_date": "2019-12-31",
+      "cash_per_unit": 0.13,
+      "announce_year": 2019
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債+",
+      "ex_date": "2019-08-22",
+      "record_date": "2019-08-28",
+      "pay_date": "2019-09-27",
+      "cash_per_unit": 0.135,
+      "announce_year": 2019
+    },
+    {
+      "code": "00775B",
+      "name": "新光投等債15+",
+      "ex_date": "2019-05-23",
+      "record_date": "2019-05-29",
+      "pay_date": "2019-06-28",
+      "cash_per_unit": 0.25,
+      "announce_year": 2019
+    }
+  ],
+  "annual": [
+    {
+      "year": 2019,
+      "cash_per_unit": 0.515,
+      "payments": 3,
+      "frequency": "不定期"
+    },
+    {
+      "year": 2020,
+      "cash_per_unit": 1.46,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2021,
+      "cash_per_unit": 1.185,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2022,
+      "cash_per_unit": 1.14,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2023,
+      "cash_per_unit": 1.36,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 1.465,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 1.51,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 1.4,
+      "payments": 4,
+      "frequency": "季配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

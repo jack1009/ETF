@@ -1,0 +1,44 @@
+{
+  "code": "00981A",
+  "name": "主動統一台股增長",
+  "frequency": "不定期",
+  "distributions": [
+    {
+      "code": "00981A",
+      "name": "主動統一台股增長",
+      "ex_date": "2026-09-16",
+      "record_date": "2026-09-22",
+      "pay_date": "2026-10-13",
+      "cash_per_unit": 0.63,
+      "announce_year": 2026
+    },
+    {
+      "code": "00981A",
+      "name": "主動統一台股增長",
+      "ex_date": "2026-06-16",
+      "record_date": "2026-06-22",
+      "pay_date": "2026-07-09",
+      "cash_per_unit": 0.63,
+      "announce_year": 2026
+    },
+    {
+      "code": "00981A",
+      "name": "主動統一台股增長",
+      "ex_date": "2026-03-17",
+      "record_date": "2026-03-23",
+      "pay_date": "2026-04-10",
+      "cash_per_unit": 0.41,
+      "announce_year": 2026
+    }
+  ],
+  "annual": [
+    {
+      "year": 2026,
+      "cash_per_unit": 1.67,
+      "payments": 3,
+      "frequency": "不定期"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

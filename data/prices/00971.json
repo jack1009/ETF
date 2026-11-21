@@ -1,0 +1,20 @@
+{
+  "code": "00971",
+  "name": "野村美國研發龍頭",
+  "full_name": "野村美日ETF傘型證券投資信託基金之美國創新研發龍頭ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2025-01-09",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 17.44,
+  "low": 17.39,
+  "high": 17.52,
+  "close": 17.52,
+  "change": 0.22,
+  "volume_shares": 183468.0,
+  "turnover": 3202972.0,
+  "transactions": 171.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

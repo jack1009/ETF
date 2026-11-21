@@ -1,0 +1,20 @@
+{
+  "code": "00898",
+  "name": "國泰基因免疫革命",
+  "full_name": "國泰全球基因免疫與醫療革命ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2021-11-22",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 10.55,
+  "low": 10.42,
+  "high": 10.55,
+  "close": 10.44,
+  "change": -0.03,
+  "volume_shares": 307894.0,
+  "turnover": 3222195.0,
+  "transactions": 267.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "00983A",
+  "name": "主動中信ARK創新",
+  "full_name": "中國信託ARK創新主動式ETF證券投資信託基金",
+  "category": "主動股票",
+  "fund_type": "國外成分證券主動式交易所交易基金(股票)",
+  "listed_on": "2025-06-18",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 11.13,
+  "low": 11.09,
+  "high": 11.16,
+  "close": 11.12,
+  "change": 0.06,
+  "volume_shares": 1437442.0,
+  "turnover": 16009077.0,
+  "transactions": 244.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

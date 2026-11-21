@@ -1,0 +1,107 @@
+{
+  "code": "00913",
+  "name": "兆豐台灣晶圓製造ETF",
+  "frequency": "半年配",
+  "distributions": [
+    {
+      "code": "00913",
+      "name": "兆豐台灣晶圓製造",
+      "ex_date": "2026-08-18",
+      "record_date": "2026-08-24",
+      "pay_date": "2026-09-04",
+      "cash_per_unit": 1.78,
+      "announce_year": 2026
+    },
+    {
+      "code": "00913",
+      "name": "兆豐台灣晶圓製造",
+      "ex_date": "2026-02-26",
+      "record_date": "2026-03-07",
+      "pay_date": "2026-03-18",
+      "cash_per_unit": 1.6,
+      "announce_year": 2026
+    },
+    {
+      "code": "00913",
+      "name": "兆豐台灣晶圓製造",
+      "ex_date": "2025-08-18",
+      "record_date": "2025-08-24",
+      "pay_date": "2025-09-04",
+      "cash_per_unit": 0.9,
+      "announce_year": 2025
+    },
+    {
+      "code": "00913",
+      "name": "兆豐台灣晶圓製造",
+      "ex_date": "2025-02-18",
+      "record_date": "2025-02-24",
+      "pay_date": "2025-03-10",
+      "cash_per_unit": 0.5,
+      "announce_year": 2025
+    },
+    {
+      "code": "00913",
+      "name": "兆豐台灣晶圓製造",
+      "ex_date": "2024-08-16",
+      "record_date": "2024-08-24",
+      "pay_date": "2024-09-04",
+      "cash_per_unit": 0.66,
+      "announce_year": 2024
+    },
+    {
+      "code": "00913",
+      "name": "兆豐台灣晶圓製造",
+      "ex_date": "2024-03-04",
+      "record_date": "2024-03-10",
+      "pay_date": "2024-03-26",
+      "cash_per_unit": 0.46,
+      "announce_year": 2024
+    },
+    {
+      "code": "00913",
+      "name": "兆豐台灣晶圓製造",
+      "ex_date": "2023-08-21",
+      "record_date": "2023-08-27",
+      "pay_date": "2023-09-12",
+      "cash_per_unit": 0.7,
+      "announce_year": 2023
+    },
+    {
+      "code": "00913",
+      "name": "兆豐台灣晶圓製造",
+      "ex_date": "2023-02-21",
+      "record_date": "2023-02-27",
+      "pay_date": "2023-03-20",
+      "cash_per_unit": 0.1,
+      "announce_year": 2023
+    }
+  ],
+  "annual": [
+    {
+      "year": 2023,
+      "cash_per_unit": 0.8,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 1.12,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 1.4,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 3.38,
+      "payments": 2,
+      "frequency": "半年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

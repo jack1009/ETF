@@ -1,0 +1,98 @@
+{
+  "code": "00774B",
+  "name": "新光中國政金綠債",
+  "frequency": "半年配",
+  "distributions": [
+    {
+      "code": "00774B",
+      "name": "新光中國政金綠債",
+      "ex_date": "2022-10-21",
+      "record_date": "2022-10-29",
+      "pay_date": "2022-11-21",
+      "cash_per_unit": 0.8,
+      "announce_year": 2022
+    },
+    {
+      "code": "00774B",
+      "name": "新光中國政金綠債",
+      "ex_date": "2022-04-22",
+      "record_date": "2022-04-30",
+      "pay_date": "2022-05-24",
+      "cash_per_unit": 0.53,
+      "announce_year": 2022
+    },
+    {
+      "code": "00774B",
+      "name": "新光中國政金綠債",
+      "ex_date": "2021-10-21",
+      "record_date": "2021-10-29",
+      "pay_date": "2021-11-19",
+      "cash_per_unit": 0.52,
+      "announce_year": 2021
+    },
+    {
+      "code": "00774B",
+      "name": "新光中國政金綠債",
+      "ex_date": "2021-04-22",
+      "record_date": "2021-04-30",
+      "pay_date": "2021-05-24",
+      "cash_per_unit": 0.54,
+      "announce_year": 2021
+    },
+    {
+      "code": "00774B",
+      "name": "新光中國政金綠債",
+      "ex_date": "2020-10-23",
+      "record_date": "2020-10-31",
+      "pay_date": "2020-11-23",
+      "cash_per_unit": 0.8,
+      "announce_year": 2020
+    },
+    {
+      "code": "00774B",
+      "name": "新光中國政金綠債",
+      "ex_date": "2020-04-24",
+      "record_date": "2020-05-02",
+      "pay_date": "2020-06-08",
+      "cash_per_unit": 0.6,
+      "announce_year": 2020
+    },
+    {
+      "code": "00774B",
+      "name": "新光中國政金綠債",
+      "ex_date": "2019-10-23",
+      "record_date": "2019-10-29",
+      "pay_date": "2019-12-04",
+      "cash_per_unit": 0.34,
+      "announce_year": 2019
+    }
+  ],
+  "annual": [
+    {
+      "year": 2019,
+      "cash_per_unit": 0.34,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2020,
+      "cash_per_unit": 1.4,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2021,
+      "cash_per_unit": 1.06,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2022,
+      "cash_per_unit": 1.33,
+      "payments": 2,
+      "frequency": "半年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

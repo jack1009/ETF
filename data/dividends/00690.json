@@ -1,0 +1,221 @@
+{
+  "code": "00690",
+  "name": "兆豐藍籌30",
+  "frequency": "季配",
+  "distributions": [
+    {
+      "code": "00690",
+      "name": "兆豐藍籌30",
+      "ex_date": "2026-11-17",
+      "record_date": "2026-11-23",
+      "pay_date": "2026-12-04",
+      "cash_per_unit": 2.0,
+      "announce_year": 2026
+    },
+    {
+      "code": "00690",
+      "name": "兆豐藍籌30",
+      "ex_date": "2026-08-18",
+      "record_date": "2026-08-24",
+      "pay_date": "2026-09-04",
+      "cash_per_unit": 2.19,
+      "announce_year": 2026
+    },
+    {
+      "code": "00690",
+      "name": "兆豐臺灣藍籌30",
+      "ex_date": "2026-05-19",
+      "record_date": "2026-05-25",
+      "pay_date": "2026-06-05",
+      "cash_per_unit": 1.4,
+      "announce_year": 2026
+    },
+    {
+      "code": "00690",
+      "name": "兆豐藍籌30",
+      "ex_date": "2026-02-26",
+      "record_date": "2026-03-07",
+      "pay_date": "2026-03-18",
+      "cash_per_unit": 1.05,
+      "announce_year": 2026
+    },
+    {
+      "code": "00690",
+      "name": "兆豐藍籌30",
+      "ex_date": "2025-11-18",
+      "record_date": "2025-11-24",
+      "pay_date": "2025-12-05",
+      "cash_per_unit": 0.89,
+      "announce_year": 2025
+    },
+    {
+      "code": "00690",
+      "name": "兆豐臺灣藍籌30",
+      "ex_date": "2025-08-18",
+      "record_date": "2025-08-24",
+      "pay_date": "2025-09-04",
+      "cash_per_unit": 0.75,
+      "announce_year": 2025
+    },
+    {
+      "code": "00690",
+      "name": "兆豐臺灣藍籌30",
+      "ex_date": "2025-05-19",
+      "record_date": "2025-05-25",
+      "pay_date": "2025-06-06",
+      "cash_per_unit": 0.31,
+      "announce_year": 2025
+    },
+    {
+      "code": "00690",
+      "name": "兆豐臺灣藍籌30",
+      "ex_date": "2025-02-18",
+      "record_date": "2025-02-24",
+      "pay_date": "2025-03-10",
+      "cash_per_unit": 0.7,
+      "announce_year": 2025
+    },
+    {
+      "code": "00690",
+      "name": "兆豐臺灣藍籌30",
+      "ex_date": "2024-11-19",
+      "record_date": "2024-11-25",
+      "pay_date": "2024-12-06",
+      "cash_per_unit": 0.8,
+      "announce_year": 2024
+    },
+    {
+      "code": "00690",
+      "name": "兆豐臺灣藍籌30",
+      "ex_date": "2024-08-16",
+      "record_date": "2024-08-24",
+      "pay_date": "2024-09-04",
+      "cash_per_unit": 1.0,
+      "announce_year": 2024
+    },
+    {
+      "code": "00690",
+      "name": "兆豐臺灣藍籌30",
+      "ex_date": "2024-05-16",
+      "record_date": "2024-05-24",
+      "pay_date": "2024-06-17",
+      "cash_per_unit": 0.9,
+      "announce_year": 2024
+    },
+    {
+      "code": "00690",
+      "name": "兆豐臺灣藍籌30ETF",
+      "ex_date": "2024-03-04",
+      "record_date": "2024-03-10",
+      "pay_date": "2024-03-26",
+      "cash_per_unit": 0.75,
+      "announce_year": 2024
+    },
+    {
+      "code": "00690",
+      "name": "兆豐臺灣藍籌30",
+      "ex_date": "2023-11-21",
+      "record_date": "2023-11-27",
+      "pay_date": "2023-12-14",
+      "cash_per_unit": 1.0,
+      "announce_year": 2023
+    },
+    {
+      "code": "00690",
+      "name": "兆豐臺灣藍籌30ETF",
+      "ex_date": "2023-05-22",
+      "record_date": "2023-05-28",
+      "pay_date": "2023-06-14",
+      "cash_per_unit": 1.5,
+      "announce_year": 2023
+    },
+    {
+      "code": "00690",
+      "name": "兆豐臺灣藍籌30ETF",
+      "ex_date": "2022-11-28",
+      "record_date": "2022-12-04",
+      "pay_date": "2022-12-27",
+      "cash_per_unit": 2.4,
+      "announce_year": 2022
+    },
+    {
+      "code": "00690",
+      "name": "兆豐藍籌30ETF",
+      "ex_date": "2021-11-26",
+      "record_date": "2021-12-04",
+      "pay_date": "2021-12-27",
+      "cash_per_unit": 0.84,
+      "announce_year": 2021
+    },
+    {
+      "code": "00690",
+      "name": "兆豐藍籌30ETF",
+      "ex_date": "2020-11-27",
+      "record_date": "2020-12-05",
+      "pay_date": "2020-12-28",
+      "cash_per_unit": 0.84,
+      "announce_year": 2020
+    },
+    {
+      "code": "00690",
+      "name": "兆豐藍籌30ETF",
+      "ex_date": "2019-11-28",
+      "record_date": "2019-12-04",
+      "pay_date": "2019-12-27",
+      "cash_per_unit": 1.12,
+      "announce_year": 2019
+    }
+  ],
+  "annual": [
+    {
+      "year": 2019,
+      "cash_per_unit": 1.12,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2020,
+      "cash_per_unit": 0.84,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2021,
+      "cash_per_unit": 0.84,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2022,
+      "cash_per_unit": 2.4,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2023,
+      "cash_per_unit": 2.5,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 3.45,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 2.65,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 6.64,
+      "payments": 4,
+      "frequency": "季配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

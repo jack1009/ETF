@@ -1,0 +1,20 @@
+{
+  "code": "009804",
+  "name": "聯邦台精彩50",
+  "full_name": "聯邦台灣精彩50ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2025-04-16",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 19.62,
+  "low": 18.65,
+  "high": 19.72,
+  "close": 18.7,
+  "change": -0.92,
+  "volume_shares": 1070685.0,
+  "turnover": 20284762.0,
+  "transactions": 751.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

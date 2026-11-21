@@ -1,0 +1,20 @@
+{
+  "code": "00713",
+  "name": "元大台灣高息低波",
+  "full_name": "元大台灣高股息低波動ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2017-09-27",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 61.5,
+  "low": 60.75,
+  "high": 62.25,
+  "close": 60.8,
+  "change": -0.95,
+  "volume_shares": 6186379.0,
+  "turnover": 380766246.0,
+  "transactions": 5797.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

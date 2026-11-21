@@ -1,0 +1,20 @@
+{
+  "code": "009811",
+  "name": "統一美國50",
+  "full_name": "統一美國50ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2025-07-29",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 13.0,
+  "low": 12.96,
+  "high": 13.03,
+  "close": 13.01,
+  "change": 0.02,
+  "volume_shares": 2208272.0,
+  "turnover": 28713948.0,
+  "transactions": 499.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

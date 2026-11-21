@@ -1,0 +1,20 @@
+{
+  "code": "00956",
+  "name": "中信日經高股息",
+  "full_name": "中國信託日本ETF傘型證券投資信託基金之中國信託日經高股息50ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2024-08-20",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 13.41,
+  "low": 13.36,
+  "high": 13.42,
+  "close": 13.36,
+  "change": -0.13,
+  "volume_shares": 329913.0,
+  "turnover": 4421976.0,
+  "transactions": 134.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

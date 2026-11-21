@@ -1,0 +1,161 @@
+{
+  "code": "00919",
+  "name": "群益台灣精選高息",
+  "frequency": "不定期",
+  "distributions": [
+    {
+      "code": "00919",
+      "name": "群益台灣精選高息",
+      "ex_date": "2026-09-16",
+      "record_date": "2026-09-22",
+      "pay_date": "2026-10-15",
+      "cash_per_unit": 1.1,
+      "announce_year": 2026
+    },
+    {
+      "code": "00919",
+      "name": "群益台灣精選高息",
+      "ex_date": "2026-06-16",
+      "record_date": "2026-06-22",
+      "pay_date": "2026-07-13",
+      "cash_per_unit": 1.0,
+      "announce_year": 2026
+    },
+    {
+      "code": "00919",
+      "name": "群益台灣精選高息",
+      "ex_date": "2026-03-17",
+      "record_date": "2026-03-23",
+      "pay_date": "2026-04-14",
+      "cash_per_unit": 0.78,
+      "announce_year": 2026
+    },
+    {
+      "code": "00919",
+      "name": "群益台灣精選高息",
+      "ex_date": "2025-12-16",
+      "record_date": "2025-12-22",
+      "pay_date": "2026-01-13",
+      "cash_per_unit": 0.54,
+      "announce_year": 2025
+    },
+    {
+      "code": "00919",
+      "name": "群益台灣精選高息",
+      "ex_date": "2025-09-16",
+      "record_date": "2025-09-22",
+      "pay_date": "2025-10-15",
+      "cash_per_unit": 0.54,
+      "announce_year": 2025
+    },
+    {
+      "code": "00919",
+      "name": "群益台灣精選高息",
+      "ex_date": "2025-06-17",
+      "record_date": "2025-06-23",
+      "pay_date": "2025-07-11",
+      "cash_per_unit": 0.72,
+      "announce_year": 2025
+    },
+    {
+      "code": "00919",
+      "name": "群益台灣精選高息",
+      "ex_date": "2025-03-18",
+      "record_date": "2025-03-24",
+      "pay_date": "2025-04-15",
+      "cash_per_unit": 0.72,
+      "announce_year": 2025
+    },
+    {
+      "code": "00919",
+      "name": "群益台灣精選高息",
+      "ex_date": "2024-12-20",
+      "record_date": "2024-12-28",
+      "pay_date": "2025-01-13",
+      "cash_per_unit": 0.72,
+      "announce_year": 2024
+    },
+    {
+      "code": "00919",
+      "name": "群益台灣精選高息",
+      "ex_date": "2024-09-23",
+      "record_date": "2024-09-29",
+      "pay_date": "2024-10-15",
+      "cash_per_unit": 0.72,
+      "announce_year": 2024
+    },
+    {
+      "code": "00919",
+      "name": "群益台灣精選高息",
+      "ex_date": "2024-06-24",
+      "record_date": "2024-06-30",
+      "pay_date": "2024-07-15",
+      "cash_per_unit": 0.7,
+      "announce_year": 2024
+    },
+    {
+      "code": "00919",
+      "name": "群益台灣精選高息",
+      "ex_date": "2024-03-18",
+      "record_date": "2024-03-24",
+      "pay_date": "2024-04-15",
+      "cash_per_unit": 0.66,
+      "announce_year": 2024
+    },
+    {
+      "code": "00919",
+      "name": "群益台灣精選高息",
+      "ex_date": "2023-12-18",
+      "record_date": "2023-12-24",
+      "pay_date": "2024-01-12",
+      "cash_per_unit": 0.55,
+      "announce_year": 2023
+    },
+    {
+      "code": "00919",
+      "name": "群益台灣精選高息",
+      "ex_date": "2023-09-18",
+      "record_date": "2023-09-24",
+      "pay_date": "2023-10-17",
+      "cash_per_unit": 0.54,
+      "announce_year": 2023
+    },
+    {
+      "code": "00919",
+      "name": "群益台灣精選高息",
+      "ex_date": "2023-06-16",
+      "record_date": "2023-06-24",
+      "pay_date": "2023-07-14",
+      "cash_per_unit": 0.54,
+      "announce_year": 2023
+    }
+  ],
+  "annual": [
+    {
+      "year": 2023,
+      "cash_per_unit": 1.63,
+      "payments": 3,
+      "frequency": "不定期"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 2.8,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 2.52,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 2.88,
+      "payments": 3,
+      "frequency": "不定期"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

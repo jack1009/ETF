@@ -1,0 +1,20 @@
+{
+  "code": "00865B",
+  "name": "國泰US短期公債",
+  "full_name": "國泰美國收益傘型證券投資信託基金之美國短期公債ETF證券投資信託基金",
+  "category": "債券",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2019-11-25",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 50.95,
+  "low": 50.8,
+  "high": 51.0,
+  "close": 50.9,
+  "change": -0.05,
+  "volume_shares": 3477757.0,
+  "turnover": 177050094.0,
+  "transactions": 1054.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

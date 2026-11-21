@@ -1,0 +1,62 @@
+{
+  "code": "00400A",
+  "name": "主動國泰動能高息",
+  "frequency": "不定期",
+  "distributions": [
+    {
+      "code": "00400A",
+      "name": "主動國泰動能高息",
+      "ex_date": "2026-11-06",
+      "record_date": "2026-11-14",
+      "pay_date": "2026-12-02",
+      "cash_per_unit": 0.12,
+      "announce_year": 2026
+    },
+    {
+      "code": "00400A",
+      "name": "主動國泰動能高息",
+      "ex_date": "2026-10-08",
+      "record_date": "2026-10-17",
+      "pay_date": "2026-11-05",
+      "cash_per_unit": 0.12,
+      "announce_year": 2026
+    },
+    {
+      "code": "00400A",
+      "name": "主動國泰動能高息",
+      "ex_date": "2026-09-07",
+      "record_date": "2026-09-13",
+      "pay_date": "2026-10-05",
+      "cash_per_unit": 0.12,
+      "announce_year": 2026
+    },
+    {
+      "code": "00400A",
+      "name": "主動國泰動能高息",
+      "ex_date": "2026-08-05",
+      "record_date": "2026-08-11",
+      "pay_date": "2026-08-31",
+      "cash_per_unit": 0.12,
+      "announce_year": 2026
+    },
+    {
+      "code": "00400A",
+      "name": "主動國泰動能高息",
+      "ex_date": "2026-07-09",
+      "record_date": "2026-07-15",
+      "pay_date": "2026-07-31",
+      "cash_per_unit": 0.12,
+      "announce_year": 2026
+    }
+  ],
+  "annual": [
+    {
+      "year": 2026,
+      "cash_per_unit": 0.6,
+      "payments": 5,
+      "frequency": "不定期"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

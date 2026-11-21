@@ -1,0 +1,20 @@
+{
+  "code": "00960",
+  "name": "野村全球航運龍頭",
+  "full_name": "野村全球航運龍頭息收ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2024-09-20",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 21.34,
+  "low": 20.62,
+  "high": 21.34,
+  "close": 20.62,
+  "change": -0.63,
+  "volume_shares": 569561.0,
+  "turnover": 11850426.0,
+  "transactions": 3303.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

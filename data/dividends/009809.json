@@ -1,0 +1,35 @@
+{
+  "code": "009809",
+  "name": "富邦淨零ESG50",
+  "frequency": "半年配",
+  "distributions": [
+    {
+      "code": "009809",
+      "name": "富邦淨零ESG50",
+      "ex_date": "2026-09-16",
+      "record_date": "2026-09-22",
+      "pay_date": "2026-10-14",
+      "cash_per_unit": 0.215,
+      "announce_year": 2026
+    },
+    {
+      "code": "009809",
+      "name": "富邦淨零ESG50",
+      "ex_date": "2026-06-16",
+      "record_date": "2026-06-22",
+      "pay_date": "2026-07-09",
+      "cash_per_unit": 0.1,
+      "announce_year": 2026
+    }
+  ],
+  "annual": [
+    {
+      "year": 2026,
+      "cash_per_unit": 0.315,
+      "payments": 2,
+      "frequency": "半年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

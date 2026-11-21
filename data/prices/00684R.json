@@ -1,0 +1,20 @@
+{
+  "code": "00684R",
+  "name": "期元大美元指反1",
+  "full_name": "元大標普美元指數傘型期貨信託基金之元大標普美元ER單日反向1倍指數股票型期貨信託基金",
+  "category": "槓桿反向",
+  "fund_type": "槓桿/反向指數股票型基金",
+  "listed_on": "2017-03-14",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 14.49,
+  "low": 14.46,
+  "high": 14.49,
+  "close": 14.49,
+  "change": -0.07,
+  "volume_shares": 64001.0,
+  "turnover": 926484.0,
+  "transactions": 9.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

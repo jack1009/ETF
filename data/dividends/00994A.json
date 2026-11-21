@@ -1,0 +1,35 @@
+{
+  "code": "00994A",
+  "name": "主動第一金台股優",
+  "frequency": "半年配",
+  "distributions": [
+    {
+      "code": "00994A",
+      "name": "主動第一金台股優",
+      "ex_date": "2026-09-18",
+      "record_date": "2026-09-26",
+      "pay_date": "2026-10-15",
+      "cash_per_unit": 0.257,
+      "announce_year": 2026
+    },
+    {
+      "code": "00994A",
+      "name": "主動第一金台股優",
+      "ex_date": "2026-06-18",
+      "record_date": "2026-06-27",
+      "pay_date": "2026-07-13",
+      "cash_per_unit": 0.462,
+      "announce_year": 2026
+    }
+  ],
+  "annual": [
+    {
+      "year": 2026,
+      "cash_per_unit": 0.719,
+      "payments": 2,
+      "frequency": "半年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

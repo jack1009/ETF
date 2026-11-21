@@ -1,0 +1,41 @@
+{
+  "code": "00660",
+  "name": "元大歐洲50",
+  "frequency": "年配",
+  "distributions": [
+    {
+      "code": "00660",
+      "name": "元大歐洲50",
+      "ex_date": "2020-10-28",
+      "record_date": "2020-11-03",
+      "pay_date": "2020-11-26",
+      "cash_per_unit": 0.36,
+      "announce_year": 2020
+    },
+    {
+      "code": "00660",
+      "name": "元大歐洲50",
+      "ex_date": "2019-10-23",
+      "record_date": "2019-10-29",
+      "pay_date": "2019-11-21",
+      "cash_per_unit": 0.75,
+      "announce_year": 2019
+    }
+  ],
+  "annual": [
+    {
+      "year": 2019,
+      "cash_per_unit": 0.75,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2020,
+      "cash_per_unit": 0.36,
+      "payments": 1,
+      "frequency": "年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

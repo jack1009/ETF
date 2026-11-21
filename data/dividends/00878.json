@@ -1,0 +1,278 @@
+{
+  "code": "00878",
+  "name": "國泰永續高股息",
+  "frequency": "季配",
+  "distributions": [
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2026-11-17",
+      "record_date": "2026-11-23",
+      "pay_date": "2026-12-11",
+      "cash_per_unit": 1.25,
+      "announce_year": 2026
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2026-08-18",
+      "record_date": "2026-08-24",
+      "pay_date": "2026-09-11",
+      "cash_per_unit": 1.01,
+      "announce_year": 2026
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2026-05-19",
+      "record_date": "2026-05-25",
+      "pay_date": "2026-06-12",
+      "cash_per_unit": 0.66,
+      "announce_year": 2026
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2026-02-26",
+      "record_date": "2026-03-07",
+      "pay_date": "2026-03-23",
+      "cash_per_unit": 0.42,
+      "announce_year": 2026
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2025-11-18",
+      "record_date": "2025-11-24",
+      "pay_date": "2025-12-12",
+      "cash_per_unit": 0.4,
+      "announce_year": 2025
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2025-08-18",
+      "record_date": "2025-08-24",
+      "pay_date": "2025-09-11",
+      "cash_per_unit": 0.4,
+      "announce_year": 2025
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2025-05-19",
+      "record_date": "2025-05-25",
+      "pay_date": "2025-06-13",
+      "cash_per_unit": 0.47,
+      "announce_year": 2025
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2025-02-20",
+      "record_date": "2025-02-26",
+      "pay_date": "2025-03-18",
+      "cash_per_unit": 0.5,
+      "announce_year": 2025
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2024-11-18",
+      "record_date": "2024-11-24",
+      "pay_date": "2024-12-12",
+      "cash_per_unit": 0.55,
+      "announce_year": 2024
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2024-08-16",
+      "record_date": "2024-08-24",
+      "pay_date": "2024-09-11",
+      "cash_per_unit": 0.55,
+      "announce_year": 2024
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2024-05-17",
+      "record_date": "2024-05-25",
+      "pay_date": "2024-06-13",
+      "cash_per_unit": 0.51,
+      "announce_year": 2024
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2024-02-27",
+      "record_date": "2024-03-05",
+      "pay_date": "2024-03-25",
+      "cash_per_unit": 0.4,
+      "announce_year": 2024
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2023-11-16",
+      "record_date": "2023-11-24",
+      "pay_date": "2023-12-12",
+      "cash_per_unit": 0.35,
+      "announce_year": 2023
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2023-08-16",
+      "record_date": "2023-08-22",
+      "pay_date": "2023-09-11",
+      "cash_per_unit": 0.35,
+      "announce_year": 2023
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2023-05-17",
+      "record_date": "2023-05-23",
+      "pay_date": "2023-06-12",
+      "cash_per_unit": 0.27,
+      "announce_year": 2023
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2023-02-16",
+      "record_date": "2023-02-22",
+      "pay_date": "2023-03-22",
+      "cash_per_unit": 0.27,
+      "announce_year": 2023
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2022-11-16",
+      "record_date": "2022-11-22",
+      "pay_date": "2022-12-19",
+      "cash_per_unit": 0.28,
+      "announce_year": 2022
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2022-08-16",
+      "record_date": "2022-08-22",
+      "pay_date": "2022-09-19",
+      "cash_per_unit": 0.28,
+      "announce_year": 2022
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2022-05-18",
+      "record_date": "2022-05-24",
+      "pay_date": "2022-06-21",
+      "cash_per_unit": 0.32,
+      "announce_year": 2022
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2022-02-22",
+      "record_date": "2022-02-28",
+      "pay_date": "2022-03-28",
+      "cash_per_unit": 0.3,
+      "announce_year": 2022
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2021-11-16",
+      "record_date": "2021-11-22",
+      "pay_date": "2021-12-17",
+      "cash_per_unit": 0.28,
+      "announce_year": 2021
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2021-08-17",
+      "record_date": "2021-08-23",
+      "pay_date": "2021-09-17",
+      "cash_per_unit": 0.3,
+      "announce_year": 2021
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2021-05-18",
+      "record_date": "2021-05-24",
+      "pay_date": "2021-06-21",
+      "cash_per_unit": 0.25,
+      "announce_year": 2021
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2021-02-25",
+      "record_date": "2021-03-06",
+      "pay_date": "2021-03-31",
+      "cash_per_unit": 0.15,
+      "announce_year": 2021
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "ex_date": "2020-11-17",
+      "record_date": "2020-11-23",
+      "pay_date": "2020-12-18",
+      "cash_per_unit": 0.05,
+      "announce_year": 2020
+    }
+  ],
+  "annual": [
+    {
+      "year": 2020,
+      "cash_per_unit": 0.05,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2021,
+      "cash_per_unit": 0.98,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2022,
+      "cash_per_unit": 1.18,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2023,
+      "cash_per_unit": 1.24,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 2.01,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 1.77,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 3.34,
+      "payments": 4,
+      "frequency": "季配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

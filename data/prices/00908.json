@@ -1,0 +1,20 @@
+{
+  "code": "00908",
+  "name": "富邦入息REITs+",
+  "full_name": "富邦全球入息不動產與基礎建設ETF證券投資信託基金",
+  "category": "不動產",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2022-05-20",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 15.13,
+  "low": 15.09,
+  "high": 15.13,
+  "close": 15.11,
+  "change": -0.01,
+  "volume_shares": 22922.0,
+  "turnover": 346184.0,
+  "transactions": 19.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

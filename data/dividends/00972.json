@@ -1,0 +1,77 @@
+{
+  "code": "00972",
+  "name": "野村日本動能高息",
+  "frequency": "不定期",
+  "distributions": [
+    {
+      "code": "00972",
+      "name": "野村日本動能高息",
+      "ex_date": "2026-09-16",
+      "record_date": "2026-09-22",
+      "pay_date": "2026-10-15",
+      "cash_per_unit": 0.22,
+      "announce_year": 2026
+    },
+    {
+      "code": "00972",
+      "name": "野村日本動能高息",
+      "ex_date": "2026-06-16",
+      "record_date": "2026-06-22",
+      "pay_date": "2026-07-10",
+      "cash_per_unit": 0.22,
+      "announce_year": 2026
+    },
+    {
+      "code": "00972",
+      "name": "野村日本動能高息",
+      "ex_date": "2026-03-17",
+      "record_date": "2026-03-23",
+      "pay_date": "2026-04-14",
+      "cash_per_unit": 0.27,
+      "announce_year": 2026
+    },
+    {
+      "code": "00972",
+      "name": "野村日本動能高息",
+      "ex_date": "2025-12-16",
+      "record_date": "2025-12-22",
+      "pay_date": "2026-01-13",
+      "cash_per_unit": 0.27,
+      "announce_year": 2025
+    },
+    {
+      "code": "00972",
+      "name": "野村日本動能高息",
+      "ex_date": "2025-09-16",
+      "record_date": "2025-09-22",
+      "pay_date": "2025-10-15",
+      "cash_per_unit": 0.07,
+      "announce_year": 2025
+    },
+    {
+      "code": "00972",
+      "name": "野村日本動能高息",
+      "ex_date": "2025-06-17",
+      "record_date": "2025-06-23",
+      "pay_date": "2025-07-11",
+      "cash_per_unit": 0.05,
+      "announce_year": 2025
+    }
+  ],
+  "annual": [
+    {
+      "year": 2025,
+      "cash_per_unit": 0.39,
+      "payments": 3,
+      "frequency": "不定期"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 0.71,
+      "payments": 3,
+      "frequency": "不定期"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

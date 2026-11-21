@@ -1,0 +1,20 @@
+{
+  "code": "00714",
+  "name": "群益道瓊美國地產",
+  "full_name": "群益道瓊美國地產ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2017-10-27",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 22.11,
+  "low": 22.08,
+  "high": 22.16,
+  "close": 22.09,
+  "change": 0.05,
+  "volume_shares": 252875.0,
+  "turnover": 5589275.0,
+  "transactions": 88.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

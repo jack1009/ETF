@@ -1,0 +1,20 @@
+{
+  "code": "00988A",
+  "name": "主動統一全球創新",
+  "full_name": "統一全球創新主動式ETF證券投資信託基金",
+  "category": "主動股票",
+  "fund_type": "國外成分證券主動式交易所交易基金(股票)",
+  "listed_on": "2025-11-05",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 12.71,
+  "low": 12.36,
+  "high": 12.74,
+  "close": 12.38,
+  "change": -0.04,
+  "volume_shares": 33926961.0,
+  "turnover": 422903805.0,
+  "transactions": 4855.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

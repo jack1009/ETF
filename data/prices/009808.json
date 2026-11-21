@@ -1,0 +1,20 @@
+{
+  "code": "009808",
+  "name": "華南永昌優選50",
+  "full_name": "華南永昌台灣優選50ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2025-05-16",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 26.6,
+  "low": 25.6,
+  "high": 26.8,
+  "close": 25.6,
+  "change": -1.06,
+  "volume_shares": 547031.0,
+  "turnover": 14193351.0,
+  "transactions": 232.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

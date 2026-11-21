@@ -1,0 +1,20 @@
+{
+  "code": "00643",
+  "name": "群益深証中小",
+  "full_name": "群益深証中小１００證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2015-12-02",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 15.32,
+  "low": 15.05,
+  "high": 15.32,
+  "close": 15.22,
+  "change": -0.03,
+  "volume_shares": 2672663.0,
+  "turnover": 40775640.0,
+  "transactions": 101.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

@@ -1,0 +1,98 @@
+{
+  "code": "00923",
+  "name": "群益台ESG低碳50",
+  "frequency": "半年配",
+  "distributions": [
+    {
+      "code": "00923",
+      "name": "群益台ESG低碳50",
+      "ex_date": "2026-08-18",
+      "record_date": "2026-08-24",
+      "pay_date": "2026-09-11",
+      "cash_per_unit": 3.05,
+      "announce_year": 2026
+    },
+    {
+      "code": "00923",
+      "name": "群益台ESG低碳50",
+      "ex_date": "2026-02-26",
+      "record_date": "2026-03-07",
+      "pay_date": "2026-03-25",
+      "cash_per_unit": 1.71,
+      "announce_year": 2026
+    },
+    {
+      "code": "00923",
+      "name": "群益台ESG低碳50",
+      "ex_date": "2025-08-18",
+      "record_date": "2025-08-24",
+      "pay_date": "2025-09-11",
+      "cash_per_unit": 0.923,
+      "announce_year": 2025
+    },
+    {
+      "code": "00923",
+      "name": "群益台ESG低碳50",
+      "ex_date": "2025-02-18",
+      "record_date": "2025-02-24",
+      "pay_date": "2025-03-17",
+      "cash_per_unit": 0.77,
+      "announce_year": 2025
+    },
+    {
+      "code": "00923",
+      "name": "群益台ESG低碳50",
+      "ex_date": "2024-08-21",
+      "record_date": "2024-08-27",
+      "pay_date": "2024-09-11",
+      "cash_per_unit": 0.923,
+      "announce_year": 2024
+    },
+    {
+      "code": "00923",
+      "name": "群益台ESG低碳50",
+      "ex_date": "2024-02-27",
+      "record_date": "2024-03-05",
+      "pay_date": "2024-03-25",
+      "cash_per_unit": 0.23,
+      "announce_year": 2024
+    },
+    {
+      "code": "00923",
+      "name": "群益台灣ESG低碳",
+      "ex_date": "2023-08-16",
+      "record_date": "2023-08-22",
+      "pay_date": "2023-09-11",
+      "cash_per_unit": 0.561,
+      "announce_year": 2023
+    }
+  ],
+  "annual": [
+    {
+      "year": 2023,
+      "cash_per_unit": 0.561,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 1.153,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 1.693,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 4.76,
+      "payments": 2,
+      "frequency": "半年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

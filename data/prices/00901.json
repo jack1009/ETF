@@ -1,0 +1,20 @@
+{
+  "code": "00901",
+  "name": "永豐智能車供應鏈",
+  "full_name": "永豐台灣智能車供應鏈ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2021-12-15",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 37.12,
+  "low": 35.18,
+  "high": 37.35,
+  "close": 35.24,
+  "change": -1.78,
+  "volume_shares": 5814916.0,
+  "turnover": 208581873.0,
+  "transactions": 3986.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

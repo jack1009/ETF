@@ -1,0 +1,20 @@
+{
+  "code": "00753L",
+  "name": "中信中國50正2",
+  "full_name": "中國信託中國外資自由投資50不含A及B股傘型ETF證券投資信託基金之中國信託MSCI中國外資自由投資50不含A及B股單日正向2倍ETF證券投資信託基金",
+  "category": "槓桿反向",
+  "fund_type": "槓桿/反向指數股票型基金",
+  "listed_on": "2018-10-31",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 7.35,
+  "low": 7.06,
+  "high": 7.36,
+  "close": 7.07,
+  "change": -0.38,
+  "volume_shares": 17816533.0,
+  "turnover": 127420407.0,
+  "transactions": 2216.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

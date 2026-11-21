@@ -1,0 +1,20 @@
+{
+  "code": "00875",
+  "name": "國泰網路資安",
+  "full_name": "國泰網路資安ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2020-03-30",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 59.45,
+  "low": 59.4,
+  "high": 60.35,
+  "close": 60.2,
+  "change": 3.75,
+  "volume_shares": 513048.0,
+  "turnover": 30838246.0,
+  "transactions": 1849.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

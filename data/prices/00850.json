@@ -1,0 +1,20 @@
+{
+  "code": "00850",
+  "name": "元大臺灣ESG永續",
+  "full_name": "元大臺灣ESG永續ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2019-08-23",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 80.0,
+  "low": 76.0,
+  "high": 80.0,
+  "close": 76.4,
+  "change": -3.6,
+  "volume_shares": 1094321.0,
+  "turnover": 84524349.0,
+  "transactions": 3317.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

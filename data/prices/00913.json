@@ -1,0 +1,20 @@
+{
+  "code": "00913",
+  "name": "兆豐台灣晶圓製造",
+  "full_name": "兆豐特選台灣晶圓製造 ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2022-08-08",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 37.92,
+  "low": 35.36,
+  "high": 37.99,
+  "close": 35.49,
+  "change": -2.52,
+  "volume_shares": 1875719.0,
+  "turnover": 68473067.0,
+  "transactions": 1392.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

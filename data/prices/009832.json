@@ -1,0 +1,20 @@
+{
+  "code": "009832",
+  "name": "兆豐美國黃金",
+  "full_name": "兆豐美國黃金礦業ETF",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2026-10-29",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 9.22,
+  "low": 9.06,
+  "high": 9.26,
+  "close": 9.07,
+  "change": -0.37,
+  "volume_shares": 5014117.0,
+  "turnover": 45713265.0,
+  "transactions": 1160.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

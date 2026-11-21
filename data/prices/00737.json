@@ -1,0 +1,20 @@
+{
+  "code": "00737",
+  "name": "國泰AI機器人",
+  "full_name": "國泰趨勢ETF傘型證券投資信託基金之納斯達克全球人工智慧及機器人證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2018-06-11",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 36.68,
+  "low": 36.68,
+  "high": 36.94,
+  "close": 36.86,
+  "change": 0.18,
+  "volume_shares": 64879.0,
+  "turnover": 2389303.0,
+  "transactions": 138.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "00403A",
+  "name": "主動統一升級50",
+  "full_name": "統一台股升級50主動式ETF證券投資信託基金",
+  "category": "主動股票",
+  "fund_type": "國內成分證券主動式交易所交易基金(股票)",
+  "listed_on": "2026-05-12",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 8.01,
+  "low": 7.54,
+  "high": 8.05,
+  "close": 7.54,
+  "change": -0.54,
+  "volume_shares": 265540832.0,
+  "turnover": 2042979539.0,
+  "transactions": 57465.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

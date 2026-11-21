@@ -1,0 +1,20 @@
+{
+  "code": "00752",
+  "name": "中信中國50",
+  "full_name": "中國信託中國外資自由投資50不含A及B股傘型ETF證券投資信託基金之中國信託MSCI中國外資自由50不含A及B股ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2018-10-31",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 21.25,
+  "low": 20.74,
+  "high": 21.25,
+  "close": 20.8,
+  "change": -0.45,
+  "volume_shares": 2254160.0,
+  "turnover": 47059624.0,
+  "transactions": 658.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

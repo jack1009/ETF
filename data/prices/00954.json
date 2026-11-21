@@ -1,0 +1,20 @@
+{
+  "code": "00954",
+  "name": "中信日本半導體",
+  "full_name": "中國信託日本ETF傘型證券投資信託基金之中國信託日本半導體ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2024-08-20",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 13.6,
+  "low": 13.25,
+  "high": 13.63,
+  "close": 13.33,
+  "change": -0.12,
+  "volume_shares": 1295121.0,
+  "turnover": 17343754.0,
+  "transactions": 549.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

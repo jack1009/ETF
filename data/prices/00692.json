@@ -1,0 +1,20 @@
+{
+  "code": "00692",
+  "name": "富邦公司治理",
+  "full_name": "富邦臺灣公司治理100證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2017-05-17",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 80.0,
+  "low": 76.6,
+  "high": 80.55,
+  "close": 77.0,
+  "change": -3.0,
+  "volume_shares": 1090795.0,
+  "turnover": 85222272.0,
+  "transactions": 3127.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

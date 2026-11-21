@@ -1,0 +1,20 @@
+{
+  "code": "00682U",
+  "name": "期元大美元指數",
+  "full_name": "元大標普美元指數傘型期貨信託基金之元大標普美元ER指數股票型期貨信託基金",
+  "category": "期貨",
+  "fund_type": "指數股票型期貨信託基金",
+  "listed_on": "2017-03-14",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": null,
+  "low": null,
+  "high": null,
+  "close": null,
+  "change": 0.0,
+  "volume_shares": 1203.0,
+  "turnover": 26020.0,
+  "transactions": 11.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

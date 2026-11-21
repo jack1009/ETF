@@ -1,0 +1,20 @@
+{
+  "code": "006204",
+  "name": "永豐臺灣加權",
+  "full_name": "永豐臺灣加權ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2011-09-28",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 196.05,
+  "low": 194.5,
+  "high": 198.0,
+  "close": 194.5,
+  "change": -11.4,
+  "volume_shares": 9146.0,
+  "turnover": 1797491.0,
+  "transactions": 111.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

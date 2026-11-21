@@ -1,0 +1,131 @@
+{
+  "code": "0051",
+  "name": "元大中型100",
+  "frequency": "年配",
+  "distributions": [
+    {
+      "code": "0051",
+      "name": "元大中型100",
+      "ex_date": "2026-11-20",
+      "record_date": "2026-11-28",
+      "pay_date": "2026-12-11",
+      "cash_per_unit": 4.5,
+      "announce_year": 2026
+    },
+    {
+      "code": "0051",
+      "name": "元大中型100",
+      "ex_date": "2025-11-21",
+      "record_date": "2025-11-29",
+      "pay_date": "2025-12-12",
+      "cash_per_unit": 3.0,
+      "announce_year": 2025
+    },
+    {
+      "code": "0051",
+      "name": "元大中型100",
+      "ex_date": "2024-11-18",
+      "record_date": "2024-11-24",
+      "pay_date": "2024-12-12",
+      "cash_per_unit": 2.46,
+      "announce_year": 2024
+    },
+    {
+      "code": "0051",
+      "name": "元大中型100",
+      "ex_date": "2023-11-16",
+      "record_date": "2023-11-22",
+      "pay_date": "2023-12-12",
+      "cash_per_unit": 2.5,
+      "announce_year": 2023
+    },
+    {
+      "code": "0051",
+      "name": "元大中型100",
+      "ex_date": "2022-11-16",
+      "record_date": "2022-11-22",
+      "pay_date": "2022-12-15",
+      "cash_per_unit": 2.4,
+      "announce_year": 2022
+    },
+    {
+      "code": "0051",
+      "name": "元大中型100",
+      "ex_date": "2021-11-19",
+      "record_date": "2021-11-27",
+      "pay_date": "2021-12-20",
+      "cash_per_unit": 1.75,
+      "announce_year": 2021
+    },
+    {
+      "code": "0051",
+      "name": "元大中型100",
+      "ex_date": "2020-11-20",
+      "record_date": "2020-11-28",
+      "pay_date": "2020-12-21",
+      "cash_per_unit": 1.1,
+      "announce_year": 2020
+    },
+    {
+      "code": "0051",
+      "name": "元大中型100",
+      "ex_date": "2019-11-22",
+      "record_date": "2019-11-30",
+      "pay_date": "2019-12-23",
+      "cash_per_unit": 1.2,
+      "announce_year": 2019
+    }
+  ],
+  "annual": [
+    {
+      "year": 2019,
+      "cash_per_unit": 1.2,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2020,
+      "cash_per_unit": 1.1,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2021,
+      "cash_per_unit": 1.75,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2022,
+      "cash_per_unit": 2.4,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2023,
+      "cash_per_unit": 2.5,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 2.46,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 3.0,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 4.5,
+      "payments": 1,
+      "frequency": "年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

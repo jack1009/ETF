@@ -1,0 +1,26 @@
+{
+  "code": "00776",
+  "name": "新光ICE美國權值",
+  "frequency": "年配",
+  "distributions": [
+    {
+      "code": "00776",
+      "name": "新光ICE美國權值",
+      "ex_date": "2019-11-22",
+      "record_date": "2019-11-30",
+      "pay_date": "2019-12-30",
+      "cash_per_unit": 0.39,
+      "announce_year": 2019
+    }
+  ],
+  "annual": [
+    {
+      "year": 2019,
+      "cash_per_unit": 0.39,
+      "payments": 1,
+      "frequency": "年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

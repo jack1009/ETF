@@ -1,0 +1,338 @@
+{
+  "code": "00712",
+  "name": "復華富時不動產",
+  "frequency": "不定期",
+  "distributions": [
+    {
+      "code": "00712",
+      "name": "復華富時不動產",
+      "ex_date": "2026-09-17",
+      "record_date": "2026-09-23",
+      "pay_date": "2026-10-16",
+      "cash_per_unit": 0.2,
+      "announce_year": 2026
+    },
+    {
+      "code": "00712",
+      "name": "復華富時不動產",
+      "ex_date": "2026-06-17",
+      "record_date": "2026-06-23",
+      "pay_date": "2026-07-13",
+      "cash_per_unit": 0.235,
+      "announce_year": 2026
+    },
+    {
+      "code": "00712",
+      "name": "復華富時不動產",
+      "ex_date": "2026-03-18",
+      "record_date": "2026-03-24",
+      "pay_date": "2026-04-15",
+      "cash_per_unit": 0.19,
+      "announce_year": 2026
+    },
+    {
+      "code": "00712",
+      "name": "復華富時不動產",
+      "ex_date": "2025-12-17",
+      "record_date": "2025-12-23",
+      "pay_date": "2026-01-14",
+      "cash_per_unit": 0.19,
+      "announce_year": 2025
+    },
+    {
+      "code": "00712",
+      "name": "復華富時不動產",
+      "ex_date": "2025-09-17",
+      "record_date": "2025-09-23",
+      "pay_date": "2025-10-15",
+      "cash_per_unit": 0.19,
+      "announce_year": 2025
+    },
+    {
+      "code": "00712",
+      "name": "復華富時不動產",
+      "ex_date": "2025-06-18",
+      "record_date": "2025-06-24",
+      "pay_date": "2025-07-14",
+      "cash_per_unit": 0.23,
+      "announce_year": 2025
+    },
+    {
+      "code": "00712",
+      "name": "復華富時不動產",
+      "ex_date": "2025-03-19",
+      "record_date": "2025-03-25",
+      "pay_date": "2025-04-16",
+      "cash_per_unit": 0.183,
+      "announce_year": 2025
+    },
+    {
+      "code": "00712",
+      "name": "復華富時不動產",
+      "ex_date": "2024-12-18",
+      "record_date": "2024-12-24",
+      "pay_date": "2025-01-14",
+      "cash_per_unit": 0.185,
+      "announce_year": 2024
+    },
+    {
+      "code": "00712",
+      "name": "復華富時不動產",
+      "ex_date": "2024-09-19",
+      "record_date": "2024-09-25",
+      "pay_date": "2024-10-16",
+      "cash_per_unit": 0.2,
+      "announce_year": 2024
+    },
+    {
+      "code": "00712",
+      "name": "復華富時不動產",
+      "ex_date": "2024-06-20",
+      "record_date": "2024-06-26",
+      "pay_date": "2024-07-16",
+      "cash_per_unit": 0.22,
+      "announce_year": 2024
+    },
+    {
+      "code": "00712",
+      "name": "復華富時不動產",
+      "ex_date": "2024-03-19",
+      "record_date": "2024-03-25",
+      "pay_date": "2024-04-16",
+      "cash_per_unit": 0.18,
+      "announce_year": 2024
+    },
+    {
+      "code": "00712",
+      "name": "復華富時不動產",
+      "ex_date": "2023-12-20",
+      "record_date": "2023-12-26",
+      "pay_date": "2024-01-17",
+      "cash_per_unit": 0.2,
+      "announce_year": 2023
+    },
+    {
+      "code": "00712",
+      "name": "復華富時不動產",
+      "ex_date": "2023-09-19",
+      "record_date": "2023-09-25",
+      "pay_date": "2023-10-18",
+      "cash_per_unit": 0.19,
+      "announce_year": 2023
+    },
+    {
+      "code": "00712",
+      "name": "復華富時不動產",
+      "ex_date": "2023-06-20",
+      "record_date": "2023-06-26",
+      "pay_date": "2023-07-14",
+      "cash_per_unit": 0.27,
+      "announce_year": 2023
+    },
+    {
+      "code": "00712",
+      "name": "FH富時不動產",
+      "ex_date": "2023-03-21",
+      "record_date": "2023-03-27",
+      "pay_date": "2023-04-20",
+      "cash_per_unit": 0.24,
+      "announce_year": 2023
+    },
+    {
+      "code": "00712",
+      "name": "FH富時不動產",
+      "ex_date": "2022-12-21",
+      "record_date": "2022-12-27",
+      "pay_date": "2023-01-31",
+      "cash_per_unit": 0.23,
+      "announce_year": 2022
+    },
+    {
+      "code": "00712",
+      "name": "FH富時不動產",
+      "ex_date": "2022-09-20",
+      "record_date": "2022-09-26",
+      "pay_date": "2022-10-18",
+      "cash_per_unit": 0.225,
+      "announce_year": 2022
+    },
+    {
+      "code": "00712",
+      "name": "FH富時不動產",
+      "ex_date": "2022-06-21",
+      "record_date": "2022-06-27",
+      "pay_date": "2022-07-19",
+      "cash_per_unit": 0.205,
+      "announce_year": 2022
+    },
+    {
+      "code": "00712",
+      "name": "FH富時不動產",
+      "ex_date": "2022-03-17",
+      "record_date": "2022-03-23",
+      "pay_date": "2022-04-18",
+      "cash_per_unit": 0.184,
+      "announce_year": 2022
+    },
+    {
+      "code": "00712",
+      "name": "FH富時不動產",
+      "ex_date": "2021-12-21",
+      "record_date": "2021-12-27",
+      "pay_date": "2022-01-19",
+      "cash_per_unit": 0.187,
+      "announce_year": 2021
+    },
+    {
+      "code": "00712",
+      "name": "FH富時不動產",
+      "ex_date": "2021-09-17",
+      "record_date": "2021-09-27",
+      "pay_date": "2021-10-19",
+      "cash_per_unit": 0.188,
+      "announce_year": 2021
+    },
+    {
+      "code": "00712",
+      "name": "FH富時不動產",
+      "ex_date": "2021-06-22",
+      "record_date": "2021-06-28",
+      "pay_date": "2021-07-20",
+      "cash_per_unit": 0.218,
+      "announce_year": 2021
+    },
+    {
+      "code": "00712",
+      "name": "FH富時不動產",
+      "ex_date": "2021-03-18",
+      "record_date": "2021-03-24",
+      "pay_date": "2021-04-16",
+      "cash_per_unit": 0.173,
+      "announce_year": 2021
+    },
+    {
+      "code": "00712",
+      "name": "FH富時不動產",
+      "ex_date": "2020-12-17",
+      "record_date": "2020-12-23",
+      "pay_date": "2021-01-15",
+      "cash_per_unit": 0.173,
+      "announce_year": 2020
+    },
+    {
+      "code": "00712",
+      "name": "FH富時不動產",
+      "ex_date": "2020-09-17",
+      "record_date": "2020-09-23",
+      "pay_date": "2020-10-19",
+      "cash_per_unit": 0.273,
+      "announce_year": 2020
+    },
+    {
+      "code": "00712",
+      "name": "FH富時不動產",
+      "ex_date": "2020-06-17",
+      "record_date": "2020-06-23",
+      "pay_date": "2020-07-17",
+      "cash_per_unit": 0.338,
+      "announce_year": 2020
+    },
+    {
+      "code": "00712",
+      "name": "FH富時不動產",
+      "ex_date": "2020-03-19",
+      "record_date": "2020-03-25",
+      "pay_date": "2020-04-20",
+      "cash_per_unit": 0.278,
+      "announce_year": 2020
+    },
+    {
+      "code": "00712",
+      "name": "FH富時不動產",
+      "ex_date": "2019-12-24",
+      "record_date": "2019-12-30",
+      "pay_date": "2020-01-31",
+      "cash_per_unit": 0.264,
+      "announce_year": 2019
+    },
+    {
+      "code": "00712",
+      "name": "FH富時不動產",
+      "ex_date": "2019-09-25",
+      "record_date": "2019-10-01",
+      "pay_date": "2019-10-25",
+      "cash_per_unit": 0.104,
+      "announce_year": 2019
+    },
+    {
+      "code": "00712",
+      "name": "FH富時不動產",
+      "ex_date": "2019-06-25",
+      "record_date": "2019-07-01",
+      "pay_date": "2019-07-23",
+      "cash_per_unit": 0.438,
+      "announce_year": 2019
+    },
+    {
+      "code": "00712",
+      "name": "FH富時不動產",
+      "ex_date": "2019-03-21",
+      "record_date": "2019-03-27",
+      "pay_date": "2019-04-22",
+      "cash_per_unit": 0.135,
+      "announce_year": 2019
+    }
+  ],
+  "annual": [
+    {
+      "year": 2019,
+      "cash_per_unit": 0.941,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2020,
+      "cash_per_unit": 1.062,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2021,
+      "cash_per_unit": 0.766,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2022,
+      "cash_per_unit": 0.844,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2023,
+      "cash_per_unit": 0.9,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 0.785,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 0.793,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 0.625,
+      "payments": 3,
+      "frequency": "不定期"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

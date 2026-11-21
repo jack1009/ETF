@@ -1,0 +1,185 @@
+{
+  "code": "00701",
+  "name": "國泰股利精選30",
+  "frequency": "半年配",
+  "distributions": [
+    {
+      "code": "00701",
+      "name": "國泰股利精選30",
+      "ex_date": "2026-08-18",
+      "record_date": "2026-08-24",
+      "pay_date": "2026-09-11",
+      "cash_per_unit": 1.6,
+      "announce_year": 2026
+    },
+    {
+      "code": "00701",
+      "name": "國泰股利精選30",
+      "ex_date": "2026-01-20",
+      "record_date": "2026-01-26",
+      "pay_date": "2026-02-12",
+      "cash_per_unit": 0.7,
+      "announce_year": 2026
+    },
+    {
+      "code": "00701",
+      "name": "國泰股利精選30",
+      "ex_date": "2025-08-18",
+      "record_date": "2025-08-24",
+      "pay_date": "2025-09-11",
+      "cash_per_unit": 1.8,
+      "announce_year": 2025
+    },
+    {
+      "code": "00701",
+      "name": "國泰股利精選30",
+      "ex_date": "2025-01-17",
+      "record_date": "2025-01-25",
+      "pay_date": "2025-02-18",
+      "cash_per_unit": 2.05,
+      "announce_year": 2025
+    },
+    {
+      "code": "00701",
+      "name": "國泰股利精選30",
+      "ex_date": "2024-08-16",
+      "record_date": "2024-08-24",
+      "pay_date": "2024-09-11",
+      "cash_per_unit": 0.3,
+      "announce_year": 2024
+    },
+    {
+      "code": "00701",
+      "name": "國泰股利精選30",
+      "ex_date": "2024-01-17",
+      "record_date": "2024-01-23",
+      "pay_date": "2024-02-17",
+      "cash_per_unit": 0.79,
+      "announce_year": 2024
+    },
+    {
+      "code": "00701",
+      "name": "國泰股利精選30",
+      "ex_date": "2023-08-16",
+      "record_date": "2023-08-22",
+      "pay_date": "2023-09-11",
+      "cash_per_unit": 0.2,
+      "announce_year": 2023
+    },
+    {
+      "code": "00701",
+      "name": "國泰股利精選30",
+      "ex_date": "2023-01-30",
+      "record_date": "2023-02-05",
+      "pay_date": "2023-03-02",
+      "cash_per_unit": 0.66,
+      "announce_year": 2023
+    },
+    {
+      "code": "00701",
+      "name": "國泰股利精選30",
+      "ex_date": "2022-08-16",
+      "record_date": "2022-08-22",
+      "pay_date": "2022-09-19",
+      "cash_per_unit": 0.25,
+      "announce_year": 2022
+    },
+    {
+      "code": "00701",
+      "name": "國泰股利精選30",
+      "ex_date": "2022-01-18",
+      "record_date": "2022-01-24",
+      "pay_date": "2022-02-25",
+      "cash_per_unit": 1.65,
+      "announce_year": 2022
+    },
+    {
+      "code": "00701",
+      "name": "國泰股利精選30",
+      "ex_date": "2021-08-17",
+      "record_date": "2021-08-23",
+      "pay_date": "2021-09-17",
+      "cash_per_unit": 0.25,
+      "announce_year": 2021
+    },
+    {
+      "code": "00701",
+      "name": "國泰股利精選30",
+      "ex_date": "2021-01-19",
+      "record_date": "2021-01-25",
+      "pay_date": "2021-02-26",
+      "cash_per_unit": 0.73,
+      "announce_year": 2021
+    },
+    {
+      "code": "00701",
+      "name": "國泰股利精選30",
+      "ex_date": "2020-01-30",
+      "record_date": "2020-02-07",
+      "pay_date": "2020-02-27",
+      "cash_per_unit": 1.66,
+      "announce_year": 2020
+    },
+    {
+      "code": "00701",
+      "name": "國泰臺灣低波動30",
+      "ex_date": "2019-01-17",
+      "record_date": "2019-01-25",
+      "pay_date": "2019-02-23",
+      "cash_per_unit": 0.47,
+      "announce_year": 2019
+    }
+  ],
+  "annual": [
+    {
+      "year": 2019,
+      "cash_per_unit": 0.47,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2020,
+      "cash_per_unit": 1.66,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2021,
+      "cash_per_unit": 0.98,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2022,
+      "cash_per_unit": 1.9,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2023,
+      "cash_per_unit": 0.86,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 1.09,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 3.85,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 2.3,
+      "payments": 2,
+      "frequency": "半年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

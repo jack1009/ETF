@@ -1,0 +1,53 @@
+{
+  "code": "00401A",
+  "name": "主動摩根台灣鑫收",
+  "frequency": "季配",
+  "distributions": [
+    {
+      "code": "00401A",
+      "name": "主動摩根台灣鑫收",
+      "ex_date": "2026-11-13",
+      "record_date": "2026-11-21",
+      "pay_date": "2026-12-04",
+      "cash_per_unit": 0.138,
+      "announce_year": 2026
+    },
+    {
+      "code": "00401A",
+      "name": "主動摩根台灣鑫收",
+      "ex_date": "2026-10-15",
+      "record_date": "2026-10-21",
+      "pay_date": "2026-11-05",
+      "cash_per_unit": 0.131,
+      "announce_year": 2026
+    },
+    {
+      "code": "00401A",
+      "name": "主動摩根台灣鑫收",
+      "ex_date": "2026-09-14",
+      "record_date": "2026-09-20",
+      "pay_date": "2026-10-06",
+      "cash_per_unit": 0.125,
+      "announce_year": 2026
+    },
+    {
+      "code": "00401A",
+      "name": "主動摩根台灣鑫收",
+      "ex_date": "2026-08-14",
+      "record_date": "2026-08-22",
+      "pay_date": "2026-09-04",
+      "cash_per_unit": 0.121,
+      "announce_year": 2026
+    }
+  ],
+  "annual": [
+    {
+      "year": 2026,
+      "cash_per_unit": 0.515,
+      "payments": 4,
+      "frequency": "季配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

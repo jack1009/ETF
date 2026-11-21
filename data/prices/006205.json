@@ -1,0 +1,20 @@
+{
+  "code": "006205",
+  "name": "富邦上証",
+  "full_name": "富邦上証180證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2011-09-26",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 38.57,
+  "low": 38.13,
+  "high": 38.68,
+  "close": 38.45,
+  "change": -0.05,
+  "volume_shares": 421920.0,
+  "turnover": 16222303.0,
+  "transactions": 193.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

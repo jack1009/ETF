@@ -1,0 +1,20 @@
+{
+  "code": "00972",
+  "name": "野村日本動能高息",
+  "full_name": "野村美日ETF傘型證券投資信託基金之日本價值動能高息ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2025-01-09",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 22.28,
+  "low": 22.26,
+  "high": 22.34,
+  "close": 22.26,
+  "change": -0.11,
+  "volume_shares": 76279.0,
+  "turnover": 1700176.0,
+  "transactions": 25.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "00728",
+  "name": "第一金工業30",
+  "full_name": "第一金臺灣工業菁英30ETF傘型證券投資信託基金之第一金臺灣工業菁英30 ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2018-04-18",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 52.25,
+  "low": 49.34,
+  "high": 52.3,
+  "close": 49.35,
+  "change": -2.9,
+  "volume_shares": 261598.0,
+  "turnover": 13227742.0,
+  "transactions": 644.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "00404A",
+  "name": "主動聯博動能50",
+  "full_name": "聯博台灣動能收益50主動式ETF證券投資信託基金",
+  "category": "主動股票",
+  "fund_type": "國內成分證券主動式交易所交易基金(股票)",
+  "listed_on": "2026-06-09",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 7.9,
+  "low": 7.47,
+  "high": 7.9,
+  "close": 7.48,
+  "change": -0.42,
+  "volume_shares": 27995420.0,
+  "turnover": 213162097.0,
+  "transactions": 1433.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

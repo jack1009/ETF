@@ -1,0 +1,20 @@
+{
+  "code": "00965",
+  "name": "元大航太防衛科技",
+  "full_name": "元大全球航太與防衛科技ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2024-11-26",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 21.86,
+  "low": 21.71,
+  "high": 21.89,
+  "close": 21.8,
+  "change": 0.05,
+  "volume_shares": 1348470.0,
+  "turnover": 29417235.0,
+  "transactions": 583.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

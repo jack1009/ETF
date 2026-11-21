@@ -1,0 +1,20 @@
+{
+  "code": "00896",
+  "name": "中信綠能及電動車",
+  "full_name": "中國信託臺灣綠能及電動車ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2021-09-16",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 23.03,
+  "low": 21.9,
+  "high": 23.25,
+  "close": 21.9,
+  "change": -1.12,
+  "volume_shares": 5207167.0,
+  "turnover": 115765231.0,
+  "transactions": 3840.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

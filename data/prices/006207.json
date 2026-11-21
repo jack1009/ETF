@@ -1,0 +1,20 @@
+{
+  "code": "006207",
+  "name": "復華滬深",
+  "full_name": "復華滬深300 A股證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2012-06-22",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 29.2,
+  "low": 29.2,
+  "high": 29.44,
+  "close": 29.32,
+  "change": -0.14,
+  "volume_shares": 242960.0,
+  "turnover": 7133367.0,
+  "transactions": 107.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

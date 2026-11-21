@@ -1,0 +1,170 @@
+{
+  "code": "00915",
+  "name": "凱基優選高股息30",
+  "frequency": "不定期",
+  "distributions": [
+    {
+      "code": "00915",
+      "name": "凱基優選高股息30",
+      "ex_date": "2026-09-16",
+      "record_date": "2026-09-22",
+      "pay_date": "2026-10-15",
+      "cash_per_unit": 0.6,
+      "announce_year": 2026
+    },
+    {
+      "code": "00915",
+      "name": "凱基優選高股息30",
+      "ex_date": "2026-06-16",
+      "record_date": "2026-06-22",
+      "pay_date": "2026-07-10",
+      "cash_per_unit": 0.45,
+      "announce_year": 2026
+    },
+    {
+      "code": "00915",
+      "name": "凱基優選高股息30",
+      "ex_date": "2026-03-17",
+      "record_date": "2026-03-23",
+      "pay_date": "2026-04-14",
+      "cash_per_unit": 0.38,
+      "announce_year": 2026
+    },
+    {
+      "code": "00915",
+      "name": "凱基優選高股息30",
+      "ex_date": "2025-12-16",
+      "record_date": "2025-12-22",
+      "pay_date": "2026-01-13",
+      "cash_per_unit": 0.35,
+      "announce_year": 2025
+    },
+    {
+      "code": "00915",
+      "name": "凱基優選高股息30",
+      "ex_date": "2025-09-16",
+      "record_date": "2025-09-22",
+      "pay_date": "2025-10-15",
+      "cash_per_unit": 0.29,
+      "announce_year": 2025
+    },
+    {
+      "code": "00915",
+      "name": "凱基優選高股息30",
+      "ex_date": "2025-06-17",
+      "record_date": "2025-06-23",
+      "pay_date": "2025-07-11",
+      "cash_per_unit": 0.21,
+      "announce_year": 2025
+    },
+    {
+      "code": "00915",
+      "name": "凱基優選高股息30",
+      "ex_date": "2025-03-19",
+      "record_date": "2025-03-25",
+      "pay_date": "2025-04-15",
+      "cash_per_unit": 0.5,
+      "announce_year": 2025
+    },
+    {
+      "code": "00915",
+      "name": "凱基優選高股息30",
+      "ex_date": "2024-12-17",
+      "record_date": "2024-12-23",
+      "pay_date": "2025-01-13",
+      "cash_per_unit": 0.75,
+      "announce_year": 2024
+    },
+    {
+      "code": "00915",
+      "name": "凱基優選高股息30",
+      "ex_date": "2024-09-19",
+      "record_date": "2024-09-25",
+      "pay_date": "2024-10-16",
+      "cash_per_unit": 0.82,
+      "announce_year": 2024
+    },
+    {
+      "code": "00915",
+      "name": "凱基優選高股息30",
+      "ex_date": "2024-06-19",
+      "record_date": "2024-06-25",
+      "pay_date": "2024-07-15",
+      "cash_per_unit": 0.72,
+      "announce_year": 2024
+    },
+    {
+      "code": "00915",
+      "name": "凱基優選高股息30",
+      "ex_date": "2024-03-18",
+      "record_date": "2024-03-24",
+      "pay_date": "2024-04-15",
+      "cash_per_unit": 0.72,
+      "announce_year": 2024
+    },
+    {
+      "code": "00915",
+      "name": "凱基優選高股息30",
+      "ex_date": "2023-12-18",
+      "record_date": "2023-12-24",
+      "pay_date": "2024-01-12",
+      "cash_per_unit": 0.45,
+      "announce_year": 2023
+    },
+    {
+      "code": "00915",
+      "name": "凱基優選高股息30",
+      "ex_date": "2023-09-18",
+      "record_date": "2023-09-24",
+      "pay_date": "2023-10-17",
+      "cash_per_unit": 0.7,
+      "announce_year": 2023
+    },
+    {
+      "code": "00915",
+      "name": "凱基優選高股息30",
+      "ex_date": "2023-06-16",
+      "record_date": "2023-06-24",
+      "pay_date": "2023-07-13",
+      "cash_per_unit": 0.32,
+      "announce_year": 2023
+    },
+    {
+      "code": "00915",
+      "name": "凱基優選高股息30",
+      "ex_date": "2023-03-16",
+      "record_date": "2023-03-22",
+      "pay_date": "2023-04-21",
+      "cash_per_unit": 0.22,
+      "announce_year": 2023
+    }
+  ],
+  "annual": [
+    {
+      "year": 2023,
+      "cash_per_unit": 1.69,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 3.01,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 1.35,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 1.43,
+      "payments": 3,
+      "frequency": "不定期"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "00900",
+  "name": "富邦特選高股息30",
+  "full_name": "富邦特選台灣高股息30 ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2021-12-22",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 17.6,
+  "low": 17.18,
+  "high": 17.72,
+  "close": 17.19,
+  "change": -0.46,
+  "volume_shares": 3016254.0,
+  "turnover": 52480566.0,
+  "transactions": 1216.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

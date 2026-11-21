@@ -1,0 +1,146 @@
+{
+  "code": "00892",
+  "name": "富邦台灣半導體",
+  "frequency": "半年配",
+  "distributions": [
+    {
+      "code": "00892",
+      "name": "富邦台灣半導體",
+      "ex_date": "2026-11-17",
+      "record_date": "2026-11-23",
+      "pay_date": "2026-12-10",
+      "cash_per_unit": 4.0,
+      "announce_year": 2026
+    },
+    {
+      "code": "00892",
+      "name": "富邦台灣半導體",
+      "ex_date": "2026-07-16",
+      "record_date": "2026-07-22",
+      "pay_date": "2026-08-10",
+      "cash_per_unit": 2.46,
+      "announce_year": 2026
+    },
+    {
+      "code": "00892",
+      "name": "富邦台灣半導體",
+      "ex_date": "2025-11-18",
+      "record_date": "2025-11-24",
+      "pay_date": "2025-12-11",
+      "cash_per_unit": 0.276,
+      "announce_year": 2025
+    },
+    {
+      "code": "00892",
+      "name": "富邦台灣半導體",
+      "ex_date": "2025-07-16",
+      "record_date": "2025-07-22",
+      "pay_date": "2025-08-08",
+      "cash_per_unit": 0.188,
+      "announce_year": 2025
+    },
+    {
+      "code": "00892",
+      "name": "富邦台灣半導體",
+      "ex_date": "2024-11-18",
+      "record_date": "2024-11-24",
+      "pay_date": "2024-12-12",
+      "cash_per_unit": 0.24,
+      "announce_year": 2024
+    },
+    {
+      "code": "00892",
+      "name": "富邦台灣半導體",
+      "ex_date": "2024-07-16",
+      "record_date": "2024-07-22",
+      "pay_date": "2024-08-09",
+      "cash_per_unit": 0.145,
+      "announce_year": 2024
+    },
+    {
+      "code": "00892",
+      "name": "富邦台灣半導體",
+      "ex_date": "2023-11-16",
+      "record_date": "2023-11-22",
+      "pay_date": "2023-12-12",
+      "cash_per_unit": 0.198,
+      "announce_year": 2023
+    },
+    {
+      "code": "00892",
+      "name": "富邦台灣半導體",
+      "ex_date": "2023-07-18",
+      "record_date": "2023-07-24",
+      "pay_date": "2023-08-11",
+      "cash_per_unit": 0.281,
+      "announce_year": 2023
+    },
+    {
+      "code": "00892",
+      "name": "富邦台灣半導體",
+      "ex_date": "2022-11-16",
+      "record_date": "2022-11-22",
+      "pay_date": "2022-12-19",
+      "cash_per_unit": 0.35,
+      "announce_year": 2022
+    },
+    {
+      "code": "00892",
+      "name": "富邦台灣半導體",
+      "ex_date": "2022-07-18",
+      "record_date": "2022-07-24",
+      "pay_date": "2022-08-18",
+      "cash_per_unit": 0.219,
+      "announce_year": 2022
+    },
+    {
+      "code": "00892",
+      "name": "富邦台灣半導體",
+      "ex_date": "2021-11-16",
+      "record_date": "2021-11-22",
+      "pay_date": "2021-12-17",
+      "cash_per_unit": 0.58,
+      "announce_year": 2021
+    }
+  ],
+  "annual": [
+    {
+      "year": 2021,
+      "cash_per_unit": 0.58,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2022,
+      "cash_per_unit": 0.569,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2023,
+      "cash_per_unit": 0.479,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 0.385,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 0.464,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 6.46,
+      "payments": 2,
+      "frequency": "半年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

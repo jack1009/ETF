@@ -1,0 +1,221 @@
+{
+  "code": "00731",
+  "name": "復華富時高息低波",
+  "frequency": "季配",
+  "distributions": [
+    {
+      "code": "00731",
+      "name": "復華富時高息低波",
+      "ex_date": "2026-11-18",
+      "record_date": "2026-11-24",
+      "pay_date": "2026-12-14",
+      "cash_per_unit": 1.828,
+      "announce_year": 2026
+    },
+    {
+      "code": "00731",
+      "name": "復華富時高息低波",
+      "ex_date": "2026-08-19",
+      "record_date": "2026-08-25",
+      "pay_date": "2026-09-14",
+      "cash_per_unit": 1.458,
+      "announce_year": 2026
+    },
+    {
+      "code": "00731",
+      "name": "復華富時高息低波",
+      "ex_date": "2026-05-20",
+      "record_date": "2026-05-26",
+      "pay_date": "2026-06-15",
+      "cash_per_unit": 0.752,
+      "announce_year": 2026
+    },
+    {
+      "code": "00731",
+      "name": "復華富時高息低波",
+      "ex_date": "2026-03-03",
+      "record_date": "2026-03-09",
+      "pay_date": "2026-03-27",
+      "cash_per_unit": 0.752,
+      "announce_year": 2026
+    },
+    {
+      "code": "00731",
+      "name": "復華富時高息低波",
+      "ex_date": "2025-11-19",
+      "record_date": "2025-11-25",
+      "pay_date": "2025-12-15",
+      "cash_per_unit": 0.652,
+      "announce_year": 2025
+    },
+    {
+      "code": "00731",
+      "name": "復華富時高息低波",
+      "ex_date": "2025-08-19",
+      "record_date": "2025-08-25",
+      "pay_date": "2025-09-12",
+      "cash_per_unit": 0.652,
+      "announce_year": 2025
+    },
+    {
+      "code": "00731",
+      "name": "復華富時高息低波",
+      "ex_date": "2025-05-20",
+      "record_date": "2025-05-26",
+      "pay_date": "2025-06-16",
+      "cash_per_unit": 0.593,
+      "announce_year": 2025
+    },
+    {
+      "code": "00731",
+      "name": "復華富時高息低波",
+      "ex_date": "2025-02-19",
+      "record_date": "2025-02-25",
+      "pay_date": "2025-03-18",
+      "cash_per_unit": 0.593,
+      "announce_year": 2025
+    },
+    {
+      "code": "00731",
+      "name": "復華富時高息低波",
+      "ex_date": "2024-11-19",
+      "record_date": "2024-11-25",
+      "pay_date": "2024-12-13",
+      "cash_per_unit": 2.38,
+      "announce_year": 2024
+    },
+    {
+      "code": "00731",
+      "name": "復華富時高息低波",
+      "ex_date": "2024-08-20",
+      "record_date": "2024-08-26",
+      "pay_date": "2024-09-13",
+      "cash_per_unit": 3.38,
+      "announce_year": 2024
+    },
+    {
+      "code": "00731",
+      "name": "復華富時高息低波",
+      "ex_date": "2024-05-21",
+      "record_date": "2024-05-27",
+      "pay_date": "2024-06-17",
+      "cash_per_unit": 3.38,
+      "announce_year": 2024
+    },
+    {
+      "code": "00731",
+      "name": "復華富時高息低波",
+      "ex_date": "2024-02-29",
+      "record_date": "2024-03-06",
+      "pay_date": "2024-03-26",
+      "cash_per_unit": 1.21,
+      "announce_year": 2024
+    },
+    {
+      "code": "00731",
+      "name": "復華富時高息低波",
+      "ex_date": "2023-11-21",
+      "record_date": "2023-11-27",
+      "pay_date": "2023-12-15",
+      "cash_per_unit": 1.1,
+      "announce_year": 2023
+    },
+    {
+      "code": "00731",
+      "name": "復華富時高息低波",
+      "ex_date": "2023-08-17",
+      "record_date": "2023-08-23",
+      "pay_date": "2023-09-12",
+      "cash_per_unit": 1.22,
+      "announce_year": 2023
+    },
+    {
+      "code": "00731",
+      "name": "FH富時高息低波",
+      "ex_date": "2022-11-17",
+      "record_date": "2022-11-23",
+      "pay_date": "2022-12-14",
+      "cash_per_unit": 2.8,
+      "announce_year": 2022
+    },
+    {
+      "code": "00731",
+      "name": "FH富時高息低波",
+      "ex_date": "2021-11-17",
+      "record_date": "2021-11-23",
+      "pay_date": "2021-12-14",
+      "cash_per_unit": 4.3,
+      "announce_year": 2021
+    },
+    {
+      "code": "00731",
+      "name": "FH富時高息低波",
+      "ex_date": "2020-11-18",
+      "record_date": "2020-11-24",
+      "pay_date": "2020-12-15",
+      "cash_per_unit": 2.09,
+      "announce_year": 2020
+    },
+    {
+      "code": "00731",
+      "name": "FH富時高息低波",
+      "ex_date": "2019-11-26",
+      "record_date": "2019-12-02",
+      "pay_date": "2019-12-23",
+      "cash_per_unit": 2.266,
+      "announce_year": 2019
+    }
+  ],
+  "annual": [
+    {
+      "year": 2019,
+      "cash_per_unit": 2.266,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2020,
+      "cash_per_unit": 2.09,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2021,
+      "cash_per_unit": 4.3,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2022,
+      "cash_per_unit": 2.8,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2023,
+      "cash_per_unit": 2.32,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 10.35,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 2.49,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 4.79,
+      "payments": 4,
+      "frequency": "季配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

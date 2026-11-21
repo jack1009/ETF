@@ -1,0 +1,20 @@
+{
+  "code": "00406A",
+  "name": "主動中信台灣收益",
+  "full_name": "中國信託台灣收益成長主動式ETF證券投資信託基金",
+  "category": "主動股票",
+  "fund_type": "國內成分證券主動式交易所交易基金(股票)",
+  "listed_on": "2026-06-11",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 6.85,
+  "low": 6.37,
+  "high": 6.86,
+  "close": 6.37,
+  "change": -0.48,
+  "volume_shares": 1543452105.0,
+  "turnover": 10061707263.0,
+  "transactions": 245113.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "00881",
+  "name": "國泰台灣科技龍頭",
+  "full_name": "國泰台灣科技龍頭ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2020-12-10",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 40.95,
+  "low": 38.91,
+  "high": 41.32,
+  "close": 39.04,
+  "change": -2.0,
+  "volume_shares": 20880092.0,
+  "turnover": 828050264.0,
+  "transactions": 18208.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

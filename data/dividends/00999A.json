@@ -1,0 +1,26 @@
+{
+  "code": "00999A",
+  "name": "主動野村臺灣高息",
+  "frequency": "年配",
+  "distributions": [
+    {
+      "code": "00999A",
+      "name": "主動野村臺灣高息",
+      "ex_date": "2026-09-16",
+      "record_date": "2026-09-22",
+      "pay_date": "2026-10-15",
+      "cash_per_unit": 0.29,
+      "announce_year": 2026
+    }
+  ],
+  "annual": [
+    {
+      "year": 2026,
+      "cash_per_unit": 0.29,
+      "payments": 1,
+      "frequency": "年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

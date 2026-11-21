@@ -1,0 +1,20 @@
+{
+  "code": "009833",
+  "name": "野村韓國科技30",
+  "full_name": "野村亞洲傘型證券投資信託基金之韓國科技30 ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2026-11-19",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 10.08,
+  "low": 9.92,
+  "high": 10.18,
+  "close": 10.09,
+  "change": -0.06,
+  "volume_shares": 17825363.0,
+  "turnover": 179597774.0,
+  "transactions": 1780.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

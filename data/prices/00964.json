@@ -1,0 +1,20 @@
+{
+  "code": "00964",
+  "name": "中信亞太高股息",
+  "full_name": "中國信託優息ETF傘型證券投資信託基金之中國信託亞太高股息ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2024-11-14",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 13.5,
+  "low": 13.01,
+  "high": 13.5,
+  "close": 13.03,
+  "change": -0.31,
+  "volume_shares": 3032936.0,
+  "turnover": 39822874.0,
+  "transactions": 830.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

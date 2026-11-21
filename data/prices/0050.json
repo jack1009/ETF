@@ -1,0 +1,20 @@
+{
+  "code": "0050",
+  "name": "元大台灣50",
+  "full_name": "元大台灣卓越50證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2003-06-30",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 94.05,
+  "low": 89.8,
+  "high": 94.5,
+  "close": 90.2,
+  "change": -3.9,
+  "volume_shares": 468405422.0,
+  "turnover": 42797615461.0,
+  "transactions": 602650.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

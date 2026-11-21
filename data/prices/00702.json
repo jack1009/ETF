@@ -1,0 +1,20 @@
+{
+  "code": "00702",
+  "name": "國泰標普低波高息",
+  "full_name": "國泰低波動ETF傘型證券投資信託基金之美國標普500低波動高股息證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2017-08-17",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 25.86,
+  "low": 25.86,
+  "high": 25.92,
+  "close": 25.92,
+  "change": -0.27,
+  "volume_shares": 202162.0,
+  "turnover": 5227610.0,
+  "transactions": 86.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

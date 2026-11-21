@@ -1,0 +1,20 @@
+{
+  "code": "009827",
+  "name": "玉山未來全球算力",
+  "full_name": "玉山未來全球算力ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2026-09-02",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 9.25,
+  "low": 9.23,
+  "high": 9.39,
+  "close": 9.3,
+  "change": 0.05,
+  "volume_shares": 2482918.0,
+  "turnover": 23104364.0,
+  "transactions": 493.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

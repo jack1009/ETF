@@ -1,0 +1,239 @@
+{
+  "code": "00713",
+  "name": "元大台灣高息低波",
+  "frequency": "不定期",
+  "distributions": [
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2026-09-21",
+      "record_date": "2026-09-27",
+      "pay_date": "2026-10-13",
+      "cash_per_unit": 1.25,
+      "announce_year": 2026
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2026-06-22",
+      "record_date": "2026-06-28",
+      "pay_date": "2026-07-10",
+      "cash_per_unit": 1.0,
+      "announce_year": 2026
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2026-03-20",
+      "record_date": "2026-03-28",
+      "pay_date": "2026-04-14",
+      "cash_per_unit": 0.78,
+      "announce_year": 2026
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2025-12-19",
+      "record_date": "2025-12-27",
+      "pay_date": "2026-01-12",
+      "cash_per_unit": 0.78,
+      "announce_year": 2025
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2025-09-19",
+      "record_date": "2025-09-27",
+      "pay_date": "2025-10-15",
+      "cash_per_unit": 0.78,
+      "announce_year": 2025
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2025-06-20",
+      "record_date": "2025-06-28",
+      "pay_date": "2025-07-11",
+      "cash_per_unit": 1.1,
+      "announce_year": 2025
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2025-03-21",
+      "record_date": "2025-03-29",
+      "pay_date": "2025-04-15",
+      "cash_per_unit": 1.4,
+      "announce_year": 2025
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2024-12-17",
+      "record_date": "2024-12-23",
+      "pay_date": "2025-01-13",
+      "cash_per_unit": 1.4,
+      "announce_year": 2024
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2024-09-18",
+      "record_date": "2024-09-24",
+      "pay_date": "2024-10-15",
+      "cash_per_unit": 1.5,
+      "announce_year": 2024
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2024-06-19",
+      "record_date": "2024-06-25",
+      "pay_date": "2024-07-15",
+      "cash_per_unit": 1.5,
+      "announce_year": 2024
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2024-03-18",
+      "record_date": "2024-03-24",
+      "pay_date": "2024-04-15",
+      "cash_per_unit": 0.88,
+      "announce_year": 2024
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2023-12-18",
+      "record_date": "2023-12-24",
+      "pay_date": "2024-01-12",
+      "cash_per_unit": 0.84,
+      "announce_year": 2023
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2023-09-18",
+      "record_date": "2023-09-24",
+      "pay_date": "2023-10-17",
+      "cash_per_unit": 0.84,
+      "announce_year": 2023
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2023-06-16",
+      "record_date": "2023-06-24",
+      "pay_date": "2023-07-14",
+      "cash_per_unit": 0.68,
+      "announce_year": 2023
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2023-03-17",
+      "record_date": "2023-03-25",
+      "pay_date": "2023-04-25",
+      "cash_per_unit": 0.68,
+      "announce_year": 2023
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2022-12-16",
+      "record_date": "2022-12-24",
+      "pay_date": "2023-01-16",
+      "cash_per_unit": 1.45,
+      "announce_year": 2022
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2022-09-19",
+      "record_date": "2022-09-25",
+      "pay_date": "2022-10-24",
+      "cash_per_unit": 1.45,
+      "announce_year": 2022
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2021-11-19",
+      "record_date": "2021-11-27",
+      "pay_date": "2021-12-20",
+      "cash_per_unit": 3.15,
+      "announce_year": 2021
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2020-11-20",
+      "record_date": "2020-11-28",
+      "pay_date": "2020-12-21",
+      "cash_per_unit": 1.7,
+      "announce_year": 2020
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "ex_date": "2019-11-22",
+      "record_date": "2019-11-30",
+      "pay_date": "2019-12-23",
+      "cash_per_unit": 1.6,
+      "announce_year": 2019
+    }
+  ],
+  "annual": [
+    {
+      "year": 2019,
+      "cash_per_unit": 1.6,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2020,
+      "cash_per_unit": 1.7,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2021,
+      "cash_per_unit": 3.15,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2022,
+      "cash_per_unit": 2.9,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2023,
+      "cash_per_unit": 3.04,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 5.28,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 4.06,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 3.03,
+      "payments": 3,
+      "frequency": "不定期"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

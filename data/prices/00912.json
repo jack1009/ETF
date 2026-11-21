@@ -1,0 +1,20 @@
+{
+  "code": "00912",
+  "name": "中信臺灣智慧50",
+  "full_name": "中國信託臺灣智慧50ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2022-06-29",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 27.25,
+  "low": 25.89,
+  "high": 27.31,
+  "close": 26.05,
+  "change": -1.32,
+  "volume_shares": 846722.0,
+  "turnover": 22382333.0,
+  "transactions": 774.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

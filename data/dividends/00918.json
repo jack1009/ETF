@@ -1,0 +1,161 @@
+{
+  "code": "00918",
+  "name": "大華優利高填息30 ETF",
+  "frequency": "不定期",
+  "distributions": [
+    {
+      "code": "00918",
+      "name": "大華優利高填息30",
+      "ex_date": "2026-09-18",
+      "record_date": "2026-09-26",
+      "pay_date": "2026-10-15",
+      "cash_per_unit": 1.75,
+      "announce_year": 2026
+    },
+    {
+      "code": "00918",
+      "name": "大華優利高填息30",
+      "ex_date": "2026-06-18",
+      "record_date": "2026-06-27",
+      "pay_date": "2026-07-13",
+      "cash_per_unit": 1.26,
+      "announce_year": 2026
+    },
+    {
+      "code": "00918",
+      "name": "大華優利高填息30",
+      "ex_date": "2026-03-19",
+      "record_date": "2026-03-25",
+      "pay_date": "2026-04-14",
+      "cash_per_unit": 0.62,
+      "announce_year": 2026
+    },
+    {
+      "code": "00918",
+      "name": "大華優利高填息30",
+      "ex_date": "2025-12-18",
+      "record_date": "2025-12-24",
+      "pay_date": "2026-01-13",
+      "cash_per_unit": 0.565,
+      "announce_year": 2025
+    },
+    {
+      "code": "00918",
+      "name": "大華優利高填息30",
+      "ex_date": "2025-09-18",
+      "record_date": "2025-09-24",
+      "pay_date": "2025-10-15",
+      "cash_per_unit": 0.52,
+      "announce_year": 2025
+    },
+    {
+      "code": "00918",
+      "name": "大華優利高填息30",
+      "ex_date": "2025-06-19",
+      "record_date": "2025-06-25",
+      "pay_date": "2025-07-11",
+      "cash_per_unit": 0.7,
+      "announce_year": 2025
+    },
+    {
+      "code": "00918",
+      "name": "大華優利高填息30",
+      "ex_date": "2025-03-20",
+      "record_date": "2025-03-26",
+      "pay_date": "2025-04-15",
+      "cash_per_unit": 0.7,
+      "announce_year": 2025
+    },
+    {
+      "code": "00918",
+      "name": "大華優利高填息30",
+      "ex_date": "2024-12-19",
+      "record_date": "2024-12-25",
+      "pay_date": "2025-01-13",
+      "cash_per_unit": 0.84,
+      "announce_year": 2024
+    },
+    {
+      "code": "00918",
+      "name": "大華優利高填息30",
+      "ex_date": "2024-09-19",
+      "record_date": "2024-09-25",
+      "pay_date": "2024-10-15",
+      "cash_per_unit": 0.78,
+      "announce_year": 2024
+    },
+    {
+      "code": "00918",
+      "name": "大華優利高填息30",
+      "ex_date": "2024-06-19",
+      "record_date": "2024-06-25",
+      "pay_date": "2024-07-15",
+      "cash_per_unit": 0.8,
+      "announce_year": 2024
+    },
+    {
+      "code": "00918",
+      "name": "大華優利高填息30",
+      "ex_date": "2024-03-18",
+      "record_date": "2024-03-24",
+      "pay_date": "2024-04-15",
+      "cash_per_unit": 0.7,
+      "announce_year": 2024
+    },
+    {
+      "code": "00918",
+      "name": "大華優利高填息30",
+      "ex_date": "2023-12-18",
+      "record_date": "2023-12-24",
+      "pay_date": "2024-01-12",
+      "cash_per_unit": 0.67,
+      "announce_year": 2023
+    },
+    {
+      "code": "00918",
+      "name": "大華優利高填息30",
+      "ex_date": "2023-09-18",
+      "record_date": "2023-09-24",
+      "pay_date": "2023-10-17",
+      "cash_per_unit": 0.75,
+      "announce_year": 2023
+    },
+    {
+      "code": "00918",
+      "name": "大華優利高填息30",
+      "ex_date": "2023-06-16",
+      "record_date": "2023-06-24",
+      "pay_date": "2023-07-14",
+      "cash_per_unit": 0.2,
+      "announce_year": 2023
+    }
+  ],
+  "annual": [
+    {
+      "year": 2023,
+      "cash_per_unit": 1.62,
+      "payments": 3,
+      "frequency": "不定期"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 3.12,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 2.485,
+      "payments": 4,
+      "frequency": "季配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 3.63,
+      "payments": 3,
+      "frequency": "不定期"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

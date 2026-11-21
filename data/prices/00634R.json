@@ -1,0 +1,20 @@
+{
+  "code": "00634R",
+  "name": "富邦上証反1",
+  "full_name": "富邦中國ETF傘型證券投資信託基金之富邦上証180單日反向一倍證券投資信託基金",
+  "category": "槓桿反向",
+  "fund_type": "槓桿/反向指數股票型基金",
+  "listed_on": "2014-11-25",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 3.55,
+  "low": 3.53,
+  "high": 3.58,
+  "close": 3.55,
+  "change": 0.01,
+  "volume_shares": 163100.0,
+  "turnover": 580474.0,
+  "transactions": 33.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

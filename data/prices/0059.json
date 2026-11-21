@@ -1,0 +1,20 @@
+{
+  "code": "0059",
+  "name": "富邦金融",
+  "full_name": "富邦台灣ETF傘型證券投資信託基金之富邦台灣金融指數股票型證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2008-02-27",
+  "market": "TWSE",
+  "date": null,
+  "open": null,
+  "low": null,
+  "high": null,
+  "close": null,
+  "change": null,
+  "volume_shares": null,
+  "turnover": null,
+  "transactions": null,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

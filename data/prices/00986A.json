@@ -1,0 +1,20 @@
+{
+  "code": "00986A",
+  "name": "主動台新龍頭成長",
+  "full_name": "台新全球龍頭成長主動式ETF證券投資信託基金",
+  "category": "主動股票",
+  "fund_type": "國外成分證券主動式交易所交易基金(股票)",
+  "listed_on": "2025-08-27",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 12.71,
+  "low": 12.71,
+  "high": 12.86,
+  "close": 12.78,
+  "change": 0.07,
+  "volume_shares": 162012.0,
+  "turnover": 2073506.0,
+  "transactions": 62.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

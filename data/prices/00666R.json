@@ -1,0 +1,20 @@
+{
+  "code": "00666R",
+  "name": "富邦恒生國企反1",
+  "full_name": "富邦恒生國企ETF傘型證券投資信託基金之富邦恒生國企單日反向一倍證券投資信託基金",
+  "category": "槓桿反向",
+  "fund_type": "槓桿/反向指數股票型基金",
+  "listed_on": "2016-08-05",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 9.83,
+  "low": 9.83,
+  "high": 9.91,
+  "close": 9.91,
+  "change": 0.16,
+  "volume_shares": 64319.0,
+  "turnover": 636031.0,
+  "transactions": 23.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "00940",
+  "name": "元大台灣價值高息",
+  "full_name": "元大臺灣價值高息ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2024-04-01",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 11.71,
+  "low": 11.32,
+  "high": 11.79,
+  "close": 11.34,
+  "change": -0.39,
+  "volume_shares": 13627224.0,
+  "turnover": 156668966.0,
+  "transactions": 3281.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

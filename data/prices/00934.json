@@ -1,0 +1,20 @@
+{
+  "code": "00934",
+  "name": "中信成長高股息",
+  "full_name": "中國信託臺灣優選成長高股息ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2023-11-01",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 26.06,
+  "low": 25.32,
+  "high": 26.14,
+  "close": 25.4,
+  "change": -0.66,
+  "volume_shares": 4978893.0,
+  "turnover": 127510979.0,
+  "transactions": 3061.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

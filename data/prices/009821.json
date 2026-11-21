@@ -1,0 +1,20 @@
+{
+  "code": "009821",
+  "name": "野村稀土關鍵資源",
+  "full_name": "野村全球稀土與關鍵資源ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2026-06-17",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 10.67,
+  "low": 10.46,
+  "high": 10.67,
+  "close": 10.51,
+  "change": -0.33,
+  "volume_shares": 5495090.0,
+  "turnover": 57931295.0,
+  "transactions": 1738.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

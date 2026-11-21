@@ -1,0 +1,203 @@
+{
+  "code": "0050",
+  "name": "元大台灣50",
+  "frequency": "半年配",
+  "distributions": [
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2026-07-21",
+      "record_date": "2026-07-27",
+      "pay_date": "2026-08-10",
+      "cash_per_unit": 0.6,
+      "announce_year": 2026
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2026-01-22",
+      "record_date": "2026-01-28",
+      "pay_date": "2026-02-11",
+      "cash_per_unit": 1.0,
+      "announce_year": 2026
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2025-07-21",
+      "record_date": "2025-07-27",
+      "pay_date": "2025-08-08",
+      "cash_per_unit": 0.36,
+      "announce_year": 2025
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2025-01-17",
+      "record_date": "2025-01-25",
+      "pay_date": "2025-02-20",
+      "cash_per_unit": 2.7,
+      "announce_year": 2025
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2024-07-16",
+      "record_date": "2024-07-22",
+      "pay_date": "2024-08-09",
+      "cash_per_unit": 1.0,
+      "announce_year": 2024
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2024-01-17",
+      "record_date": "2024-01-23",
+      "pay_date": "2024-02-21",
+      "cash_per_unit": 3.0,
+      "announce_year": 2024
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2023-07-18",
+      "record_date": "2023-07-24",
+      "pay_date": "2023-08-11",
+      "cash_per_unit": 1.9,
+      "announce_year": 2023
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2023-01-30",
+      "record_date": "2023-02-05",
+      "pay_date": "2023-03-07",
+      "cash_per_unit": 2.6,
+      "announce_year": 2023
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2022-07-18",
+      "record_date": "2022-07-24",
+      "pay_date": "2022-08-19",
+      "cash_per_unit": 1.8,
+      "announce_year": 2022
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2022-01-21",
+      "record_date": "2022-01-29",
+      "pay_date": "2022-03-04",
+      "cash_per_unit": 3.2,
+      "announce_year": 2022
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2021-07-21",
+      "record_date": "2021-07-27",
+      "pay_date": "2021-08-24",
+      "cash_per_unit": 0.35,
+      "announce_year": 2021
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2021-01-22",
+      "record_date": "2021-01-30",
+      "pay_date": "2021-03-09",
+      "cash_per_unit": 3.05,
+      "announce_year": 2021
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2020-07-21",
+      "record_date": "2020-07-27",
+      "pay_date": "2020-08-24",
+      "cash_per_unit": 0.7,
+      "announce_year": 2020
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2020-01-31",
+      "record_date": "2020-02-08",
+      "pay_date": "2020-03-06",
+      "cash_per_unit": 2.9,
+      "announce_year": 2020
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2019-07-19",
+      "record_date": "2019-07-27",
+      "pay_date": "2019-08-22",
+      "cash_per_unit": 0.7,
+      "announce_year": 2019
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2019-01-22",
+      "record_date": "2019-01-28",
+      "pay_date": "2019-03-08",
+      "cash_per_unit": 2.3,
+      "announce_year": 2019
+    }
+  ],
+  "annual": [
+    {
+      "year": 2019,
+      "cash_per_unit": 3.0,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2020,
+      "cash_per_unit": 3.6,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2021,
+      "cash_per_unit": 3.4,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2022,
+      "cash_per_unit": 5.0,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2023,
+      "cash_per_unit": 4.5,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 4.0,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 3.06,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 1.6,
+      "payments": 2,
+      "frequency": "半年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

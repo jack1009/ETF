@@ -1,0 +1,20 @@
+{
+  "code": "00770",
+  "name": "國泰北美科技",
+  "full_name": "國泰標普北美科技ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2019-01-29",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 57.95,
+  "low": 57.6,
+  "high": 58.15,
+  "close": 57.9,
+  "change": 0.3,
+  "volume_shares": 373330.0,
+  "turnover": 21602216.0,
+  "transactions": 423.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

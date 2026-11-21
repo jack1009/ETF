@@ -1,0 +1,20 @@
+{
+  "code": "00757",
+  "name": "統一FANG+",
+  "full_name": "統一NYSE FANG+ ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2018-12-06",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 131.7,
+  "low": 130.7,
+  "high": 131.9,
+  "close": 131.6,
+  "change": 1.35,
+  "volume_shares": 1366497.0,
+  "turnover": 179614491.0,
+  "transactions": 1530.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

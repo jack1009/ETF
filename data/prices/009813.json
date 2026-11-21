@@ -1,0 +1,20 @@
+{
+  "code": "009813",
+  "name": "貝萊德標普卓越50",
+  "full_name": "貝萊德iShares 安碩標普500卓越50 ETF 證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2025-10-20",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 11.07,
+  "low": 11.07,
+  "high": 11.16,
+  "close": 11.11,
+  "change": 0.01,
+  "volume_shares": 1262349.0,
+  "turnover": 14015411.0,
+  "transactions": 323.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

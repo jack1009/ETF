@@ -1,0 +1,20 @@
+{
+  "code": "00891",
+  "name": "中信關鍵半導體",
+  "full_name": "中國信託臺灣ESG永續關鍵半導體ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2021-05-28",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 28.11,
+  "low": 26.46,
+  "high": 28.23,
+  "close": 26.46,
+  "change": -1.69,
+  "volume_shares": 34143852.0,
+  "turnover": 923251713.0,
+  "transactions": 19455.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

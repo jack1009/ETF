@@ -1,0 +1,20 @@
+{
+  "code": "00639",
+  "name": "富邦深100",
+  "full_name": "富邦深証100證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2015-06-09",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 13.0,
+  "low": 12.84,
+  "high": 13.0,
+  "close": 12.97,
+  "change": -0.03,
+  "volume_shares": 880024.0,
+  "turnover": 11382028.0,
+  "transactions": 186.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

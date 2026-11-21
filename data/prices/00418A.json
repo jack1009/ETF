@@ -1,0 +1,20 @@
+{
+  "code": "00418A",
+  "name": "主動復華台灣新星",
+  "full_name": "復華台灣新星主動式ETF證券投資信託基金",
+  "category": "主動股票",
+  "fund_type": "國內成分證券主動式交易所交易基金(股票)",
+  "listed_on": "2026-11-11",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 8.62,
+  "low": 7.96,
+  "high": 8.66,
+  "close": 7.96,
+  "change": -0.81,
+  "volume_shares": 43136360.0,
+  "turnover": 351784802.0,
+  "transactions": 7895.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

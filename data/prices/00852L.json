@@ -1,0 +1,20 @@
+{
+  "code": "00852L",
+  "name": "國泰美國道瓊正2",
+  "full_name": "國泰道瓊工業平均指數單日正向2倍證券投資信託基金",
+  "category": "槓桿反向",
+  "fund_type": "槓桿/反向指數股票型基金",
+  "listed_on": "2019-08-22",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 31.62,
+  "low": 31.44,
+  "high": 31.62,
+  "close": 31.55,
+  "change": -0.52,
+  "volume_shares": 82617.0,
+  "turnover": 2605586.0,
+  "transactions": 40.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

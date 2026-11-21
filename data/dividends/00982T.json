@@ -1,0 +1,26 @@
+{
+  "code": "00982T",
+  "name": "平衡兆豐台美動能",
+  "frequency": "年配",
+  "distributions": [
+    {
+      "code": "00982T",
+      "name": "平衡兆豐台美動能",
+      "ex_date": "2026-09-16",
+      "record_date": "2026-09-22",
+      "pay_date": "2026-10-07",
+      "cash_per_unit": 1.0,
+      "announce_year": 2026
+    }
+  ],
+  "annual": [
+    {
+      "year": 2026,
+      "cash_per_unit": 1.0,
+      "payments": 1,
+      "frequency": "年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

@@ -1,0 +1,131 @@
+{
+  "code": "0052",
+  "name": "富邦科技",
+  "frequency": "年配",
+  "distributions": [
+    {
+      "code": "0052",
+      "name": "富邦科技",
+      "ex_date": "2026-04-20",
+      "record_date": "2026-04-26",
+      "pay_date": "2026-05-15",
+      "cash_per_unit": 1.199,
+      "announce_year": 2026
+    },
+    {
+      "code": "0052",
+      "name": "富邦科技",
+      "ex_date": "2025-04-23",
+      "record_date": "2025-04-29",
+      "pay_date": "2025-05-19",
+      "cash_per_unit": 3.23,
+      "announce_year": 2025
+    },
+    {
+      "code": "0052",
+      "name": "富邦科技",
+      "ex_date": "2024-04-18",
+      "record_date": "2024-04-24",
+      "pay_date": "2024-05-15",
+      "cash_per_unit": 6.43,
+      "announce_year": 2024
+    },
+    {
+      "code": "0052",
+      "name": "富邦科技",
+      "ex_date": "2023-04-21",
+      "record_date": "2023-04-29",
+      "pay_date": "2023-05-18",
+      "cash_per_unit": 4.0,
+      "announce_year": 2023
+    },
+    {
+      "code": "0052",
+      "name": "富邦科技",
+      "ex_date": "2022-04-20",
+      "record_date": "2022-04-26",
+      "pay_date": "2022-05-24",
+      "cash_per_unit": 10.19,
+      "announce_year": 2022
+    },
+    {
+      "code": "0052",
+      "name": "富邦科技",
+      "ex_date": "2021-04-20",
+      "record_date": "2021-04-26",
+      "pay_date": "2021-05-24",
+      "cash_per_unit": 1.032,
+      "announce_year": 2021
+    },
+    {
+      "code": "0052",
+      "name": "富邦科技",
+      "ex_date": "2020-04-22",
+      "record_date": "2020-04-28",
+      "pay_date": "2020-05-29",
+      "cash_per_unit": 1.927,
+      "announce_year": 2020
+    },
+    {
+      "code": "0052",
+      "name": "富邦科技",
+      "ex_date": "2019-05-02",
+      "record_date": "2019-05-08",
+      "pay_date": "2019-06-05",
+      "cash_per_unit": 1.047,
+      "announce_year": 2019
+    }
+  ],
+  "annual": [
+    {
+      "year": 2019,
+      "cash_per_unit": 1.047,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2020,
+      "cash_per_unit": 1.927,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2021,
+      "cash_per_unit": 1.032,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2022,
+      "cash_per_unit": 10.19,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2023,
+      "cash_per_unit": 4.0,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 6.43,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 3.23,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 1.199,
+      "payments": 1,
+      "frequency": "年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

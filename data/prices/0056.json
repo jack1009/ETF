@@ -1,0 +1,20 @@
+{
+  "code": "0056",
+  "name": "元大高股息",
+  "full_name": "元大台灣高股息證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2007-12-26",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 48.93,
+  "low": 47.31,
+  "high": 49.18,
+  "close": 47.41,
+  "change": -2.07,
+  "volume_shares": 119522239.0,
+  "turnover": 5728149240.0,
+  "transactions": 135912.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

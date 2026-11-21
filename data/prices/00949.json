@@ -1,0 +1,20 @@
+{
+  "code": "00949",
+  "name": "復華日本龍頭",
+  "full_name": "復華日本護城河優勢龍頭企業ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2024-07-01",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 19.15,
+  "low": 19.03,
+  "high": 19.19,
+  "close": 19.1,
+  "change": -0.05,
+  "volume_shares": 2516653.0,
+  "turnover": 48100174.0,
+  "transactions": 899.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

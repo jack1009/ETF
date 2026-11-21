@@ -1,0 +1,20 @@
+{
+  "code": "00668K",
+  "name": "國泰美國道瓊+U",
+  "full_name": "國泰道瓊工業平均指數證券投資信託基金(加掛美元受益憑證)-國外成份/加掛外幣證券指數股票型基金",
+  "category": "國外股票",
+  "fund_type": "國外成份/加掛外幣證券指數股票型基金",
+  "listed_on": "2017-10-24",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 18.3,
+  "low": 18.3,
+  "high": 18.3,
+  "close": 18.3,
+  "change": -0.24,
+  "volume_shares": 200.0,
+  "turnover": 3660.0,
+  "transactions": 2.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

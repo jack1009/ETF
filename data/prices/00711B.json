@@ -1,0 +1,20 @@
+{
+  "code": "00711B",
+  "name": "復華彭博新興債",
+  "full_name": "復華全球收益ETF傘型證券投資信託基金之復華新興市場10年期以上債券證券投資信託基金",
+  "category": "債券",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2017-08-21",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 15.39,
+  "low": 15.36,
+  "high": 15.4,
+  "close": 15.36,
+  "change": 0.03,
+  "volume_shares": 106121.0,
+  "turnover": 1631184.0,
+  "transactions": 12.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

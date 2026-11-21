@@ -1,0 +1,20 @@
+{
+  "code": "00923",
+  "name": "群益台ESG低碳50",
+  "full_name": "群益台灣ESG低碳50ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2023-03-08",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 33.75,
+  "low": 32.14,
+  "high": 33.98,
+  "close": 32.24,
+  "change": -1.51,
+  "volume_shares": 4349638.0,
+  "turnover": 142278608.0,
+  "transactions": 3972.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

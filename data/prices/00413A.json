@@ -1,0 +1,20 @@
+{
+  "code": "00413A",
+  "name": "主動玉山關鍵科技",
+  "full_name": "玉山臺灣關鍵科技主動式ETF證券投資信託基金",
+  "category": "主動股票",
+  "fund_type": "國內成分證券主動式交易所交易基金(股票)",
+  "listed_on": "2026-11-11",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 9.23,
+  "low": 8.56,
+  "high": 9.23,
+  "close": 8.56,
+  "change": -0.78,
+  "volume_shares": 7196216.0,
+  "turnover": 62530047.0,
+  "transactions": 1218.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

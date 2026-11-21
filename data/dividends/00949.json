@@ -1,0 +1,26 @@
+{
+  "code": "00949",
+  "name": "復華日本龍頭",
+  "frequency": "年配",
+  "distributions": [
+    {
+      "code": "00949",
+      "name": "復華日本龍頭",
+      "ex_date": "2026-11-18",
+      "record_date": "2026-11-24",
+      "pay_date": "2026-12-14",
+      "cash_per_unit": 3.02,
+      "announce_year": 2026
+    }
+  ],
+  "annual": [
+    {
+      "year": 2026,
+      "cash_per_unit": 3.02,
+      "payments": 1,
+      "frequency": "年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

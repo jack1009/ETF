@@ -1,0 +1,20 @@
+{
+  "code": "009817",
+  "name": "國泰日本不動產",
+  "full_name": "國泰大和日本不動產收息ETF證券投資信託基金",
+  "category": "不動產",
+  "fund_type": "連結式證券指數股票型基金",
+  "listed_on": "2026-02-06",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 8.82,
+  "low": 8.79,
+  "high": 8.84,
+  "close": 8.81,
+  "change": -0.02,
+  "volume_shares": 852918.0,
+  "turnover": 7518296.0,
+  "transactions": 205.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "00910",
+  "name": "第一金太空衛星",
+  "full_name": "第一金太空衛星ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2022-07-20",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 48.4,
+  "low": 47.41,
+  "high": 48.4,
+  "close": 47.48,
+  "change": -0.95,
+  "volume_shares": 962413.0,
+  "turnover": 45876452.0,
+  "transactions": 952.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

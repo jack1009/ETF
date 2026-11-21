@@ -1,0 +1,71 @@
+{
+  "code": "00916",
+  "name": "國泰全球品牌50",
+  "frequency": "年配",
+  "distributions": [
+    {
+      "code": "00916",
+      "name": "國泰全球品牌50",
+      "ex_date": "2026-06-16",
+      "record_date": "2026-06-22",
+      "pay_date": "2026-07-10",
+      "cash_per_unit": 1.92,
+      "announce_year": 2026
+    },
+    {
+      "code": "00916",
+      "name": "國泰全球品牌50",
+      "ex_date": "2025-06-17",
+      "record_date": "2025-06-23",
+      "pay_date": "2025-07-11",
+      "cash_per_unit": 0.25,
+      "announce_year": 2025
+    },
+    {
+      "code": "00916",
+      "name": "國泰全球品牌50",
+      "ex_date": "2024-06-20",
+      "record_date": "2024-06-26",
+      "pay_date": "2024-07-15",
+      "cash_per_unit": 0.22,
+      "announce_year": 2024
+    },
+    {
+      "code": "00916",
+      "name": "國泰全球品牌50",
+      "ex_date": "2023-06-16",
+      "record_date": "2023-06-24",
+      "pay_date": "2023-07-14",
+      "cash_per_unit": 0.17,
+      "announce_year": 2023
+    }
+  ],
+  "annual": [
+    {
+      "year": 2023,
+      "cash_per_unit": 0.17,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 0.22,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 0.25,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 1.92,
+      "payments": 1,
+      "frequency": "年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

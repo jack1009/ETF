@@ -1,0 +1,20 @@
+{
+  "code": "00893",
+  "name": "國泰智能電動車",
+  "full_name": "國泰全球智能電動車ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2021-07-01",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 40.01,
+  "low": 39.66,
+  "high": 40.36,
+  "close": 39.9,
+  "change": -0.05,
+  "volume_shares": 824612.0,
+  "turnover": 32896013.0,
+  "transactions": 462.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

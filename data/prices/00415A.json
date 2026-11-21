@@ -1,0 +1,20 @@
+{
+  "code": "00415A",
+  "name": "主動群益核心50",
+  "full_name": "群益台灣核心50主動式ETF證券投資信託基金",
+  "category": "主動股票",
+  "fund_type": "國內成分證券主動式交易所交易基金(股票)",
+  "listed_on": "2026-10-20",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 6.99,
+  "low": 6.48,
+  "high": 6.99,
+  "close": 6.48,
+  "change": -0.59,
+  "volume_shares": 48706035.0,
+  "turnover": 322538783.0,
+  "transactions": 8738.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

@@ -1,0 +1,98 @@
+{
+  "code": "00922",
+  "name": "國泰台灣領袖50 ETF基金",
+  "frequency": "半年配",
+  "distributions": [
+    {
+      "code": "00922",
+      "name": "國泰台灣領袖50",
+      "ex_date": "2026-10-19",
+      "record_date": "2026-10-25",
+      "pay_date": "2026-11-12",
+      "cash_per_unit": 2.1,
+      "announce_year": 2026
+    },
+    {
+      "code": "00922",
+      "name": "國泰台灣領袖50",
+      "ex_date": "2026-03-17",
+      "record_date": "2026-03-23",
+      "pay_date": "2026-04-14",
+      "cash_per_unit": 2.0,
+      "announce_year": 2026
+    },
+    {
+      "code": "00922",
+      "name": "國泰台灣領袖50",
+      "ex_date": "2025-10-20",
+      "record_date": "2025-10-26",
+      "pay_date": "2025-11-13",
+      "cash_per_unit": 1.25,
+      "announce_year": 2025
+    },
+    {
+      "code": "00922",
+      "name": "國泰台灣領袖50",
+      "ex_date": "2025-03-18",
+      "record_date": "2025-03-24",
+      "pay_date": "2025-04-15",
+      "cash_per_unit": 0.63,
+      "announce_year": 2025
+    },
+    {
+      "code": "00922",
+      "name": "國泰台灣領袖50",
+      "ex_date": "2024-10-17",
+      "record_date": "2024-10-25",
+      "pay_date": "2024-11-12",
+      "cash_per_unit": 1.0,
+      "announce_year": 2024
+    },
+    {
+      "code": "00922",
+      "name": "國泰台灣領袖50",
+      "ex_date": "2024-03-18",
+      "record_date": "2024-03-24",
+      "pay_date": "2024-04-15",
+      "cash_per_unit": 0.38,
+      "announce_year": 2024
+    },
+    {
+      "code": "00922",
+      "name": "國泰台灣領袖50",
+      "ex_date": "2023-10-19",
+      "record_date": "2023-10-27",
+      "pay_date": "2023-11-14",
+      "cash_per_unit": 0.57,
+      "announce_year": 2023
+    }
+  ],
+  "annual": [
+    {
+      "year": 2023,
+      "cash_per_unit": 0.57,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 1.38,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 1.88,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 4.1,
+      "payments": 2,
+      "frequency": "半年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

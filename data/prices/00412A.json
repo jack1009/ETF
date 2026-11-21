@@ -1,0 +1,20 @@
+{
+  "code": "00412A",
+  "name": "主動安聯亞半導體",
+  "full_name": "安聯亞洲半導體主動式ETF證券投資信託基金",
+  "category": "主動股票",
+  "fund_type": "國外成分證券主動式交易所交易基金(股票)",
+  "listed_on": "2026-10-13",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 7.14,
+  "low": 6.78,
+  "high": 7.14,
+  "close": 6.79,
+  "change": -0.36,
+  "volume_shares": 17291992.0,
+  "turnover": 118975198.0,
+  "transactions": 2767.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

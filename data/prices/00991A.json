@@ -1,0 +1,20 @@
+{
+  "code": "00991A",
+  "name": "主動復華未來50",
+  "full_name": "復華台灣未來50主動式ETF證券投資信託基金",
+  "category": "主動股票",
+  "fund_type": "國內成分證券主動式交易所交易基金(股票)",
+  "listed_on": "2025-12-18",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 12.41,
+  "low": 11.4,
+  "high": 12.44,
+  "close": 11.4,
+  "change": -1.21,
+  "volume_shares": 154840692.0,
+  "turnover": 1815082513.0,
+  "transactions": 31771.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

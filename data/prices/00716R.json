@@ -1,0 +1,20 @@
+{
+  "code": "00716R",
+  "name": "華頓S&P布蘭特反1",
+  "full_name": "華頓標普高盛布蘭特原油傘型期貨信託基金之華頓標普高盛布蘭特原油ER單日反向1倍指數股票型期貨信託基金",
+  "category": "期貨",
+  "fund_type": "指數股票型期貨信託基金",
+  "listed_on": "2017-11-16",
+  "market": "TWSE",
+  "date": null,
+  "open": null,
+  "low": null,
+  "high": null,
+  "close": null,
+  "change": null,
+  "volume_shares": null,
+  "turnover": null,
+  "transactions": null,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

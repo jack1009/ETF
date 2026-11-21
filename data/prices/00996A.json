@@ -1,0 +1,20 @@
+{
+  "code": "00996A",
+  "name": "主動兆豐台灣豐收",
+  "full_name": "兆豐台灣豐收主動式ETF 證券投資信託基金",
+  "category": "主動股票",
+  "fund_type": "國內成分證券主動式交易所交易基金(股票)",
+  "listed_on": "2026-03-25",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 10.0,
+  "low": 9.25,
+  "high": 10.0,
+  "close": 9.25,
+  "change": -0.83,
+  "volume_shares": 12099635.0,
+  "turnover": 114573082.0,
+  "transactions": 3438.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

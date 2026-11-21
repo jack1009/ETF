@@ -1,0 +1,20 @@
+{
+  "code": "00935",
+  "name": "野村臺灣新科技50",
+  "full_name": "野村臺灣創新科技50 ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2023-11-01",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 46.1,
+  "low": 43.25,
+  "high": 46.42,
+  "close": 43.28,
+  "change": -2.88,
+  "volume_shares": 19090060.0,
+  "turnover": 846648937.0,
+  "transactions": 12356.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

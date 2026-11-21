@@ -1,0 +1,62 @@
+{
+  "code": "00406A",
+  "name": "主動中信台灣收益",
+  "frequency": "季配",
+  "distributions": [
+    {
+      "code": "00406A",
+      "name": "主動中信台灣收益",
+      "ex_date": "2026-12-02",
+      "record_date": "2026-12-08",
+      "pay_date": "2026-12-29",
+      "cash_per_unit": null,
+      "announce_year": 2026
+    },
+    {
+      "code": "00406A",
+      "name": "主動中信台灣收益",
+      "ex_date": "2026-11-03",
+      "record_date": "2026-11-09",
+      "pay_date": "2026-11-27",
+      "cash_per_unit": 0.138,
+      "announce_year": 2026
+    },
+    {
+      "code": "00406A",
+      "name": "主動中信台灣收益",
+      "ex_date": "2026-10-05",
+      "record_date": "2026-10-11",
+      "pay_date": "2026-11-02",
+      "cash_per_unit": 0.138,
+      "announce_year": 2026
+    },
+    {
+      "code": "00406A",
+      "name": "主動中信台灣收益",
+      "ex_date": "2026-09-02",
+      "record_date": "2026-09-08",
+      "pay_date": "2026-09-30",
+      "cash_per_unit": 0.138,
+      "announce_year": 2026
+    },
+    {
+      "code": "00406A",
+      "name": "主動中信台灣收益",
+      "ex_date": "2026-07-31",
+      "record_date": "2026-08-08",
+      "pay_date": "2026-08-26",
+      "cash_per_unit": 0.128,
+      "announce_year": 2026
+    }
+  ],
+  "annual": [
+    {
+      "year": 2026,
+      "cash_per_unit": 0.542,
+      "payments": 4,
+      "frequency": "季配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

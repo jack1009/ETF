@@ -1,0 +1,56 @@
+{
+  "code": "00909",
+  "name": "國泰全球數位支付服務ETF基金",
+  "frequency": "年配",
+  "distributions": [
+    {
+      "code": "00909",
+      "name": "國泰數位支付服務",
+      "ex_date": "2026-04-20",
+      "record_date": "2026-04-26",
+      "pay_date": "2026-05-15",
+      "cash_per_unit": 2.75,
+      "announce_year": 2026
+    },
+    {
+      "code": "00909",
+      "name": "國泰數位支付服務",
+      "ex_date": "2024-04-18",
+      "record_date": "2024-04-26",
+      "pay_date": "2024-05-15",
+      "cash_per_unit": 1.81,
+      "announce_year": 2024
+    },
+    {
+      "code": "00909",
+      "name": "國泰數位支付服務",
+      "ex_date": "2023-04-21",
+      "record_date": "2023-04-29",
+      "pay_date": "2023-05-18",
+      "cash_per_unit": 0.225,
+      "announce_year": 2023
+    }
+  ],
+  "annual": [
+    {
+      "year": 2023,
+      "cash_per_unit": 0.225,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 1.81,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 2.75,
+      "payments": 1,
+      "frequency": "年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

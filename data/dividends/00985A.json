@@ -1,0 +1,26 @@
+{
+  "code": "00985A",
+  "name": "主動野村台灣50",
+  "frequency": "年配",
+  "distributions": [
+    {
+      "code": "00985A",
+      "name": "主動野村台灣50",
+      "ex_date": "2026-10-19",
+      "record_date": "2026-10-25",
+      "pay_date": "2026-11-13",
+      "cash_per_unit": 2.15,
+      "announce_year": 2026
+    }
+  ],
+  "annual": [
+    {
+      "year": 2026,
+      "cash_per_unit": 2.15,
+      "payments": 1,
+      "frequency": "年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

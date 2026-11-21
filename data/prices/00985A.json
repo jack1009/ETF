@@ -1,0 +1,20 @@
+{
+  "code": "00985A",
+  "name": "主動野村台灣50",
+  "full_name": "野村臺灣增強50主動式ETF證券投資信託基金",
+  "category": "主動股票",
+  "fund_type": "國內成分證券主動式交易所交易基金(股票)",
+  "listed_on": "2025-07-21",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 16.98,
+  "low": 15.94,
+  "high": 17.05,
+  "close": 15.94,
+  "change": -1.12,
+  "volume_shares": 22566139.0,
+  "turnover": 367017836.0,
+  "transactions": 9557.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

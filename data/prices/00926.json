@@ -1,0 +1,20 @@
+{
+  "code": "00926",
+  "name": "凱基全球菁英55",
+  "full_name": "凱基全球菁英55 ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2023-06-02",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 26.66,
+  "low": 26.56,
+  "high": 26.68,
+  "close": 26.64,
+  "change": -0.02,
+  "volume_shares": 666281.0,
+  "turnover": 17742651.0,
+  "transactions": 251.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

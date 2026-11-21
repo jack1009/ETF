@@ -1,0 +1,20 @@
+{
+  "code": "00717",
+  "name": "富邦美國特別股",
+  "full_name": "富邦標普美國特別股ETF證券投資信託基金",
+  "category": "國外股票",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2017-11-29",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 13.7,
+  "low": 13.62,
+  "high": 13.7,
+  "close": 13.64,
+  "change": -0.05,
+  "volume_shares": 155100.0,
+  "turnover": 2115042.0,
+  "transactions": 139.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

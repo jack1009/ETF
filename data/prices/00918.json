@@ -1,0 +1,20 @@
+{
+  "code": "00918",
+  "name": "大華優利高填息30",
+  "full_name": "大華銀台灣優選股利高填息30ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2022-11-24",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 31.41,
+  "low": 30.52,
+  "high": 31.63,
+  "close": 30.6,
+  "change": -0.91,
+  "volume_shares": 34358113.0,
+  "turnover": 1060653471.0,
+  "transactions": 25548.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "00677U",
+  "name": "期富邦VIX",
+  "full_name": "富邦標普500波動率短期期貨ER指數股票型期貨信託基金",
+  "category": "期貨",
+  "fund_type": "指數股票型期貨信託基金",
+  "listed_on": "2016-12-30",
+  "market": "TWSE",
+  "date": null,
+  "open": null,
+  "low": null,
+  "high": null,
+  "close": null,
+  "change": null,
+  "volume_shares": null,
+  "turnover": null,
+  "transactions": null,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

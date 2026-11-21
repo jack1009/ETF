@@ -1,0 +1,20 @@
+{
+  "code": "00936",
+  "name": "台新永續高息中小",
+  "full_name": "台新臺灣永續高息中小型ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2023-11-08",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 18.34,
+  "low": 17.65,
+  "high": 18.42,
+  "close": 17.65,
+  "change": -0.69,
+  "volume_shares": 912252.0,
+  "turnover": 16329407.0,
+  "transactions": 490.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

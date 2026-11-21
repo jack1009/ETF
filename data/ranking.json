@@ -1,0 +1,914 @@
+{
+  "as_of": "2026-11-19",
+  "window": [
+    2023,
+    2024,
+    2025
+  ],
+  "min_listed_years": 8,
+  "listed_before": "2018-11-19",
+  "excluded_listed_within_years": 160,
+  "min_dividend_years": 8,
+  "dividend_years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "excluded_dividend_gap": 98,
+  "formula": "近三個完整年度的平均年配息 ÷ 當日收盤價",
+  "note": "月配、季配已依除息日加總為日曆年配息。當年尚未結束，不納入平均，另列今年已宣布金額。上市未滿或剛好 8 年的 ETF 已排除，只保留上市日早於 2018-11-19 的基金。另外，2019 到 2026 每年都要有現金配息，中間中斷的不列入。此報酬率只反映配息對股價，不含價差。",
+  "generated_at": "2026-11-20T15:59:04+08:00",
+  "universe": 23,
+  "priced": 23,
+  "with_yield": 23,
+  "with_dividend": 23,
+  "median_yield_pct": 4.6603,
+  "sources": {
+    "prices": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+    "catalog": "https://openapi.twse.com.tw/v1/opendata/t187ap47_L",
+    "dividends": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv"
+  },
+  "price_fetched_at": "2026-11-20T15:58:39+08:00",
+  "dividend_fetched_at": "2026-11-20T15:59:03+08:00",
+  "items": [
+    {
+      "code": "00712",
+      "name": "復華富時不動產",
+      "full_name": "復華全球收益ETF傘型證券投資信託基金之復華富時不動產證券化證券投資信託基金",
+      "category": "不動產",
+      "fund_type": "國外成分證券指數股票型基金",
+      "listed_on": "2017-08-21",
+      "date": "2026-11-19",
+      "open": 6.52,
+      "high": 6.53,
+      "low": 6.48,
+      "close": 6.5,
+      "change": -0.07,
+      "volume_shares": 86491410.0,
+      "frequency": "季配",
+      "annual": {
+        "2023": 0.9,
+        "2024": 0.785,
+        "2025": 0.793
+      },
+      "payments": {
+        "2023": 4,
+        "2024": 4,
+        "2025": 4
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 0.826,
+      "yield_pct": 12.7077,
+      "ytd_year": 2026,
+      "ytd_dividend": 0.625,
+      "ytd_payments": 3,
+      "rank": 1
+    },
+    {
+      "code": "0052",
+      "name": "富邦科技",
+      "full_name": "富邦台灣科技指數證券投資信託基金",
+      "category": "國內股票",
+      "fund_type": "國內成分證券指數股票型基金",
+      "listed_on": "2006-09-12",
+      "date": "2026-11-19",
+      "open": 54.15,
+      "high": 54.65,
+      "low": 51.65,
+      "close": 52.0,
+      "change": -2.4,
+      "volume_shares": 34100526.0,
+      "frequency": "年配",
+      "annual": {
+        "2023": 4.0,
+        "2024": 6.43,
+        "2025": 3.23
+      },
+      "payments": {
+        "2023": 1,
+        "2024": 1,
+        "2025": 1
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 4.553333,
+      "yield_pct": 8.7564,
+      "ytd_year": 2026,
+      "ytd_dividend": 1.199,
+      "ytd_payments": 1,
+      "rank": 2
+    },
+    {
+      "code": "0056",
+      "name": "元大高股息",
+      "full_name": "元大台灣高股息證券投資信託基金",
+      "category": "國內股票",
+      "fund_type": "國內成分證券指數股票型基金",
+      "listed_on": "2007-12-26",
+      "date": "2026-11-19",
+      "open": 48.93,
+      "high": 49.18,
+      "low": 47.31,
+      "close": 47.41,
+      "change": -2.07,
+      "volume_shares": 119522239.0,
+      "frequency": "季配",
+      "annual": {
+        "2023": 2.2,
+        "2024": 3.63,
+        "2025": 3.872
+      },
+      "payments": {
+        "2023": 2,
+        "2024": 4,
+        "2025": 4
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 3.234,
+      "yield_pct": 6.8213,
+      "ytd_year": 2026,
+      "ytd_dividend": 4.936,
+      "ytd_payments": 4,
+      "rank": 3
+    },
+    {
+      "code": "00713",
+      "name": "元大台灣高息低波",
+      "full_name": "元大台灣高股息低波動ETF證券投資信託基金",
+      "category": "國內股票",
+      "fund_type": "國內成分證券指數股票型基金",
+      "listed_on": "2017-09-27",
+      "date": "2026-11-19",
+      "open": 61.5,
+      "high": 62.25,
+      "low": 60.75,
+      "close": 60.8,
+      "change": -0.95,
+      "volume_shares": 6186379.0,
+      "frequency": "季配",
+      "annual": {
+        "2023": 3.04,
+        "2024": 5.28,
+        "2025": 4.06
+      },
+      "payments": {
+        "2023": 4,
+        "2024": 4,
+        "2025": 4
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 4.126667,
+      "yield_pct": 6.7873,
+      "ytd_year": 2026,
+      "ytd_dividend": 3.03,
+      "ytd_payments": 3,
+      "rank": 4
+    },
+    {
+      "code": "00733",
+      "name": "富邦臺灣中小",
+      "full_name": "富邦臺灣中小A級動能50 ETF證券投資信託基金",
+      "category": "國內股票",
+      "fund_type": "國內成分證券指數股票型基金",
+      "listed_on": "2018-05-17",
+      "date": "2026-11-19",
+      "open": 53.9,
+      "high": 54.15,
+      "low": 50.3,
+      "close": 50.35,
+      "change": -3.8,
+      "volume_shares": 875984.0,
+      "frequency": "半年配",
+      "annual": {
+        "2023": 1.314,
+        "2024": 6.474,
+        "2025": 1.136
+      },
+      "payments": {
+        "2023": 2,
+        "2024": 2,
+        "2025": 2
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 2.974667,
+      "yield_pct": 5.908,
+      "ytd_year": 2026,
+      "ytd_dividend": 2.065,
+      "ytd_payments": 2,
+      "rank": 5
+    },
+    {
+      "code": "00710B",
+      "name": "復華彭博非投等債",
+      "full_name": "復華全球收益ETF傘型證券投資信託基金之復華1至5年期非投資等級債券證券投資信託基金",
+      "category": "債券",
+      "fund_type": "國外成分證券指數股票型基金",
+      "listed_on": "2017-08-21",
+      "date": "2026-11-19",
+      "open": 19.03,
+      "high": 19.03,
+      "low": 18.98,
+      "close": 19.01,
+      "change": 0.04,
+      "volume_shares": 380623.0,
+      "frequency": "季配",
+      "annual": {
+        "2023": 1.04,
+        "2024": 0.99,
+        "2025": 1.27
+      },
+      "payments": {
+        "2023": 4,
+        "2024": 4,
+        "2025": 4
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 1.1,
+      "yield_pct": 5.7864,
+      "ytd_year": 2026,
+      "ytd_dividend": 1.0,
+      "ytd_payments": 3,
+      "rank": 6
+    },
+    {
+      "code": "00731",
+      "name": "復華富時高息低波",
+      "full_name": "復華富時台灣高股息低波動證券投資信託基金",
+      "category": "國內股票",
+      "fund_type": "國內成分證券指數股票型基金",
+      "listed_on": "2018-04-20",
+      "date": "2026-11-19",
+      "open": 92.45,
+      "high": 93.35,
+      "low": 90.8,
+      "close": 90.85,
+      "change": -2.5,
+      "volume_shares": 339733.0,
+      "frequency": "季配",
+      "annual": {
+        "2023": 2.32,
+        "2024": 10.35,
+        "2025": 2.49
+      },
+      "payments": {
+        "2023": 2,
+        "2024": 4,
+        "2025": 4
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 5.053333,
+      "yield_pct": 5.5623,
+      "ytd_year": 2026,
+      "ytd_dividend": 4.79,
+      "ytd_payments": 4,
+      "rank": 7
+    },
+    {
+      "code": "00730",
+      "name": "富邦臺灣優質高息",
+      "full_name": "富邦道瓊臺灣優質高息30ETF證券投資信託基金",
+      "category": "國內股票",
+      "fund_type": "國內成分證券指數股票型基金",
+      "listed_on": "2018-02-08",
+      "date": "2026-11-19",
+      "open": 26.0,
+      "high": 26.2,
+      "low": 25.02,
+      "close": 25.02,
+      "change": -0.88,
+      "volume_shares": 210412.0,
+      "frequency": "月配",
+      "annual": {
+        "2023": 1.136,
+        "2024": 1.386,
+        "2025": 1.266
+      },
+      "payments": {
+        "2023": 1,
+        "2024": 2,
+        "2025": 12
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 1.262667,
+      "yield_pct": 5.0466,
+      "ytd_year": 2026,
+      "ytd_dividend": 1.21,
+      "ytd_payments": 11,
+      "rank": 8
+    },
+    {
+      "code": "00711B",
+      "name": "復華彭博新興債",
+      "full_name": "復華全球收益ETF傘型證券投資信託基金之復華新興市場10年期以上債券證券投資信託基金",
+      "category": "債券",
+      "fund_type": "國外成分證券指數股票型基金",
+      "listed_on": "2017-08-21",
+      "date": "2026-11-19",
+      "open": 15.39,
+      "high": 15.4,
+      "low": 15.36,
+      "close": 15.36,
+      "change": 0.03,
+      "volume_shares": 106121.0,
+      "frequency": "季配",
+      "annual": {
+        "2023": 0.76,
+        "2024": 0.78,
+        "2025": 0.76
+      },
+      "payments": {
+        "2023": 4,
+        "2024": 4,
+        "2025": 4
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 0.766667,
+      "yield_pct": 4.9913,
+      "ytd_year": 2026,
+      "ytd_dividend": 0.6,
+      "ytd_payments": 3,
+      "rank": 9
+    },
+    {
+      "code": "00690",
+      "name": "兆豐藍籌30",
+      "full_name": "兆豐臺灣藍籌30ETF傘型證券投資信託基金之兆豐臺灣藍籌30 ETF證券投資信託基金",
+      "category": "國內股票",
+      "fund_type": "國內成分證券指數股票型基金",
+      "listed_on": "2017-03-31",
+      "date": "2026-11-19",
+      "open": 63.0,
+      "high": 63.15,
+      "low": 59.15,
+      "close": 59.3,
+      "change": -3.5,
+      "volume_shares": 1000512.0,
+      "frequency": "季配",
+      "annual": {
+        "2023": 2.5,
+        "2024": 3.45,
+        "2025": 2.65
+      },
+      "payments": {
+        "2023": 2,
+        "2024": 4,
+        "2025": 4
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 2.866667,
+      "yield_pct": 4.8342,
+      "ytd_year": 2026,
+      "ytd_dividend": 6.64,
+      "ytd_payments": 4,
+      "rank": 10
+    },
+    {
+      "code": "00701",
+      "name": "國泰股利精選30",
+      "full_name": "國泰低波動ETF傘型證券投資信託基金之臺灣低波動股利精選30證券投資信託基金",
+      "category": "國內股票",
+      "fund_type": "國內成分證券指數股票型基金",
+      "listed_on": "2017-08-17",
+      "date": "2026-11-19",
+      "open": 40.64,
+      "high": 41.36,
+      "low": 40.15,
+      "close": 40.15,
+      "change": -0.61,
+      "volume_shares": 567880.0,
+      "frequency": "半年配",
+      "annual": {
+        "2023": 0.86,
+        "2024": 1.09,
+        "2025": 3.85
+      },
+      "payments": {
+        "2023": 2,
+        "2024": 2,
+        "2025": 2
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 1.933333,
+      "yield_pct": 4.8153,
+      "ytd_year": 2026,
+      "ytd_dividend": 2.3,
+      "ytd_payments": 2,
+      "rank": 11
+    },
+    {
+      "code": "00717",
+      "name": "富邦美國特別股",
+      "full_name": "富邦標普美國特別股ETF證券投資信託基金",
+      "category": "國外股票",
+      "fund_type": "國外成分證券指數股票型基金",
+      "listed_on": "2017-11-29",
+      "date": "2026-11-19",
+      "open": 13.7,
+      "high": 13.7,
+      "low": 13.62,
+      "close": 13.64,
+      "change": -0.05,
+      "volume_shares": 155100.0,
+      "frequency": "季配",
+      "annual": {
+        "2023": 0.63,
+        "2024": 0.665,
+        "2025": 0.612
+      },
+      "payments": {
+        "2023": 4,
+        "2024": 4,
+        "2025": 4
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 0.635667,
+      "yield_pct": 4.6603,
+      "ytd_year": 2026,
+      "ytd_dividend": 0.564,
+      "ytd_payments": 4,
+      "rank": 12
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "full_name": "元大台灣卓越50證券投資信託基金",
+      "category": "國內股票",
+      "fund_type": "國內成分證券指數股票型基金",
+      "listed_on": "2003-06-30",
+      "date": "2026-11-19",
+      "open": 94.05,
+      "high": 94.5,
+      "low": 89.8,
+      "close": 90.2,
+      "change": -3.9,
+      "volume_shares": 468405422.0,
+      "frequency": "半年配",
+      "annual": {
+        "2023": 4.5,
+        "2024": 4.0,
+        "2025": 3.06
+      },
+      "payments": {
+        "2023": 2,
+        "2024": 2,
+        "2025": 2
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 3.853333,
+      "yield_pct": 4.272,
+      "ytd_year": 2026,
+      "ytd_dividend": 1.6,
+      "ytd_payments": 2,
+      "rank": 13
+    },
+    {
+      "code": "00702",
+      "name": "國泰標普低波高息",
+      "full_name": "國泰低波動ETF傘型證券投資信託基金之美國標普500低波動高股息證券投資信託基金",
+      "category": "國外股票",
+      "fund_type": "國外成分證券指數股票型基金",
+      "listed_on": "2017-08-17",
+      "date": "2026-11-19",
+      "open": 25.86,
+      "high": 25.92,
+      "low": 25.86,
+      "close": 25.92,
+      "change": -0.27,
+      "volume_shares": 202162.0,
+      "frequency": "半年配",
+      "annual": {
+        "2023": 0.59,
+        "2024": 0.96,
+        "2025": 1.32
+      },
+      "payments": {
+        "2023": 2,
+        "2024": 2,
+        "2025": 2
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 0.956667,
+      "yield_pct": 3.6908,
+      "ytd_year": 2026,
+      "ytd_dividend": 1.33,
+      "ytd_payments": 2,
+      "rank": 14
+    },
+    {
+      "code": "00728",
+      "name": "第一金工業30",
+      "full_name": "第一金臺灣工業菁英30ETF傘型證券投資信託基金之第一金臺灣工業菁英30 ETF證券投資信託基金",
+      "category": "國內股票",
+      "fund_type": "國內成分證券指數股票型基金",
+      "listed_on": "2018-04-18",
+      "date": "2026-11-19",
+      "open": 52.25,
+      "high": 52.3,
+      "low": 49.34,
+      "close": 49.35,
+      "change": -2.9,
+      "volume_shares": 261598.0,
+      "frequency": "季配",
+      "annual": {
+        "2023": 0.93,
+        "2024": 2.071,
+        "2025": 2.233
+      },
+      "payments": {
+        "2023": 1,
+        "2024": 2,
+        "2025": 4
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 1.744667,
+      "yield_pct": 3.5353,
+      "ytd_year": 2026,
+      "ytd_dividend": 1.95,
+      "ytd_payments": 3,
+      "rank": 15
+    },
+    {
+      "code": "00735",
+      "name": "國泰臺韓科技",
+      "full_name": "國泰趨勢ETF傘型證券投資信託基金之臺韓科技證券投資信託基金",
+      "category": "國外股票",
+      "fund_type": "國外成分證券指數股票型基金",
+      "listed_on": "2018-06-11",
+      "date": "2026-11-19",
+      "open": 82.85,
+      "high": 83.55,
+      "low": 79.5,
+      "close": 80.35,
+      "change": -2.5,
+      "volume_shares": 2906002.0,
+      "frequency": "半年配",
+      "annual": {
+        "2023": 1.52,
+        "2024": 3.83,
+        "2025": 0.42
+      },
+      "payments": {
+        "2023": 2,
+        "2024": 2,
+        "2025": 2
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 1.923333,
+      "yield_pct": 2.3937,
+      "ytd_year": 2026,
+      "ytd_dividend": 4.0,
+      "ytd_payments": 2,
+      "rank": 16
+    },
+    {
+      "code": "0051",
+      "name": "元大中型100",
+      "full_name": "元大台灣中型100證券投資信託基金",
+      "category": "國內股票",
+      "fund_type": "國內成分證券指數股票型基金",
+      "listed_on": "2006-08-31",
+      "date": "2026-11-19",
+      "open": 123.5,
+      "high": 124.0,
+      "low": 117.8,
+      "close": 117.8,
+      "change": -7.05,
+      "volume_shares": 327158.0,
+      "frequency": "年配",
+      "annual": {
+        "2023": 2.5,
+        "2024": 2.46,
+        "2025": 3.0
+      },
+      "payments": {
+        "2023": 1,
+        "2024": 1,
+        "2025": 1
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 2.653333,
+      "yield_pct": 2.2524,
+      "ytd_year": 2026,
+      "ytd_dividend": 4.5,
+      "ytd_payments": 1,
+      "rank": 17
+    },
+    {
+      "code": "00714",
+      "name": "群益道瓊美國地產",
+      "full_name": "群益道瓊美國地產ETF證券投資信託基金",
+      "category": "國外股票",
+      "fund_type": "國外成分證券指數股票型基金",
+      "listed_on": "2017-10-27",
+      "date": "2026-11-19",
+      "open": 22.11,
+      "high": 22.16,
+      "low": 22.08,
+      "close": 22.09,
+      "change": 0.05,
+      "volume_shares": 252875.0,
+      "frequency": "季配",
+      "annual": {
+        "2023": 0.482,
+        "2024": 0.492,
+        "2025": 0.492
+      },
+      "payments": {
+        "2023": 4,
+        "2024": 4,
+        "2025": 4
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 0.488667,
+      "yield_pct": 2.2122,
+      "ytd_year": 2026,
+      "ytd_dividend": 0.492,
+      "ytd_payments": 4,
+      "rank": 18
+    },
+    {
+      "code": "0055",
+      "name": "元大MSCI金融",
+      "full_name": "元大台灣ETF傘型證券投資信託基金之金融證券投資信託基金",
+      "category": "國內股票",
+      "fund_type": "國內成分證券指數股票型基金",
+      "listed_on": "2007-07-16",
+      "date": "2026-11-19",
+      "open": 48.92,
+      "high": 48.92,
+      "low": 45.9,
+      "close": 46.98,
+      "change": -1.3,
+      "volume_shares": 3588473.0,
+      "frequency": "年配",
+      "annual": {
+        "2023": 0.6,
+        "2024": 1.18,
+        "2025": 1.25
+      },
+      "payments": {
+        "2023": 1,
+        "2024": 1,
+        "2025": 1
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 1.01,
+      "yield_pct": 2.1499,
+      "ytd_year": 2026,
+      "ytd_dividend": 2.7,
+      "ytd_payments": 1,
+      "rank": 19
+    },
+    {
+      "code": "00692",
+      "name": "富邦公司治理",
+      "full_name": "富邦臺灣公司治理100證券投資信託基金",
+      "category": "國內股票",
+      "fund_type": "國內成分證券指數股票型基金",
+      "listed_on": "2017-05-17",
+      "date": "2026-11-19",
+      "open": 80.0,
+      "high": 80.55,
+      "low": 76.6,
+      "close": 77.0,
+      "change": -3.0,
+      "volume_shares": 1090795.0,
+      "frequency": "半年配",
+      "annual": {
+        "2023": 1.794,
+        "2024": 1.015,
+        "2025": 1.88
+      },
+      "payments": {
+        "2023": 2,
+        "2024": 2,
+        "2025": 2
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 1.563,
+      "yield_pct": 2.0299,
+      "ytd_year": 2026,
+      "ytd_dividend": 3.641,
+      "ytd_payments": 2,
+      "rank": 20
+    },
+    {
+      "code": "006203",
+      "name": "元大MSCI台灣",
+      "full_name": "元大摩臺證券投資信託基金",
+      "category": "國內股票",
+      "fund_type": "國內成分證券指數股票型基金",
+      "listed_on": "2011-05-12",
+      "date": "2026-11-19",
+      "open": 168.5,
+      "high": 168.5,
+      "low": 162.85,
+      "close": 162.85,
+      "change": -9.25,
+      "volume_shares": 33712.0,
+      "frequency": "半年配",
+      "annual": {
+        "2023": 2.13,
+        "2024": 2.7,
+        "2025": 2.45
+      },
+      "payments": {
+        "2023": 2,
+        "2024": 2,
+        "2025": 2
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 2.426667,
+      "yield_pct": 1.4901,
+      "ytd_year": 2026,
+      "ytd_dividend": 3.05,
+      "ytd_payments": 2,
+      "rank": 21
+    },
+    {
+      "code": "006208",
+      "name": "富邦台50",
+      "full_name": "富邦台灣釆吉50 證券投資信託基金",
+      "category": "國內股票",
+      "fund_type": "國內成分證券指數股票型基金",
+      "listed_on": "2012-07-17",
+      "date": "2026-11-19",
+      "open": 211.65,
+      "high": 212.95,
+      "low": 202.2,
+      "close": 202.65,
+      "change": -9.35,
+      "volume_shares": 8135625.0,
+      "frequency": "半年配",
+      "annual": {
+        "2023": 2.213,
+        "2024": 1.683,
+        "2025": 4.437
+      },
+      "payments": {
+        "2023": 2,
+        "2024": 2,
+        "2025": 2
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 2.777667,
+      "yield_pct": 1.3707,
+      "ytd_year": 2026,
+      "ytd_dividend": 8.63,
+      "ytd_payments": 2,
+      "rank": 22
+    },
+    {
+      "code": "00736",
+      "name": "國泰新興市場",
+      "full_name": "國泰趨勢ETF傘型證券投資信託基金之富時新興市場證券投資信託基金",
+      "category": "國外股票",
+      "fund_type": "國外成分證券指數股票型基金",
+      "listed_on": "2018-06-11",
+      "date": "2026-11-19",
+      "open": 29.45,
+      "high": 29.6,
+      "low": 29.15,
+      "close": 29.15,
+      "change": -0.51,
+      "volume_shares": 184006.0,
+      "frequency": "半年配",
+      "annual": {
+        "2023": 0.32,
+        "2024": 0.23,
+        "2025": 0.47
+      },
+      "payments": {
+        "2023": 2,
+        "2024": 2,
+        "2025": 2
+      },
+      "partial_years": [],
+      "years_used": [
+        2023,
+        2024,
+        2025
+      ],
+      "avg_annual_dividend": 0.34,
+      "yield_pct": 1.1664,
+      "ytd_year": 2026,
+      "ytd_dividend": 0.55,
+      "ytd_payments": 2,
+      "rank": 23
+    }
+  ]
+}

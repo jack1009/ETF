@@ -1,0 +1,20 @@
+{
+  "code": "0061",
+  "name": "元大寶滬深",
+  "full_name": "元大標智滬深300證券投資信託基金",
+  "category": "境外",
+  "fund_type": "連結式證券指數股票型基金",
+  "listed_on": "2009-08-17",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 21.94,
+  "low": 21.83,
+  "high": 22.0,
+  "close": 21.99,
+  "change": 0.07,
+  "volume_shares": 188683.0,
+  "turnover": 4125661.0,
+  "transactions": 102.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "009816",
+  "name": "凱基台灣TOP50",
+  "full_name": "凱基台灣 TOP 50 ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2026-02-03",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 14.07,
+  "low": 13.45,
+  "high": 14.12,
+  "close": 13.5,
+  "change": -0.54,
+  "volume_shares": 296337232.0,
+  "turnover": 4047330886.0,
+  "transactions": 96374.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "00991B",
+  "name": "貝萊德A級公司債",
+  "full_name": "貝萊德iShares安碩10年期以上A級美元公司債ETF證券投資信託基金",
+  "category": "債券",
+  "fund_type": "國外成分證券指數股票型基金",
+  "listed_on": "2026-08-03",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 14.98,
+  "low": 14.97,
+  "high": 15.01,
+  "close": 15.0,
+  "change": 0.07,
+  "volume_shares": 1083447.0,
+  "turnover": 16242873.0,
+  "transactions": 32.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

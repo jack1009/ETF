@@ -1,0 +1,185 @@
+{
+  "code": "00733",
+  "name": "臺灣中小A級動能50 ETF基金",
+  "frequency": "半年配",
+  "distributions": [
+    {
+      "code": "00733",
+      "name": "富邦臺灣中小",
+      "ex_date": "2026-10-19",
+      "record_date": "2026-10-25",
+      "pay_date": "2026-11-12",
+      "cash_per_unit": 1.487,
+      "announce_year": 2026
+    },
+    {
+      "code": "00733",
+      "name": "富邦臺灣中小",
+      "ex_date": "2026-04-20",
+      "record_date": "2026-04-26",
+      "pay_date": "2026-05-15",
+      "cash_per_unit": 0.578,
+      "announce_year": 2026
+    },
+    {
+      "code": "00733",
+      "name": "富邦臺灣中小",
+      "ex_date": "2025-10-20",
+      "record_date": "2025-10-26",
+      "pay_date": "2025-11-13",
+      "cash_per_unit": 1.063,
+      "announce_year": 2025
+    },
+    {
+      "code": "00733",
+      "name": "富邦臺灣中小",
+      "ex_date": "2025-04-23",
+      "record_date": "2025-04-29",
+      "pay_date": "2025-05-19",
+      "cash_per_unit": 0.073,
+      "announce_year": 2025
+    },
+    {
+      "code": "00733",
+      "name": "富邦臺灣中小",
+      "ex_date": "2024-10-17",
+      "record_date": "2024-10-23",
+      "pay_date": "2024-11-11",
+      "cash_per_unit": 1.321,
+      "announce_year": 2024
+    },
+    {
+      "code": "00733",
+      "name": "富邦臺灣中小",
+      "ex_date": "2024-04-18",
+      "record_date": "2024-04-24",
+      "pay_date": "2024-05-15",
+      "cash_per_unit": 5.153,
+      "announce_year": 2024
+    },
+    {
+      "code": "00733",
+      "name": "富邦臺灣中小",
+      "ex_date": "2023-10-19",
+      "record_date": "2023-10-25",
+      "pay_date": "2023-11-14",
+      "cash_per_unit": 1.2,
+      "announce_year": 2023
+    },
+    {
+      "code": "00733",
+      "name": "富邦臺灣中小",
+      "ex_date": "2023-04-21",
+      "record_date": "2023-04-29",
+      "pay_date": "2023-05-18",
+      "cash_per_unit": 0.114,
+      "announce_year": 2023
+    },
+    {
+      "code": "00733",
+      "name": "富邦臺灣中小",
+      "ex_date": "2022-10-19",
+      "record_date": "2022-10-25",
+      "pay_date": "2022-11-21",
+      "cash_per_unit": 0.984,
+      "announce_year": 2022
+    },
+    {
+      "code": "00733",
+      "name": "富邦臺灣中小",
+      "ex_date": "2022-04-20",
+      "record_date": "2022-04-26",
+      "pay_date": "2022-05-24",
+      "cash_per_unit": 0.238,
+      "announce_year": 2022
+    },
+    {
+      "code": "00733",
+      "name": "富邦臺灣中小",
+      "ex_date": "2021-10-19",
+      "record_date": "2021-10-25",
+      "pay_date": "2021-11-19",
+      "cash_per_unit": 2.09,
+      "announce_year": 2021
+    },
+    {
+      "code": "00733",
+      "name": "富邦臺灣中小",
+      "ex_date": "2020-10-21",
+      "record_date": "2020-10-27",
+      "pay_date": "2020-11-23",
+      "cash_per_unit": 0.358,
+      "announce_year": 2020
+    },
+    {
+      "code": "00733",
+      "name": "富邦臺灣中小",
+      "ex_date": "2019-10-22",
+      "record_date": "2019-10-28",
+      "pay_date": "2019-11-28",
+      "cash_per_unit": 0.56,
+      "announce_year": 2019
+    },
+    {
+      "code": "00733",
+      "name": "富邦臺灣中小",
+      "ex_date": "2019-05-02",
+      "record_date": "2019-05-08",
+      "pay_date": "2019-06-05",
+      "cash_per_unit": 0.4,
+      "announce_year": 2019
+    }
+  ],
+  "annual": [
+    {
+      "year": 2019,
+      "cash_per_unit": 0.96,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2020,
+      "cash_per_unit": 0.358,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2021,
+      "cash_per_unit": 2.09,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2022,
+      "cash_per_unit": 1.222,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2023,
+      "cash_per_unit": 1.314,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2024,
+      "cash_per_unit": 6.474,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2025,
+      "cash_per_unit": 1.136,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 2.065,
+      "payments": 2,
+      "frequency": "半年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

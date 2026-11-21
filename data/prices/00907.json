@@ -1,0 +1,20 @@
+{
+  "code": "00907",
+  "name": "永豐優息存股",
+  "full_name": "永豐台灣優選入息存股ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2022-05-24",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 17.5,
+  "low": 17.0,
+  "high": 17.59,
+  "close": 17.03,
+  "change": -0.53,
+  "volume_shares": 2517268.0,
+  "turnover": 43674739.0,
+  "transactions": 523.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

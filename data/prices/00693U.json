@@ -1,0 +1,20 @@
+{
+  "code": "00693U",
+  "name": "期街口S&P黃豆",
+  "full_name": "街口標普高盛黃豆ER指數股票型期貨信託基金",
+  "category": "期貨",
+  "fund_type": "指數股票型期貨信託基金",
+  "listed_on": "2017-04-25",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 22.03,
+  "low": 21.94,
+  "high": 22.08,
+  "close": 21.94,
+  "change": -0.25,
+  "volume_shares": 1224932.0,
+  "turnover": 26976136.0,
+  "transactions": 153.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

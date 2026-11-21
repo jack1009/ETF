@@ -1,0 +1,41 @@
+{
+  "code": "00951",
+  "name": "台新日本半導體ETF",
+  "frequency": "年配",
+  "distributions": [
+    {
+      "code": "00951",
+      "name": "台新日本半導體",
+      "ex_date": "2026-11-16",
+      "record_date": "2026-11-22",
+      "pay_date": "2026-12-04",
+      "cash_per_unit": 2.0,
+      "announce_year": 2026
+    },
+    {
+      "code": "00951",
+      "name": "台新日本半導體",
+      "ex_date": "2025-11-17",
+      "record_date": "2025-11-23",
+      "pay_date": "2025-12-05",
+      "cash_per_unit": 0.16,
+      "announce_year": 2025
+    }
+  ],
+  "annual": [
+    {
+      "year": 2025,
+      "cash_per_unit": 0.16,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 2.0,
+      "payments": 1,
+      "frequency": "年配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}

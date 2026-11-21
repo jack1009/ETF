@@ -1,0 +1,20 @@
+{
+  "code": "00946",
+  "name": "群益科技高息成長",
+  "full_name": "群益台灣科技高息成長ETF證券投資信託基金",
+  "category": "國內股票",
+  "fund_type": "國內成分證券指數股票型基金",
+  "listed_on": "2024-05-09",
+  "market": "TWSE",
+  "date": "2026-11-19",
+  "open": 13.37,
+  "low": 12.84,
+  "high": 13.43,
+  "close": 12.88,
+  "change": -0.5,
+  "volume_shares": 5349512.0,
+  "turnover": 69834396.0,
+  "transactions": 1201.0,
+  "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+  "fetched_at": "2026-11-20T15:58:39+08:00"
+}

@@ -1,0 +1,176 @@
+{
+  "code": "00962",
+  "name": "台新AI優息動能基金",
+  "frequency": "月配",
+  "distributions": [
+    {
+      "code": "00962",
+      "name": "台新AI優息動能",
+      "ex_date": "2026-11-16",
+      "record_date": "2026-11-22",
+      "pay_date": "2026-12-04",
+      "cash_per_unit": 0.08,
+      "announce_year": 2026
+    },
+    {
+      "code": "00962",
+      "name": "台新 AI 優息動能",
+      "ex_date": "2026-10-16",
+      "record_date": "2026-10-24",
+      "pay_date": "2026-11-06",
+      "cash_per_unit": 0.25,
+      "announce_year": 2026
+    },
+    {
+      "code": "00962",
+      "name": "台新AI優息動能",
+      "ex_date": "2026-09-15",
+      "record_date": "2026-09-21",
+      "pay_date": "2026-10-07",
+      "cash_per_unit": 0.25,
+      "announce_year": 2026
+    },
+    {
+      "code": "00962",
+      "name": "台新AI優息動能",
+      "ex_date": "2026-08-17",
+      "record_date": "2026-08-23",
+      "pay_date": "2026-09-04",
+      "cash_per_unit": 0.16,
+      "announce_year": 2026
+    },
+    {
+      "code": "00962",
+      "name": "台新 AI 優息動能",
+      "ex_date": "2026-07-15",
+      "record_date": "2026-07-21",
+      "pay_date": "2026-08-04",
+      "cash_per_unit": 0.08,
+      "announce_year": 2026
+    },
+    {
+      "code": "00962",
+      "name": "台新AI優息動能",
+      "ex_date": "2026-06-15",
+      "record_date": "2026-06-21",
+      "pay_date": "2026-07-06",
+      "cash_per_unit": 0.08,
+      "announce_year": 2026
+    },
+    {
+      "code": "00962",
+      "name": "台新AI優息動能",
+      "ex_date": "2026-05-18",
+      "record_date": "2026-05-24",
+      "pay_date": "2026-06-05",
+      "cash_per_unit": 0.05,
+      "announce_year": 2026
+    },
+    {
+      "code": "00962",
+      "name": "台新AI優息動能",
+      "ex_date": "2026-04-17",
+      "record_date": "2026-04-25",
+      "pay_date": "2026-05-08",
+      "cash_per_unit": 0.05,
+      "announce_year": 2026
+    },
+    {
+      "code": "00962",
+      "name": "台新AI優息動能",
+      "ex_date": "2026-03-16",
+      "record_date": "2026-03-22",
+      "pay_date": "2026-04-07",
+      "cash_per_unit": 0.05,
+      "announce_year": 2026
+    },
+    {
+      "code": "00962",
+      "name": "台新AI優息動能",
+      "ex_date": "2026-02-25",
+      "record_date": "2026-03-03",
+      "pay_date": "2026-03-18",
+      "cash_per_unit": 0.03,
+      "announce_year": 2026
+    },
+    {
+      "code": "00962",
+      "name": "台新AI優息動能",
+      "ex_date": "2026-01-16",
+      "record_date": "2026-01-24",
+      "pay_date": "2026-02-05",
+      "cash_per_unit": 0.03,
+      "announce_year": 2026
+    },
+    {
+      "code": "00962",
+      "name": "台新AI優息動能",
+      "ex_date": "2025-12-15",
+      "record_date": "2025-12-21",
+      "pay_date": "2026-01-06",
+      "cash_per_unit": 0.025,
+      "announce_year": 2025
+    },
+    {
+      "code": "00962",
+      "name": "台新AI優息動能",
+      "ex_date": "2025-11-17",
+      "record_date": "2025-11-23",
+      "pay_date": "2025-12-05",
+      "cash_per_unit": 0.025,
+      "announce_year": 2025
+    },
+    {
+      "code": "00962",
+      "name": "台新AI優息動能",
+      "ex_date": "2025-10-17",
+      "record_date": "2025-10-25",
+      "pay_date": "2025-11-07",
+      "cash_per_unit": 0.025,
+      "announce_year": 2025
+    },
+    {
+      "code": "00962",
+      "name": "台新AI優息動能",
+      "ex_date": "2025-09-16",
+      "record_date": "2025-09-22",
+      "pay_date": "2025-10-08",
+      "cash_per_unit": 0.025,
+      "announce_year": 2025
+    },
+    {
+      "code": "00962",
+      "name": "台新AI優息動能",
+      "ex_date": "2025-08-15",
+      "record_date": "2025-08-23",
+      "pay_date": "2025-09-04",
+      "cash_per_unit": 0.025,
+      "announce_year": 2025
+    },
+    {
+      "code": "00962",
+      "name": "台新AI優息動能",
+      "ex_date": "2025-07-15",
+      "record_date": "2025-07-21",
+      "pay_date": "2025-08-04",
+      "cash_per_unit": 0.025,
+      "announce_year": 2025
+    }
+  ],
+  "annual": [
+    {
+      "year": 2025,
+      "cash_per_unit": 0.15,
+      "payments": 6,
+      "frequency": "雙月配"
+    },
+    {
+      "year": 2026,
+      "cash_per_unit": 1.11,
+      "payments": 11,
+      "frequency": "月配"
+    }
+  ],
+  "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
+  "fetched_at": "2026-11-20T15:59:03+08:00"
+}
