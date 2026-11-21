@@ -290,9 +290,42 @@
       "pay_date": "2019-02-19",
       "cash_per_unit": 0.17,
       "announce_year": 2019
+    },
+    {
+      "code": "00714",
+      "name": "群益道瓊美國地產",
+      "ex_date": "2018-10-16",
+      "record_date": "2018-10-22",
+      "pay_date": "2018-11-12",
+      "cash_per_unit": 0.2,
+      "announce_year": 2018
+    },
+    {
+      "code": "00714",
+      "name": "群益道瓊美國地產",
+      "ex_date": "2018-07-17",
+      "record_date": "2018-07-23",
+      "pay_date": "2018-08-13",
+      "cash_per_unit": 0.209,
+      "announce_year": 2018
+    },
+    {
+      "code": "00714",
+      "name": "群益道瓊美國地產",
+      "ex_date": "2018-04-19",
+      "record_date": "2018-04-25",
+      "pay_date": "2018-05-17",
+      "cash_per_unit": 0.23,
+      "announce_year": 2018
     }
   ],
   "annual": [
+    {
+      "year": 2018,
+      "cash_per_unit": 0.639,
+      "payments": 3,
+      "frequency": "不定期"
+    },
     {
       "year": 2019,
       "cash_per_unit": 0.555,
@@ -343,5 +376,5 @@
     }
   ],
   "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
-  "fetched_at": "2026-11-20T15:59:03+08:00"
+  "fetched_at": "2026-11-21T10:21:00+08:00"
 }

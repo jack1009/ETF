@@ -74,9 +74,114 @@
       "pay_date": "2019-06-05",
       "cash_per_unit": 1.047,
       "announce_year": 2019
+    },
+    {
+      "code": "0052",
+      "name": "富邦科技",
+      "ex_date": "2018-05-03",
+      "record_date": "2018-05-09",
+      "pay_date": "2018-06-06",
+      "cash_per_unit": 1.72,
+      "announce_year": 2018
+    },
+    {
+      "code": "0052",
+      "name": "富邦科技",
+      "ex_date": "2017-05-03",
+      "record_date": "2017-05-09",
+      "pay_date": "2017-06-08",
+      "cash_per_unit": 1.41,
+      "announce_year": 2017
+    },
+    {
+      "code": "0052",
+      "name": "FB科技",
+      "ex_date": "2016-05-04",
+      "record_date": "2016-05-10",
+      "pay_date": "2016-06-06",
+      "cash_per_unit": 2.439,
+      "announce_year": 2016
+    },
+    {
+      "code": "0052",
+      "name": "FB科技",
+      "ex_date": "2014-05-06",
+      "record_date": "2014-05-12",
+      "pay_date": "2014-06-05",
+      "cash_per_unit": 2.462,
+      "announce_year": 2014
+    },
+    {
+      "code": "0052",
+      "name": "FB科技",
+      "ex_date": "2012-05-07",
+      "record_date": "2012-05-13",
+      "pay_date": "2012-06-05",
+      "cash_per_unit": 2.374,
+      "announce_year": 2012
+    },
+    {
+      "code": "0052",
+      "name": "FB科技",
+      "ex_date": "2010-05-03",
+      "record_date": "2010-05-09",
+      "pay_date": "2010-06-03",
+      "cash_per_unit": 1.4,
+      "announce_year": 2010
+    },
+    {
+      "code": "0052",
+      "name": "FB科技",
+      "ex_date": "2009-04-28",
+      "record_date": "2009-05-04",
+      "pay_date": "2009-06-05",
+      "cash_per_unit": 1.461,
+      "announce_year": 2009
     }
   ],
   "annual": [
+    {
+      "year": 2009,
+      "cash_per_unit": 1.461,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2010,
+      "cash_per_unit": 1.4,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2012,
+      "cash_per_unit": 2.374,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2014,
+      "cash_per_unit": 2.462,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2016,
+      "cash_per_unit": 2.439,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2017,
+      "cash_per_unit": 1.41,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2018,
+      "cash_per_unit": 1.72,
+      "payments": 1,
+      "frequency": "年配"
+    },
     {
       "year": 2019,
       "cash_per_unit": 1.047,
@@ -127,5 +232,5 @@
     }
   ],
   "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
-  "fetched_at": "2026-11-20T15:59:03+08:00"
+  "fetched_at": "2026-11-21T10:21:00+08:00"
 }

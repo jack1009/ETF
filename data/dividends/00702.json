@@ -146,9 +146,33 @@
       "pay_date": "2019-02-23",
       "cash_per_unit": 0.28,
       "announce_year": 2019
+    },
+    {
+      "code": "00702",
+      "name": "國泰標普低波高息",
+      "ex_date": "2018-07-26",
+      "record_date": "2018-08-03",
+      "pay_date": "2018-08-17",
+      "cash_per_unit": 0.3,
+      "announce_year": 2018
+    },
+    {
+      "code": "00702",
+      "name": "國泰標普低波高息",
+      "ex_date": "2018-01-25",
+      "record_date": "2018-02-02",
+      "pay_date": "2018-02-23",
+      "cash_per_unit": 0.25,
+      "announce_year": 2018
     }
   ],
   "annual": [
+    {
+      "year": 2018,
+      "cash_per_unit": 0.55,
+      "payments": 2,
+      "frequency": "半年配"
+    },
     {
       "year": 2019,
       "cash_per_unit": 0.73,
@@ -199,5 +223,5 @@
     }
   ],
   "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
-  "fetched_at": "2026-11-20T15:59:03+08:00"
+  "fetched_at": "2026-11-21T10:21:00+08:00"
 }

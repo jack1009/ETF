@@ -65,9 +65,114 @@
       "pay_date": "2019-11-27",
       "cash_per_unit": 1.52,
       "announce_year": 2019
+    },
+    {
+      "code": "006204",
+      "name": "永豐臺灣加權",
+      "ex_date": "2018-10-30",
+      "record_date": "2018-11-05",
+      "pay_date": "2018-11-20",
+      "cash_per_unit": 1.94,
+      "announce_year": 2018
+    },
+    {
+      "code": "006204",
+      "name": "永豐臺灣加權",
+      "ex_date": "2017-10-31",
+      "record_date": "2017-11-06",
+      "pay_date": "2017-11-21",
+      "cash_per_unit": 1.7,
+      "announce_year": 2017
+    },
+    {
+      "code": "006204",
+      "name": "永豐臺灣加權",
+      "ex_date": "2016-10-27",
+      "record_date": "2016-11-04",
+      "pay_date": "2016-11-21",
+      "cash_per_unit": 1.58,
+      "announce_year": 2016
+    },
+    {
+      "code": "006204",
+      "name": "豐臺灣",
+      "ex_date": "2015-10-27",
+      "record_date": "2015-11-02",
+      "pay_date": "2015-11-23",
+      "cash_per_unit": 1.55,
+      "announce_year": 2015
+    },
+    {
+      "code": "006204",
+      "name": "豐臺灣",
+      "ex_date": "2014-10-24",
+      "record_date": "2014-11-01",
+      "pay_date": "2014-11-21",
+      "cash_per_unit": 0.72,
+      "announce_year": 2014
+    },
+    {
+      "code": "006204",
+      "name": "豐臺灣",
+      "ex_date": "2013-10-25",
+      "record_date": "2013-11-02",
+      "pay_date": "2013-11-22",
+      "cash_per_unit": 0.9,
+      "announce_year": 2013
+    },
+    {
+      "code": "006204",
+      "name": "豐臺灣",
+      "ex_date": "2012-10-26",
+      "record_date": "2012-11-03",
+      "pay_date": "2012-11-23",
+      "cash_per_unit": 1.21,
+      "announce_year": 2012
     }
   ],
   "annual": [
+    {
+      "year": 2012,
+      "cash_per_unit": 1.21,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2013,
+      "cash_per_unit": 0.9,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2014,
+      "cash_per_unit": 0.72,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2015,
+      "cash_per_unit": 1.55,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2016,
+      "cash_per_unit": 1.58,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2017,
+      "cash_per_unit": 1.7,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2018,
+      "cash_per_unit": 1.94,
+      "payments": 1,
+      "frequency": "年配"
+    },
     {
       "year": 2019,
       "cash_per_unit": 1.52,
@@ -112,5 +217,5 @@
     }
   ],
   "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
-  "fetched_at": "2026-11-20T15:59:03+08:00"
+  "fetched_at": "2026-11-21T10:21:00+08:00"
 }

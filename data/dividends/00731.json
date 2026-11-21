@@ -164,9 +164,24 @@
       "pay_date": "2019-12-23",
       "cash_per_unit": 2.266,
       "announce_year": 2019
+    },
+    {
+      "code": "00731",
+      "name": "FH富時高息低波",
+      "ex_date": "2018-12-21",
+      "record_date": "2018-12-27",
+      "pay_date": "2019-01-19",
+      "cash_per_unit": 2.492,
+      "announce_year": 2018
     }
   ],
   "annual": [
+    {
+      "year": 2018,
+      "cash_per_unit": 2.492,
+      "payments": 1,
+      "frequency": "年配"
+    },
     {
       "year": 2019,
       "cash_per_unit": 2.266,
@@ -217,5 +232,5 @@
     }
   ],
   "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
-  "fetched_at": "2026-11-20T15:59:03+08:00"
+  "fetched_at": "2026-11-21T10:21:00+08:00"
 }

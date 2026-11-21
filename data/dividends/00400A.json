@@ -6,6 +6,15 @@
     {
       "code": "00400A",
       "name": "主動國泰動能高息",
+      "ex_date": "2026-12-08",
+      "record_date": "2026-12-14",
+      "pay_date": "2027-01-05",
+      "cash_per_unit": null,
+      "announce_year": 2026
+    },
+    {
+      "code": "00400A",
+      "name": "主動國泰動能高息",
       "ex_date": "2026-11-06",
       "record_date": "2026-11-14",
       "pay_date": "2026-12-02",
@@ -58,5 +67,5 @@
     }
   ],
   "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
-  "fetched_at": "2026-11-20T15:59:03+08:00"
+  "fetched_at": "2026-11-21T10:21:00+08:00"
 }

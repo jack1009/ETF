@@ -164,9 +164,144 @@
       "pay_date": "2019-11-26",
       "cash_per_unit": 1.8,
       "announce_year": 2019
+    },
+    {
+      "code": "0056",
+      "name": "元大高股息",
+      "ex_date": "2018-10-23",
+      "record_date": "2018-10-29",
+      "pay_date": "2018-11-27",
+      "cash_per_unit": 1.45,
+      "announce_year": 2018
+    },
+    {
+      "code": "0056",
+      "name": "元大高股息",
+      "ex_date": "2017-10-30",
+      "record_date": "2017-11-05",
+      "pay_date": "2017-12-04",
+      "cash_per_unit": 0.95,
+      "announce_year": 2017
+    },
+    {
+      "code": "0056",
+      "name": "元大高股息",
+      "ex_date": "2016-10-26",
+      "record_date": "2016-11-01",
+      "pay_date": "2016-11-28",
+      "cash_per_unit": 1.3,
+      "announce_year": 2016
+    },
+    {
+      "code": "0056",
+      "name": "高股息",
+      "ex_date": "2015-10-26",
+      "record_date": "2015-11-01",
+      "pay_date": "2015-11-26",
+      "cash_per_unit": 1.0,
+      "announce_year": 2015
+    },
+    {
+      "code": "0056",
+      "name": "高股息",
+      "ex_date": "2014-10-24",
+      "record_date": "2014-11-01",
+      "pay_date": "2014-11-27",
+      "cash_per_unit": 1.0,
+      "announce_year": 2014
+    },
+    {
+      "code": "0056",
+      "name": "高股息",
+      "ex_date": "2013-10-24",
+      "record_date": "2013-10-30",
+      "pay_date": "2013-11-27",
+      "cash_per_unit": 0.85,
+      "announce_year": 2013
+    },
+    {
+      "code": "0056",
+      "name": "高股息",
+      "ex_date": "2012-10-24",
+      "record_date": "2012-10-30",
+      "pay_date": "2012-11-27",
+      "cash_per_unit": 1.3,
+      "announce_year": 2012
+    },
+    {
+      "code": "0056",
+      "name": "高股息",
+      "ex_date": "2011-10-26",
+      "record_date": "2011-11-01",
+      "pay_date": "2011-11-29",
+      "cash_per_unit": 2.2,
+      "announce_year": 2011
+    },
+    {
+      "code": "0056",
+      "name": "高股息",
+      "ex_date": "2009-10-23",
+      "record_date": "2009-10-31",
+      "pay_date": "2009-11-26",
+      "cash_per_unit": 2.0,
+      "announce_year": 2009
     }
   ],
   "annual": [
+    {
+      "year": 2009,
+      "cash_per_unit": 2.0,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2011,
+      "cash_per_unit": 2.2,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2012,
+      "cash_per_unit": 1.3,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2013,
+      "cash_per_unit": 0.85,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2014,
+      "cash_per_unit": 1.0,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2015,
+      "cash_per_unit": 1.0,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2016,
+      "cash_per_unit": 1.3,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2017,
+      "cash_per_unit": 0.95,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2018,
+      "cash_per_unit": 1.45,
+      "payments": 1,
+      "frequency": "年配"
+    },
     {
       "year": 2019,
       "cash_per_unit": 1.8,
@@ -217,5 +352,5 @@
     }
   ],
   "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
-  "fetched_at": "2026-11-20T15:59:03+08:00"
+  "fetched_at": "2026-11-21T10:21:00+08:00"
 }

@@ -1,9 +1,26 @@
 {
   "code": "008201",
   "name": "BP上證50",
-  "frequency": null,
-  "distributions": [],
-  "annual": [],
+  "frequency": "年配",
+  "distributions": [
+    {
+      "code": "008201",
+      "name": "上證50",
+      "ex_date": "2017-12-28",
+      "record_date": "2018-01-03",
+      "pay_date": "2018-01-26",
+      "cash_per_unit": 0.961,
+      "announce_year": 2017
+    }
+  ],
+  "annual": [
+    {
+      "year": 2017,
+      "cash_per_unit": 0.961,
+      "payments": 1,
+      "frequency": "年配"
+    }
+  ],
   "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
-  "fetched_at": "2026-11-20T15:59:03+08:00"
+  "fetched_at": "2026-11-21T10:21:00+08:00"
 }

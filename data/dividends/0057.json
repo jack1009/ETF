@@ -1,9 +1,26 @@
 {
   "code": "0057",
   "name": "富邦摩台",
-  "frequency": null,
-  "distributions": [],
-  "annual": [],
+  "frequency": "年配",
+  "distributions": [
+    {
+      "code": "0057",
+      "name": "FB摩台",
+      "ex_date": "2016-08-02",
+      "record_date": "2016-08-08",
+      "pay_date": "2016-09-01",
+      "cash_per_unit": 1.685,
+      "announce_year": 2016
+    }
+  ],
+  "annual": [
+    {
+      "year": 2016,
+      "cash_per_unit": 1.685,
+      "payments": 1,
+      "frequency": "年配"
+    }
+  ],
   "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
-  "fetched_at": "2026-11-20T15:59:03+08:00"
+  "fetched_at": "2026-11-21T10:21:00+08:00"
 }

@@ -146,9 +146,237 @@
       "pay_date": "2019-03-08",
       "cash_per_unit": 2.3,
       "announce_year": 2019
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2018-07-23",
+      "record_date": "2018-07-29",
+      "pay_date": "2018-08-27",
+      "cash_per_unit": 0.7,
+      "announce_year": 2018
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2018-01-29",
+      "record_date": "2018-02-04",
+      "pay_date": "2018-03-13",
+      "cash_per_unit": 2.2,
+      "announce_year": 2018
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2017-07-31",
+      "record_date": "2017-08-06",
+      "pay_date": "2017-08-31",
+      "cash_per_unit": 0.7,
+      "announce_year": 2017
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2017-02-08",
+      "record_date": "2017-02-14",
+      "pay_date": "2017-03-14",
+      "cash_per_unit": 1.7,
+      "announce_year": 2017
+    },
+    {
+      "code": "0050",
+      "name": "元大台灣50",
+      "ex_date": "2016-07-28",
+      "record_date": "2016-08-03",
+      "pay_date": "2016-08-30",
+      "cash_per_unit": 0.85,
+      "announce_year": 2016
+    },
+    {
+      "code": "0050",
+      "name": "台灣50",
+      "ex_date": "2015-10-26",
+      "record_date": "2015-11-01",
+      "pay_date": "2015-11-26",
+      "cash_per_unit": 2.0,
+      "announce_year": 2015
+    },
+    {
+      "code": "0050",
+      "name": "台灣50",
+      "ex_date": "2014-10-24",
+      "record_date": "2014-11-01",
+      "pay_date": "2014-11-27",
+      "cash_per_unit": 1.55,
+      "announce_year": 2014
+    },
+    {
+      "code": "0050",
+      "name": "台灣50",
+      "ex_date": "2013-10-24",
+      "record_date": "2013-10-30",
+      "pay_date": "2013-11-27",
+      "cash_per_unit": 1.35,
+      "announce_year": 2013
+    },
+    {
+      "code": "0050",
+      "name": "台灣50",
+      "ex_date": "2012-10-24",
+      "record_date": "2012-10-30",
+      "pay_date": "2012-11-27",
+      "cash_per_unit": 1.85,
+      "announce_year": 2012
+    },
+    {
+      "code": "0050",
+      "name": "台灣50",
+      "ex_date": "2011-10-26",
+      "record_date": "2011-11-01",
+      "pay_date": "2011-11-29",
+      "cash_per_unit": 1.95,
+      "announce_year": 2011
+    },
+    {
+      "code": "0050",
+      "name": "台灣50",
+      "ex_date": "2010-10-25",
+      "record_date": "2010-10-31",
+      "pay_date": "2010-11-26",
+      "cash_per_unit": 2.2,
+      "announce_year": 2010
+    },
+    {
+      "code": "0050",
+      "name": "台灣50",
+      "ex_date": "2009-10-23",
+      "record_date": "2009-10-31",
+      "pay_date": "2009-11-26",
+      "cash_per_unit": 1.0,
+      "announce_year": 2009
+    },
+    {
+      "code": "0050",
+      "name": "台灣50",
+      "ex_date": "2008-10-24",
+      "record_date": "2008-11-01",
+      "pay_date": "2008-12-03",
+      "cash_per_unit": 2.0,
+      "announce_year": 2008
+    },
+    {
+      "code": "0050",
+      "name": "台灣50",
+      "ex_date": "2007-10-24",
+      "record_date": "2007-10-30",
+      "pay_date": "2007-12-03",
+      "cash_per_unit": 2.5,
+      "announce_year": 2007
+    },
+    {
+      "code": "0050",
+      "name": "台灣50",
+      "ex_date": "2006-10-26",
+      "record_date": "2006-11-01",
+      "pay_date": "2006-12-01",
+      "cash_per_unit": 4.0,
+      "announce_year": 2006
+    },
+    {
+      "code": "0050",
+      "name": "台灣50",
+      "ex_date": "2005-05-19",
+      "record_date": "2005-05-27",
+      "pay_date": "2005-06-13",
+      "cash_per_unit": 1.85,
+      "announce_year": 2005
     }
   ],
   "annual": [
+    {
+      "year": 2005,
+      "cash_per_unit": 1.85,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2006,
+      "cash_per_unit": 4.0,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2007,
+      "cash_per_unit": 2.5,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2008,
+      "cash_per_unit": 2.0,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2009,
+      "cash_per_unit": 1.0,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2010,
+      "cash_per_unit": 2.2,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2011,
+      "cash_per_unit": 1.95,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2012,
+      "cash_per_unit": 1.85,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2013,
+      "cash_per_unit": 1.35,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2014,
+      "cash_per_unit": 1.55,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2015,
+      "cash_per_unit": 2.0,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2016,
+      "cash_per_unit": 0.85,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2017,
+      "cash_per_unit": 2.4,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2018,
+      "cash_per_unit": 2.9,
+      "payments": 2,
+      "frequency": "半年配"
+    },
     {
       "year": 2019,
       "cash_per_unit": 3.0,
@@ -199,5 +427,5 @@
     }
   ],
   "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
-  "fetched_at": "2026-11-20T15:59:03+08:00"
+  "fetched_at": "2026-11-21T10:21:00+08:00"
 }

@@ -1,9 +1,170 @@
 {
   "code": "0080",
   "name": "恒中國",
-  "frequency": null,
-  "distributions": [],
-  "annual": [],
+  "frequency": "半年配",
+  "distributions": [
+    {
+      "code": "0080",
+      "name": "恒中國",
+      "ex_date": "2015-12-10",
+      "record_date": "2015-12-14",
+      "pay_date": "2016-01-04",
+      "cash_per_unit": 5.3833,
+      "announce_year": 2015
+    },
+    {
+      "code": "0080",
+      "name": "恒中國",
+      "ex_date": "2015-06-26",
+      "record_date": "2015-06-30",
+      "pay_date": "2015-07-31",
+      "cash_per_unit": 7.308,
+      "announce_year": 2015
+    },
+    {
+      "code": "0080",
+      "name": "恒中國",
+      "ex_date": "2014-12-12",
+      "record_date": "2014-12-16",
+      "pay_date": "2015-01-02",
+      "cash_per_unit": 6.147,
+      "announce_year": 2015
+    },
+    {
+      "code": "0080",
+      "name": "恒中國",
+      "ex_date": "2014-06-26",
+      "record_date": "2014-06-30",
+      "pay_date": "2014-07-23",
+      "cash_per_unit": 5.7615,
+      "announce_year": 2014
+    },
+    {
+      "code": "0080",
+      "name": "恒中國",
+      "ex_date": "2013-12-13",
+      "record_date": "2013-12-17",
+      "pay_date": "2014-01-02",
+      "cash_per_unit": 4.8768,
+      "announce_year": 2014
+    },
+    {
+      "code": "0080",
+      "name": "恒中國",
+      "ex_date": "2013-06-27",
+      "record_date": "2013-07-01",
+      "pay_date": "2013-07-22",
+      "cash_per_unit": 4.9738,
+      "announce_year": 2013
+    },
+    {
+      "code": "0080",
+      "name": "恒中國",
+      "ex_date": "2012-12-14",
+      "record_date": "2012-12-18",
+      "pay_date": "2013-01-02",
+      "cash_per_unit": 5.208,
+      "announce_year": 2013
+    },
+    {
+      "code": "0080",
+      "name": "恒中國",
+      "ex_date": "2012-07-02",
+      "record_date": "2012-07-04",
+      "pay_date": "2012-07-20",
+      "cash_per_unit": 4.9946,
+      "announce_year": 2012
+    },
+    {
+      "code": "0080",
+      "name": "恒中國",
+      "ex_date": "2011-12-16",
+      "record_date": "2011-12-20",
+      "pay_date": "2012-01-03",
+      "cash_per_unit": 3.4776,
+      "announce_year": 2012
+    },
+    {
+      "code": "0080",
+      "name": "恒中國",
+      "ex_date": "2011-07-01",
+      "record_date": "2011-07-05",
+      "pay_date": "2011-07-18",
+      "cash_per_unit": 5.514,
+      "announce_year": 2011
+    },
+    {
+      "code": "0080",
+      "name": "恒中國",
+      "ex_date": "2010-12-17",
+      "record_date": "2010-12-21",
+      "pay_date": "2011-01-03",
+      "cash_per_unit": 2.6684,
+      "announce_year": 2010
+    },
+    {
+      "code": "0080",
+      "name": "恒中國",
+      "ex_date": "2010-06-25",
+      "record_date": "2010-06-29",
+      "pay_date": "2010-07-09",
+      "cash_per_unit": 3.276,
+      "announce_year": 2010
+    },
+    {
+      "code": "0080",
+      "name": "恒中國",
+      "ex_date": "2009-12-18",
+      "record_date": "2009-12-21",
+      "pay_date": "2010-01-04",
+      "cash_per_unit": 0.0,
+      "announce_year": 2009
+    }
+  ],
+  "annual": [
+    {
+      "year": 2009,
+      "cash_per_unit": 0.0,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2010,
+      "cash_per_unit": 5.9444,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2011,
+      "cash_per_unit": 8.9916,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2012,
+      "cash_per_unit": 10.2026,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2013,
+      "cash_per_unit": 9.8506,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2014,
+      "cash_per_unit": 11.9085,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2015,
+      "cash_per_unit": 12.6913,
+      "payments": 2,
+      "frequency": "半年配"
+    }
+  ],
   "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
-  "fetched_at": "2026-11-20T15:59:03+08:00"
+  "fetched_at": "2026-11-21T10:21:00+08:00"
 }

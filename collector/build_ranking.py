@@ -1,16 +1,18 @@
-"""以當日收盤價與近三個完整年度的年配息計算報酬率。"""
+"""以當日收盤價與全部年度配息的常態分配中間 50% 計算報酬率。"""
 
 from __future__ import annotations
 
 import json
 from datetime import date, datetime
-from statistics import median
+from statistics import fmean, median, pstdev
 
 from .util import DATA, DIVIDENDS, PRICES, frequency_label, now_iso, write_json
 
 
 MIN_LISTED_YEARS = 8
 MIN_DIVIDEND_YEARS = 8
+# 標準常態分配第 75 百分位。中間 50% 是 μ ± 這個值 × σ。
+NORMAL_MIDDLE_50_Z = 0.6744897501960817
 
 
 def complete_years(as_of: date) -> list[int]:
@@ -37,6 +39,33 @@ def dividend_years_required(as_of: date) -> list[int]:
     """今年往回數滿指定年數，每一年都要有現金配息。"""
     start = as_of.year - (MIN_DIVIDEND_YEARS - 1)
     return list(range(start, as_of.year + 1))
+
+
+def middle_half_average(pairs: list[tuple[int, float]]) -> dict:
+    """全部年配息視為常態分配，只平均落在中間 50% 區間內的年度。"""
+    cleaned = [(year, round(float(amount), 6)) for year, amount in pairs if amount is not None and float(amount) > 0]
+    if not cleaned:
+        return {"average": None, "low": None, "high": None, "kept_years": []}
+    amounts = [amount for _, amount in cleaned]
+    center = fmean(amounts)
+    if len(cleaned) == 1 or pstdev(amounts) == 0:
+        return {
+            "average": round(center, 6),
+            "low": round(center, 6),
+            "high": round(center, 6),
+            "kept_years": [year for year, _ in cleaned],
+        }
+    sigma = pstdev(amounts)
+    low = center - NORMAL_MIDDLE_50_Z * sigma
+    high = center + NORMAL_MIDDLE_50_Z * sigma
+    kept = [(year, amount) for year, amount in cleaned if low <= amount <= high]
+    average = center if not kept else fmean(amount for _, amount in kept)
+    return {
+        "average": round(average, 6),
+        "low": round(low, 6),
+        "high": round(high, 6),
+        "kept_years": [year for year, _ in kept],
+    }
 
 
 def continuous_dividends(annual: dict, years: list[int]) -> bool:
@@ -90,11 +119,17 @@ def build_items(as_of: date) -> tuple[list[dict], list[int], int, int]:
             elif total > 0:
                 used.append({"year": year, "cash_per_unit": round(total, 6), "payments": payments, "partial": True})
                 partial.append(year)
-        avg = None
+        history = [
+            (year, float(row["cash_per_unit"]))
+            for year, row in sorted(annual.items())
+            if float(row["cash_per_unit"]) > 0
+        ]
+        summary = middle_half_average(history)
+        kept_years = summary["kept_years"]
+        avg = summary["average"]
         yield_pct = None
         close = price.get("close")
-        if used and close not in (None, 0):
-            avg = round(sum(row["cash_per_unit"] for row in used) / len(used), 6)
+        if avg is not None and close not in (None, 0):
             yield_pct = round(avg / close * 100, 4)
         typical = next((row["payments"] for row in reversed(used) if row["payments"] > 0), 0)
         ytd_year = as_of.year
@@ -119,6 +154,10 @@ def build_items(as_of: date) -> tuple[list[dict], list[int], int, int]:
                 "payments": {str(row["year"]): row["payments"] for row in used},
                 "partial_years": partial,
                 "years_used": [row["year"] for row in used],
+                "dividend_years_all": [year for year, _ in history],
+                "dividend_years_kept": kept_years,
+                "avg_interval_low": summary["low"],
+                "avg_interval_high": summary["high"],
                 "avg_annual_dividend": avg,
                 "yield_pct": yield_pct,
                 "ytd_year": ytd_year,
@@ -152,9 +191,10 @@ def save_ranking(as_of: date, price_meta: dict, dividend_meta: dict) -> dict:
         "min_dividend_years": MIN_DIVIDEND_YEARS,
         "dividend_years": required_dividend_years,
         "excluded_dividend_gap": excluded_dividend,
-        "formula": "近三個完整年度的平均年配息 ÷ 當日收盤價",
+        "formula": "全部年度配息的常態分配中間 50% 平均 ÷ 當日收盤價",
         "note": (
-            "月配、季配已依除息日加總為日曆年配息。當年尚未結束，不納入平均，另列今年已宣布金額。"
+            "月配、季配已依除息日加總為年配息。平均年配息取所有有配息的年度，"
+            "以平均數與標準差建立常態分配，只平均落在中間 50% 區間內的年度。"
             f"上市未滿或剛好 {MIN_LISTED_YEARS} 年的 ETF 已排除，只保留上市日早於 {cutoff.isoformat()} 的基金。"
             f"另外，{required_dividend_years[0]} 到 {required_dividend_years[-1]} 每年都要有現金配息，中間中斷的不列入。"
             "此報酬率只反映配息對股價，不含價差。"

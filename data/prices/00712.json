@@ -6,15 +6,15 @@
   "fund_type": "國外成分證券指數股票型基金",
   "listed_on": "2017-08-21",
   "market": "TWSE",
-  "date": "2026-11-19",
-  "open": 6.52,
-  "low": 6.48,
+  "date": "2026-11-20",
+  "open": 6.5,
+  "low": 6.5,
   "high": 6.53,
   "close": 6.5,
-  "change": -0.07,
-  "volume_shares": 86491410.0,
-  "turnover": 562252187.0,
-  "transactions": 9219.0,
+  "change": 0.0,
+  "volume_shares": 61949126.0,
+  "turnover": 403132725.0,
+  "transactions": 7234.0,
   "source": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
-  "fetched_at": "2026-11-20T15:58:39+08:00"
+  "fetched_at": "2026-11-21T10:20:49+08:00"
 }

@@ -281,9 +281,75 @@
       "pay_date": "2019-04-22",
       "cash_per_unit": 0.253,
       "announce_year": 2019
+    },
+    {
+      "code": "00710B",
+      "name": "FH彭博高收益債",
+      "ex_date": "2018-12-27",
+      "record_date": "2019-01-02",
+      "pay_date": "2019-01-24",
+      "cash_per_unit": 0.224,
+      "announce_year": 2018
+    },
+    {
+      "code": "00710B",
+      "name": "FH彭博高收益債",
+      "ex_date": "2018-09-26",
+      "record_date": "2018-10-02",
+      "pay_date": "2018-10-25",
+      "cash_per_unit": 0.382,
+      "announce_year": 2018
+    },
+    {
+      "code": "00710B",
+      "name": "FH彭博高收益債",
+      "ex_date": "2018-06-21",
+      "record_date": "2018-06-27",
+      "pay_date": "2018-07-19",
+      "cash_per_unit": 0.236,
+      "announce_year": 2018
+    },
+    {
+      "code": "00710B",
+      "name": "FH彭博高收益債",
+      "ex_date": "2018-03-22",
+      "record_date": "2018-03-28",
+      "pay_date": "2018-04-24",
+      "cash_per_unit": 0.081,
+      "announce_year": 2018
+    },
+    {
+      "code": "00710B",
+      "name": "FH彭博高收益債",
+      "ex_date": "2018-01-24",
+      "record_date": "2018-01-30",
+      "pay_date": "2018-03-01",
+      "cash_per_unit": 0.042,
+      "announce_year": 2018
+    },
+    {
+      "code": "00710B",
+      "name": "FH彭博高收益債",
+      "ex_date": "2017-10-26",
+      "record_date": "2017-11-01",
+      "pay_date": "2017-11-22",
+      "cash_per_unit": 0.103,
+      "announce_year": 2017
     }
   ],
   "annual": [
+    {
+      "year": 2017,
+      "cash_per_unit": 0.103,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2018,
+      "cash_per_unit": 0.965,
+      "payments": 5,
+      "frequency": "不定期"
+    },
     {
       "year": 2019,
       "cash_per_unit": 1.058,
@@ -334,5 +400,5 @@
     }
   ],
   "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
-  "fetched_at": "2026-11-20T15:59:03+08:00"
+  "fetched_at": "2026-11-21T10:21:00+08:00"
 }

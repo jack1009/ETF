@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from .build_ranking import MIN_DIVIDEND_YEARS, parse_as_of, save_ranking
+from .build_ranking import parse_as_of, save_ranking
 from .fetch_dividends import save_dividends
 from .fetch_prices import load_catalog, load_quotes, save_prices
 from .render_html import render
@@ -13,7 +13,7 @@ def main() -> None:
     quotes = load_quotes()
     price_meta = save_prices(catalog, quotes)
     as_of = parse_as_of(price_meta)
-    dividend_meta = save_dividends(catalog, as_of.year - (MIN_DIVIDEND_YEARS - 1), as_of.year)
+    dividend_meta = save_dividends(catalog, 2003, as_of.year)
     ranking = save_ranking(as_of, price_meta, dividend_meta)
     render(ranking)
     top = next(item for item in ranking["items"] if item["yield_pct"] is not None)

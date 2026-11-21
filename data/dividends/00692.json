@@ -146,9 +146,57 @@
       "pay_date": "2019-08-27",
       "cash_per_unit": 0.256,
       "announce_year": 2019
+    },
+    {
+      "code": "00692",
+      "name": "富邦公司治理",
+      "ex_date": "2018-11-29",
+      "record_date": "2018-12-05",
+      "pay_date": "2018-12-28",
+      "cash_per_unit": 0.743,
+      "announce_year": 2018
+    },
+    {
+      "code": "00692",
+      "name": "富邦公司治理",
+      "ex_date": "2018-07-26",
+      "record_date": "2018-08-03",
+      "pay_date": "2018-08-31",
+      "cash_per_unit": 0.083,
+      "announce_year": 2018
+    },
+    {
+      "code": "00692",
+      "name": "富邦公司治理",
+      "ex_date": "2017-11-30",
+      "record_date": "2017-12-06",
+      "pay_date": "2017-12-29",
+      "cash_per_unit": 1.12,
+      "announce_year": 2017
+    },
+    {
+      "code": "00692",
+      "name": "富邦公司治理",
+      "ex_date": "2017-07-27",
+      "record_date": "2017-08-04",
+      "pay_date": "2017-09-01",
+      "cash_per_unit": 0.021,
+      "announce_year": 2017
     }
   ],
   "annual": [
+    {
+      "year": 2017,
+      "cash_per_unit": 1.141,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2018,
+      "cash_per_unit": 0.826,
+      "payments": 2,
+      "frequency": "半年配"
+    },
     {
       "year": 2019,
       "cash_per_unit": 0.786,
@@ -199,5 +247,5 @@
     }
   ],
   "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
-  "fetched_at": "2026-11-20T15:59:03+08:00"
+  "fetched_at": "2026-11-21T10:21:00+08:00"
 }

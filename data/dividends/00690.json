@@ -164,9 +164,39 @@
       "pay_date": "2019-12-27",
       "cash_per_unit": 1.12,
       "announce_year": 2019
+    },
+    {
+      "code": "00690",
+      "name": "兆豐藍籌30ETF",
+      "ex_date": "2018-11-28",
+      "record_date": "2018-12-04",
+      "pay_date": "2018-12-26",
+      "cash_per_unit": 0.66,
+      "announce_year": 2018
+    },
+    {
+      "code": "00690",
+      "name": "兆豐藍籌30ETF",
+      "ex_date": "2017-11-28",
+      "record_date": "2017-12-04",
+      "pay_date": "2017-12-29",
+      "cash_per_unit": 0.81,
+      "announce_year": 2017
     }
   ],
   "annual": [
+    {
+      "year": 2017,
+      "cash_per_unit": 0.81,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2018,
+      "cash_per_unit": 0.66,
+      "payments": 1,
+      "frequency": "年配"
+    },
     {
       "year": 2019,
       "cash_per_unit": 1.12,
@@ -217,5 +247,5 @@
     }
   ],
   "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
-  "fetched_at": "2026-11-20T15:59:03+08:00"
+  "fetched_at": "2026-11-21T10:21:00+08:00"
 }

@@ -146,9 +146,132 @@
       "pay_date": "2019-08-27",
       "cash_per_unit": 0.661,
       "announce_year": 2019
+    },
+    {
+      "code": "006208",
+      "name": "富邦台50",
+      "ex_date": "2018-11-29",
+      "record_date": "2018-12-05",
+      "pay_date": "2018-12-28",
+      "cash_per_unit": 2.0,
+      "announce_year": 2018
+    },
+    {
+      "code": "006208",
+      "name": "富邦台50",
+      "ex_date": "2018-07-26",
+      "record_date": "2018-08-03",
+      "pay_date": "2018-08-31",
+      "cash_per_unit": 0.65,
+      "announce_year": 2018
+    },
+    {
+      "code": "006208",
+      "name": "富邦台50",
+      "ex_date": "2017-11-30",
+      "record_date": "2017-12-06",
+      "pay_date": "2017-12-29",
+      "cash_per_unit": 1.65,
+      "announce_year": 2017
+    },
+    {
+      "code": "006208",
+      "name": "富邦台50",
+      "ex_date": "2017-07-27",
+      "record_date": "2017-08-04",
+      "pay_date": "2017-09-01",
+      "cash_per_unit": 1.0,
+      "announce_year": 2017
+    },
+    {
+      "code": "006208",
+      "name": "FB台50",
+      "ex_date": "2016-08-02",
+      "record_date": "2016-08-08",
+      "pay_date": "2016-09-01",
+      "cash_per_unit": 0.043,
+      "announce_year": 2016
+    },
+    {
+      "code": "006208",
+      "name": "FB台50",
+      "ex_date": "2015-10-29",
+      "record_date": "2015-11-04",
+      "pay_date": "2015-12-02",
+      "cash_per_unit": 0.845,
+      "announce_year": 2015
+    },
+    {
+      "code": "006208",
+      "name": "FB台50",
+      "ex_date": "2014-10-29",
+      "record_date": "2014-11-04",
+      "pay_date": "2014-12-02",
+      "cash_per_unit": 1.212,
+      "announce_year": 2014
+    },
+    {
+      "code": "006208",
+      "name": "FB台50",
+      "ex_date": "2013-10-30",
+      "record_date": "2013-11-05",
+      "pay_date": "2013-12-02",
+      "cash_per_unit": 0.629,
+      "announce_year": 2013
+    },
+    {
+      "code": "006208",
+      "name": "FB台50",
+      "ex_date": "2012-11-01",
+      "record_date": "2012-11-07",
+      "pay_date": "2012-12-03",
+      "cash_per_unit": 1.844,
+      "announce_year": 2012
     }
   ],
   "annual": [
+    {
+      "year": 2012,
+      "cash_per_unit": 1.844,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2013,
+      "cash_per_unit": 0.629,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2014,
+      "cash_per_unit": 1.212,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2015,
+      "cash_per_unit": 0.845,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2016,
+      "cash_per_unit": 0.043,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2017,
+      "cash_per_unit": 2.65,
+      "payments": 2,
+      "frequency": "半年配"
+    },
+    {
+      "year": 2018,
+      "cash_per_unit": 2.65,
+      "payments": 2,
+      "frequency": "半年配"
+    },
     {
       "year": 2019,
       "cash_per_unit": 1.799,
@@ -199,5 +322,5 @@
     }
   ],
   "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
-  "fetched_at": "2026-11-20T15:59:03+08:00"
+  "fetched_at": "2026-11-21T10:21:00+08:00"
 }

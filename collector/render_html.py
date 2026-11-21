@@ -146,7 +146,7 @@ def render(ranking: dict) -> None:
       <div>
         <p class="kicker">TWSE ETF Yield</p>
         <h1>台灣上市 ETF 配息報酬率</h1>
-        <p class="lede">月配與季配已依除息日加總成年配息。報酬率是近三個完整年度的平均年配息，除以當日收盤價，不含價差。上市未滿或剛好 {ranking["min_listed_years"]} 年的 ETF 不列入。{ranking["dividend_years"][0]} 到 {ranking["dividend_years"][-1]} 必須每年都有配息。</p>
+        <p class="lede">月配與季配已依除息日加總成年配息。報酬率是全部年度配息裡、落在常態分配中間 50% 的年配息平均，除以當日收盤價，不含價差。上市未滿或剛好 {ranking["min_listed_years"]} 年的 ETF 不列入。{ranking["dividend_years"][0]} 到 {ranking["dividend_years"][-1]} 必須每年都有配息。</p>
       </div>
       <p class="asof">行情日<strong>{_esc(ranking["as_of"])}</strong>完整年度 {window_label}</p>
     </header>

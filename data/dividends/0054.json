@@ -29,9 +29,159 @@
       "pay_date": "2019-12-23",
       "cash_per_unit": 0.75,
       "announce_year": 2019
+    },
+    {
+      "code": "0054",
+      "name": "元大台商50",
+      "ex_date": "2018-11-22",
+      "record_date": "2018-11-28",
+      "pay_date": "2018-12-25",
+      "cash_per_unit": 0.75,
+      "announce_year": 2018
+    },
+    {
+      "code": "0054",
+      "name": "元大台商50",
+      "ex_date": "2017-11-23",
+      "record_date": "2017-11-29",
+      "pay_date": "2017-12-27",
+      "cash_per_unit": 0.75,
+      "announce_year": 2017
+    },
+    {
+      "code": "0054",
+      "name": "元大台商50",
+      "ex_date": "2016-11-23",
+      "record_date": "2016-11-29",
+      "pay_date": "2016-12-27",
+      "cash_per_unit": 0.7,
+      "announce_year": 2016
+    },
+    {
+      "code": "0054",
+      "name": "台商50",
+      "ex_date": "2015-11-24",
+      "record_date": "2015-11-30",
+      "pay_date": "2015-12-28",
+      "cash_per_unit": 0.7,
+      "announce_year": 2015
+    },
+    {
+      "code": "0054",
+      "name": "台商50",
+      "ex_date": "2014-11-25",
+      "record_date": "2014-12-01",
+      "pay_date": "2014-12-29",
+      "cash_per_unit": 0.6,
+      "announce_year": 2014
+    },
+    {
+      "code": "0054",
+      "name": "台商50",
+      "ex_date": "2013-11-25",
+      "record_date": "2013-12-01",
+      "pay_date": "2013-12-27",
+      "cash_per_unit": 0.5,
+      "announce_year": 2013
+    },
+    {
+      "code": "0054",
+      "name": "台商50",
+      "ex_date": "2012-11-22",
+      "record_date": "2012-11-28",
+      "pay_date": "2012-12-25",
+      "cash_per_unit": 0.65,
+      "announce_year": 2012
+    },
+    {
+      "code": "0054",
+      "name": "台商50",
+      "ex_date": "2011-11-23",
+      "record_date": "2011-11-29",
+      "pay_date": "2011-12-27",
+      "cash_per_unit": 1.0,
+      "announce_year": 2011
+    },
+    {
+      "code": "0054",
+      "name": "台商50",
+      "ex_date": "2010-11-23",
+      "record_date": "2010-11-29",
+      "pay_date": "2010-12-27",
+      "cash_per_unit": 0.7,
+      "announce_year": 2010
+    },
+    {
+      "code": "0054",
+      "name": "台商50",
+      "ex_date": "2007-11-23",
+      "record_date": "2007-12-01",
+      "pay_date": "2007-12-28",
+      "cash_per_unit": 0.35,
+      "announce_year": 2007
     }
   ],
   "annual": [
+    {
+      "year": 2007,
+      "cash_per_unit": 0.35,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2010,
+      "cash_per_unit": 0.7,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2011,
+      "cash_per_unit": 1.0,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2012,
+      "cash_per_unit": 0.65,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2013,
+      "cash_per_unit": 0.5,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2014,
+      "cash_per_unit": 0.6,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2015,
+      "cash_per_unit": 0.7,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2016,
+      "cash_per_unit": 0.7,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2017,
+      "cash_per_unit": 0.75,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2018,
+      "cash_per_unit": 0.75,
+      "payments": 1,
+      "frequency": "年配"
+    },
     {
       "year": 2019,
       "cash_per_unit": 0.75,
@@ -52,5 +202,5 @@
     }
   ],
   "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
-  "fetched_at": "2026-11-20T15:59:03+08:00"
+  "fetched_at": "2026-11-21T10:21:00+08:00"
 }

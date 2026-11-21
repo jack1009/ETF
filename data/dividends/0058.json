@@ -1,9 +1,41 @@
 {
   "code": "0058",
   "name": "富邦發達",
-  "frequency": null,
-  "distributions": [],
-  "annual": [],
+  "frequency": "年配",
+  "distributions": [
+    {
+      "code": "0058",
+      "name": "FB發達",
+      "ex_date": "2012-05-07",
+      "record_date": "2012-05-13",
+      "pay_date": "2012-06-05",
+      "cash_per_unit": 1.998,
+      "announce_year": 2012
+    },
+    {
+      "code": "0058",
+      "name": "FB發達",
+      "ex_date": "2010-05-03",
+      "record_date": "2010-05-09",
+      "pay_date": "2010-06-03",
+      "cash_per_unit": 2.2,
+      "announce_year": 2010
+    }
+  ],
+  "annual": [
+    {
+      "year": 2010,
+      "cash_per_unit": 2.2,
+      "payments": 1,
+      "frequency": "年配"
+    },
+    {
+      "year": 2012,
+      "cash_per_unit": 1.998,
+      "payments": 1,
+      "frequency": "年配"
+    }
+  ],
   "source": "https://www.twse.com.tw/rwd/zh/ETF/etfDiv",
-  "fetched_at": "2026-11-20T15:59:03+08:00"
+  "fetched_at": "2026-11-21T10:21:00+08:00"
 }
